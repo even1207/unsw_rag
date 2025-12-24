@@ -9,7 +9,11 @@ class Settings(BaseSettings):
     # Format: postgresql://username@localhost:5432/database_name
     # No password needed for local Homebrew PostgreSQL
     postgres_dsn: str = "postgresql://z5241339@localhost:5432/unsw_rag"
-    openai_api_key: str = "REDACTED_API_KEY"
+    openai_api_key: str  # Read from environment variable OPENAI_API_KEY
+
+    class Config:
+        env_file = ".env"
+        env_file_encoding = "utf-8"
 
 
 settings = Settings()
