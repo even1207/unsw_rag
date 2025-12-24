@@ -1,0 +1,16 @@
+# Large data files
+data/processed/rag_chunks.json
+data/cache/parsing_progress.json
+archive/old_data/parsing_progress_multisource_v2.json
+archive/old_data/rag_chunks_multisource_v2.json
+
+# Cache and temporary files
+data/cache/*.json
+*.pyc
+__pycache__/
+.DS_Store
+
+# Environment
+.env
+venv/
+env/
