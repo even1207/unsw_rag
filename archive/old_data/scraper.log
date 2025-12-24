@@ -1,0 +1,1370 @@
+/Users/z5241339/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2025-12-17 11:42:58,889 - INFO - 读取数据文件: engineering_staff_full.json
+2025-12-17 11:42:58,892 - INFO - 共有 649 位教职员工
+2025-12-17 11:42:58,892 - INFO - [1/649] 爬取: Dr Shiva Abdoli
+2025-12-17 11:42:58,964 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shiva-abdoli
+2025-12-17 11:43:00,966 - INFO - [2/649] 爬取: Mr Zubair Abdullah-Vetter
+2025-12-17 11:43:01,023 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zubair-abdullah-vetter
+2025-12-17 11:43:03,028 - INFO - [3/649] 爬取: Professor Elias Aboutanios
+2025-12-17 11:43:03,132 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/elias-aboutanios
+2025-12-17 11:43:05,136 - INFO - [4/649] 爬取: Dr Othman Abu Laban
+2025-12-17 11:43:05,183 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/othman-abu-laban
+2025-12-17 11:43:07,188 - INFO - [5/649] 爬取: Emeritus Professor Ian Acworth
+2025-12-17 11:43:07,325 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ian-acworth
+2025-12-17 11:43:09,331 - INFO - [6/649] 爬取: Dr Vipul Agarwal
+2025-12-17 11:43:09,423 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/vipul-agarwal
+2025-12-17 11:43:11,428 - INFO - [7/649] 爬取: Associate Professor Beena Ahmed
+2025-12-17 11:43:11,543 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/beena-ahmed
+2025-12-17 11:43:13,548 - INFO - [8/649] 爬取: Dr Xiaoyu Ai
+2025-12-17 11:43:13,959 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xiaoyu-ai
+2025-12-17 11:43:15,965 - INFO - [9/649] 爬取: Mrs Sharareh Akbarian
+2025-12-17 11:43:16,031 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sharareh-akbarian
+2025-12-17 11:43:18,036 - INFO - [10/649] 爬取: Dr Amr Al Abed
+2025-12-17 11:43:18,161 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/amr-al-abed
+2025-12-17 11:43:18,161 - INFO - 中间保存进度: 10/649 | 成功: 10, 失败: 0
+2025-12-17 11:43:20,169 - INFO - [11/649] 爬取: Mr Md Shariful Alam
+2025-12-17 11:43:20,226 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/md-shariful-alam
+2025-12-17 11:43:22,231 - INFO - [12/649] 爬取: Mr Karen alavi
+2025-12-17 11:43:22,291 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/karen-alavi
+2025-12-17 11:43:24,296 - INFO - [13/649] 爬取: Dr Hamid Alinejad-Rokny
+2025-12-17 11:43:24,426 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hamid-alinejad-rokny
+2025-12-17 11:43:26,431 - INFO - [14/649] 爬取: Dr Reem Almasri
+2025-12-17 11:43:26,886 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/reem-almasri
+2025-12-17 11:43:28,891 - INFO - [15/649] 爬取: Dr Mohammed Alnahhal
+2025-12-17 11:43:28,971 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohammed-alnahhal
+2025-12-17 11:43:30,976 - INFO - [16/649] 爬取: Scientia Professor Rose Amal
+2025-12-17 11:43:31,313 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rose-amal
+2025-12-17 11:43:33,318 - INFO - [17/649] 爬取: Dr Johannes Aman Pohjola
+2025-12-17 11:43:33,380 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/johannes-aman-pohjola
+2025-12-17 11:43:35,385 - INFO - [18/649] 爬取: Mr Ali Amani Geshnigani
+2025-12-17 11:43:35,441 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ali-amani-geshnigani
+2025-12-17 11:43:37,446 - INFO - [19/649] 爬取: Professor Eliathamby Ambikairajah
+2025-12-17 11:43:37,683 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/eliathamby-ambikairajah
+2025-12-17 11:43:39,688 - INFO - [20/649] 爬取: Associate Professor Martin Andersen
+2025-12-17 11:43:39,872 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/martin-andersen
+2025-12-17 11:43:39,872 - INFO - 中间保存进度: 20/649 | 成功: 20, 失败: 0
+2025-12-17 11:43:41,880 - INFO - [21/649] 爬取: Dr Ayad Anwer
+2025-12-17 11:43:41,957 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ayad-anwer
+2025-12-17 11:43:43,962 - INFO - [22/649] 爬取: Mr Shuang Ao
+2025-12-17 11:43:44,025 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shuang-ao
+2025-12-17 11:43:46,030 - INFO - [23/649] 爬取: Mr Thomas Archbold
+2025-12-17 11:43:46,435 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/thomas-archbold
+2025-12-17 11:43:48,440 - INFO - [24/649] 爬取: Professor Jayashree Arcot
+2025-12-17 11:43:48,555 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jayashree-arcot
+2025-12-17 11:43:50,560 - INFO - [25/649] 爬取: Dr Ulises Aregueta Robles
+2025-12-17 11:43:50,626 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ulises-aregueta-robles
+2025-12-17 11:43:52,628 - INFO - [26/649] 爬取: Dr Reza Argha
+2025-12-17 11:43:52,746 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/reza-argha
+2025-12-17 11:43:54,751 - INFO - [27/649] 爬取: Dr Lucy Armitage
+2025-12-17 11:43:55,162 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lucy-armitage
+2025-12-17 11:43:57,167 - INFO - [28/649] 爬取: Professor Ryan Armstrong
+2025-12-17 11:43:57,307 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ryan-armstrong
+2025-12-17 11:43:59,312 - INFO - [29/649] 爬取: Professor Christoph Arns
+2025-12-17 11:43:59,468 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/christoph-arns
+2025-12-17 11:44:01,473 - INFO - [30/649] 爬取: Dr Annie Gilda Roselin Arockia Baskaran
+2025-12-17 11:44:01,538 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/annie-gilda-roselin-arockia-baskaran
+2025-12-17 11:44:01,538 - INFO - 中间保存进度: 30/649 | 成功: 30, 失败: 0
+2025-12-17 11:44:03,549 - INFO - [31/649] 爬取: Dr Felipe Arrano Vargas
+2025-12-17 11:44:03,617 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/felipe-arrano-vargas
+2025-12-17 11:44:05,622 - INFO - [32/649] 爬取: Professor Seher Ata
+2025-12-17 11:44:05,723 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/seher-ata
+2025-12-17 11:44:07,728 - INFO - [33/649] 爬取: Associate Professor Shaghik Atakaramians
+2025-12-17 11:44:07,851 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shaghik-atakaramians
+2025-12-17 11:44:09,856 - INFO - [34/649] 爬取: Dr Elena Atroshchenko
+2025-12-17 11:44:09,938 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/elena-atroshchenko
+2025-12-17 11:44:11,943 - INFO - [35/649] 爬取: Dr Manuj Awasthi
+2025-12-17 11:44:12,406 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/manuj-awasthi
+2025-12-17 11:44:14,411 - INFO - [36/649] 爬取: Professor Haris Aziz
+2025-12-17 11:44:14,621 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/haris-aziz
+2025-12-17 11:44:16,626 - INFO - [37/649] 爬取: Dr Firoozeh Babayekhorasani
+2025-12-17 11:44:16,689 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/firoozeh-babayekhorasani
+2025-12-17 11:44:18,694 - INFO - [38/649] 爬取: Dr Juan Baena Vargas
+2025-12-17 11:44:19,426 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/juan-baena-vargas
+2025-12-17 11:44:21,431 - INFO - [39/649] 爬取: Dr Michael Bain
+2025-12-17 11:44:21,521 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-bain
+2025-12-17 11:44:23,526 - INFO - [40/649] 爬取: Mr Ali Bakhshi
+2025-12-17 11:44:23,919 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ali-bakhshi
+2025-12-17 11:44:23,919 - INFO - 中间保存进度: 40/649 | 成功: 40, 失败: 0
+2025-12-17 11:44:25,930 - INFO - [41/649] 爬取: Dr Sara Ballouz
+2025-12-17 11:44:26,019 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sara-ballouz
+2025-12-17 11:44:28,024 - INFO - [42/649] 爬取: Professor Jie Bao
+2025-12-17 11:44:28,408 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jie-bao
+2025-12-17 11:44:30,413 - INFO - [43/649] 爬取: Dr Khalegh Barati
+2025-12-17 11:44:30,479 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/khalegh-barati
+2025-12-17 11:44:32,484 - INFO - [44/649] 爬取: Professor Tracie Barber
+2025-12-17 11:44:32,665 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/tracie-barber
+2025-12-17 11:44:34,670 - INFO - [45/649] 爬取: Associate Professor Gustavo Batista
+2025-12-17 11:44:34,787 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gustavo-batista
+2025-12-17 11:44:36,792 - INFO - [46/649] 爬取: Dr Nicholas Bedford
+2025-12-17 11:44:36,915 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nicholas-bedford
+2025-12-17 11:44:38,920 - INFO - [47/649] 爬取: Associate Professor Susann Beier
+2025-12-17 11:44:39,008 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/susann-beier
+2025-12-17 11:44:41,013 - INFO - [48/649] 爬取: Dr Matt Berrington
+2025-12-17 11:44:41,068 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/matt-berrington
+2025-12-17 11:44:43,073 - INFO - [49/649] 爬取: Dr Binayak Bhandari
+2025-12-17 11:44:43,523 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/binayak-bhandari
+2025-12-17 11:44:45,528 - INFO - [50/649] 爬取: Dr Asal Bidarmaghz
+2025-12-17 11:44:45,616 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/asal-bidarmaghz
+2025-12-17 11:44:45,616 - INFO - 中间保存进度: 50/649 | 成功: 50, 失败: 0
+2025-12-17 11:44:47,631 - INFO - [51/649] 爬取: Professor Lynne Bilston
+2025-12-17 11:44:47,844 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lynne-bilston
+2025-12-17 11:44:49,849 - INFO - [52/649] 爬取: Dr Alan Blair
+2025-12-17 11:44:49,934 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/alan-blair
+2025-12-17 11:44:51,939 - INFO - [53/649] 爬取: Dr Valentin Bobrin
+2025-12-17 11:44:52,002 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/valentin-bobrin
+2025-12-17 11:44:54,007 - INFO - [54/649] 爬取: Associate Professor Pietro Borghesani
+2025-12-17 11:44:54,630 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/pietro-borghesani
+2025-12-17 11:44:56,635 - INFO - [55/649] 爬取: Dr Ghislain Bournival
+2025-12-17 11:44:56,724 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ghislain-bournival
+2025-12-17 11:44:58,729 - INFO - [56/649] 爬取: Professor Cyrille Boyer
+2025-12-17 11:44:58,985 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/cyrille-boyer
+2025-12-17 11:45:00,990 - INFO - [57/649] 爬取: Emeritus Professor Mark Bradford
+2025-12-17 11:45:01,342 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mark-bradford
+2025-12-17 11:45:03,347 - INFO - [58/649] 爬取: Dr Matthew Brand
+2025-12-17 11:45:03,424 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/matthew-brand
+2025-12-17 11:45:05,428 - INFO - [59/649] 爬取: Associate Professor Stephen Bremner
+2025-12-17 11:45:05,554 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/stephen-bremner
+2025-12-17 11:45:07,559 - INFO - [60/649] 爬取: Associate Professor Matthew Brodie
+2025-12-17 11:45:07,664 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/matthew-brodie
+2025-12-17 11:45:07,664 - INFO - 中间保存进度: 60/649 | 成功: 60, 失败: 0
+2025-12-17 11:45:09,682 - INFO - [61/649] 爬取: Dr Sonya Brown
+2025-12-17 11:45:09,749 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sonya-brown
+2025-12-17 11:45:11,754 - INFO - [62/649] 爬取: Associate Professor Anna Bruce
+2025-12-17 11:45:11,916 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/anna-bruce
+2025-12-17 11:45:13,921 - INFO - [63/649] 爬取: Dr Erik Buchholz
+2025-12-17 11:45:13,989 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/erik-buchholz
+2025-12-17 11:45:15,994 - INFO - [64/649] 爬取: Associate Professor Patrick Burr
+2025-12-17 11:45:16,093 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/patrick-burr
+2025-12-17 11:45:18,098 - INFO - [65/649] 爬取: Dr Graeme Bushell
+2025-12-17 11:45:18,547 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/graeme-bushell
+2025-12-17 11:45:20,552 - INFO - [66/649] 爬取: Ms Anna Cain
+2025-12-17 11:45:20,994 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/anna-cain
+2025-12-17 11:45:22,997 - INFO - [67/649] 爬取: Dr Jared Campbell
+2025-12-17 11:45:23,643 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jared-campbell
+2025-12-17 11:45:25,646 - INFO - [68/649] 爬取: Mr Deniz Ekin Canbay
+2025-12-17 11:45:25,700 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/deniz-ekin-canbay
+2025-12-17 11:45:27,705 - INFO - [69/649] 爬取: Professor Ismet Canbulat
+2025-12-17 11:45:27,820 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ismet-canbulat
+2025-12-17 11:45:29,822 - INFO - [70/649] 爬取: Dr Xin Cao
+2025-12-17 11:45:29,916 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xin-cao
+2025-12-17 11:45:29,916 - INFO - 中间保存进度: 70/649 | 成功: 70, 失败: 0
+2025-12-17 11:45:31,936 - INFO - [71/649] 爬取: Dr Charlie Cao
+2025-12-17 11:45:32,003 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/charlie-cao
+2025-12-17 11:45:34,008 - INFO - [72/649] 爬取: Professor Robert Care
+2025-12-17 11:45:34,072 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/robert-care
+2025-12-17 11:45:36,077 - INFO - [73/649] 爬取: Mr James Carley
+2025-12-17 11:45:36,755 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/james-carley
+2025-12-17 11:45:38,760 - INFO - [74/649] 爬取: Emeritus Professor David Carmichael
+2025-12-17 11:45:38,947 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/david-carmichael
+2025-12-17 11:45:40,952 - INFO - [75/649] 爬取: Dr German Castro Donoso
+2025-12-17 11:45:41,337 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/german-castro-donoso
+2025-12-17 11:45:43,342 - INFO - [76/649] 爬取: Mr Duncan Chalmers
+2025-12-17 11:45:43,789 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/duncan-chalmers
+2025-12-17 11:45:45,794 - INFO - [77/649] 爬取: Dr Shaun Chan
+2025-12-17 11:45:46,517 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shaun-chan
+2025-12-17 11:45:48,522 - INFO - [78/649] 爬取: Dr Catherine Chan
+2025-12-17 11:45:49,245 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/catherine-chan
+2025-12-17 11:45:51,245 - INFO - [79/649] 爬取: Dr Kok Wai Chan
+2025-12-17 11:45:51,311 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kok-wai-chan
+2025-12-17 11:45:53,316 - INFO - [80/649] 爬取: Dr King Yuk Chan
+2025-12-17 11:45:53,400 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/king-yuk-chan
+2025-12-17 11:45:53,400 - INFO - 中间保存进度: 80/649 | 成功: 80, 失败: 0
+2025-12-17 11:45:55,421 - INFO - [81/649] 爬取: Dr Ronald Ting Tai Chan
+2025-12-17 11:45:55,483 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ronald-ting-tai-chan
+2025-12-17 11:45:57,487 - INFO - [82/649] 爬取: Professor Rona Chandrawati
+2025-12-17 11:45:57,610 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rona-chandrawati
+2025-12-17 11:45:59,615 - INFO - [83/649] 爬取: Associate Professor Shery Chang
+2025-12-17 11:45:59,715 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shery-chang
+2025-12-17 11:46:01,720 - INFO - [84/649] 爬取: Dr Nathan Chang
+2025-12-17 11:46:01,812 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nathan-chang
+2025-12-17 11:46:03,817 - INFO - [85/649] 爬取: Mr Wenkai Chang
+2025-12-17 11:46:04,314 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wenkai-chang
+2025-12-17 11:46:06,319 - INFO - [86/649] 爬取: Dr James Charlesworth
+2025-12-17 11:46:06,379 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/james-charlesworth
+2025-12-17 11:46:08,384 - INFO - [87/649] 爬取: Dr Akshansha Chauhan
+2025-12-17 11:46:08,872 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/akshansha-chauhan
+2025-12-17 11:46:10,877 - INFO - [88/649] 爬取: Dr Guo Chen
+2025-12-17 11:46:10,990 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/guo-chen
+2025-12-17 11:46:12,995 - INFO - [89/649] 爬取: Dr Ran Chen
+2025-12-17 11:46:13,084 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ran-chen
+2025-12-17 11:46:15,089 - INFO - [90/649] 爬取: Mr Jay Chen
+2025-12-17 11:46:15,195 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jay-chen
+2025-12-17 11:46:15,195 - INFO - 中间保存进度: 90/649 | 成功: 90, 失败: 0
+2025-12-17 11:46:17,217 - INFO - [91/649] 爬取: Dr Zhixi Chen
+2025-12-17 11:46:17,320 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhixi-chen
+2025-12-17 11:46:19,325 - INFO - [92/649] 爬取: Dr Siyuan Chen
+2025-12-17 11:46:19,393 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/siyuan-chen
+2025-12-17 11:46:21,398 - INFO - [93/649] 爬取: Dr Xiaojun Chen
+2025-12-17 11:46:21,937 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xiaojun-chen
+2025-12-17 11:46:23,942 - INFO - [94/649] 爬取: Dr Daniel Chen
+2025-12-17 11:46:24,462 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/daniel-chen1
+2025-12-17 11:46:26,467 - INFO - [95/649] 爬取: Dr Chi David Cheng
+2025-12-17 11:46:26,535 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chi--david--cheng
+2025-12-17 11:46:28,535 - INFO - [96/649] 爬取: Associate Professor Chun Tung Chou
+2025-12-17 11:46:28,685 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chun-tung-chou
+2025-12-17 11:46:30,685 - INFO - [97/649] 爬取: Dr Clay (Guoyu) Chu
+2025-12-17 11:46:30,751 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/clay-chu
+2025-12-17 11:46:32,753 - INFO - [98/649] 爬取: Dr Xiaoran (Daisy) Chu
+2025-12-17 11:46:32,811 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xiaoran--daisy--chu
+2025-12-17 11:46:34,816 - INFO - [99/649] 爬取: Dr Alison Ciesla
+2025-12-17 11:46:34,907 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/alison-ciesla
+2025-12-17 11:46:36,912 - INFO - [100/649] 爬取: Professor Stuart Clark
+2025-12-17 11:46:37,021 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/stuart-clark
+2025-12-17 11:46:37,021 - INFO - 中间保存进度: 100/649 | 成功: 100, 失败: 0
+2025-12-17 11:46:39,045 - INFO - [101/649] 爬取: Mr Ian Coghlan
+2025-12-17 11:46:39,128 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ian-coghlan
+2025-12-17 11:46:41,130 - INFO - [102/649] 爬取: Mr Jialin Cong
+2025-12-17 11:46:41,527 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jialin-cong
+2025-12-17 11:46:43,532 - INFO - [103/649] 爬取: Professor Gavin Conibeer
+2025-12-17 11:46:43,757 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gavin-conibeer
+2025-12-17 11:46:45,762 - INFO - [104/649] 爬取: Associate Professor Ron Cox
+2025-12-17 11:46:45,884 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ron-cox
+2025-12-17 11:46:47,889 - INFO - [105/649] 爬取: Associate Professor Julian Cox
+2025-12-17 11:46:47,974 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/julian-cox
+2025-12-17 11:46:49,976 - INFO - [106/649] 爬取: Dr Francisco Cruz Naranjo
+2025-12-17 11:46:50,092 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/francisco-cruz-naranjo
+2025-12-17 11:46:52,097 - INFO - [107/649] 爬取: Ms Xin Cui
+2025-12-17 11:46:52,160 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xin-cui
+2025-12-17 11:46:54,165 - INFO - [108/649] 爬取: Dr Ulrike Dackermann
+2025-12-17 11:46:54,254 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ulrike-dackermann
+2025-12-17 11:46:56,259 - INFO - [109/649] 爬取: Scientia Professor Liming Dai
+2025-12-17 11:46:56,654 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/liming-dai
+2025-12-17 11:46:58,659 - INFO - [110/649] 爬取: Dr Rahman Daiyan
+2025-12-17 11:46:58,754 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rahman-daiyan
+2025-12-17 11:46:58,754 - INFO - 中间保存进度: 110/649 | 成功: 110, 失败: 0
+2025-12-17 11:47:00,780 - INFO - [111/649] 爬取: Associate Professor Andrew Dansie
+2025-12-17 11:47:00,842 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/andrew-dansie
+2025-12-17 11:47:02,847 - INFO - [112/649] 爬取: Dr Ali Darejeh
+2025-12-17 11:47:02,930 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ali-darejeh
+2025-12-17 11:47:04,935 - INFO - [113/649] 爬取: Emeritus Professor Graham Davies
+2025-12-17 11:47:05,373 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/graham-davies
+2025-12-17 11:47:07,378 - INFO - [114/649] 爬取: Associate Professor Steven Davis
+2025-12-17 11:47:07,521 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/steven-davis
+2025-12-17 11:47:09,526 - INFO - [115/649] 爬取: Dr Ivan Miguel De Cachinho Cordeiro
+2025-12-17 11:47:09,975 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ivan-miguel-de-cachinho-cordeiro
+2025-12-17 11:47:11,980 - INFO - [116/649] 爬取: Dr Raveen De Silva
+2025-12-17 11:47:12,361 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/raveen-de-silva
+2025-12-17 11:47:14,366 - INFO - [117/649] 爬取: Dr Charitha de Silva
+2025-12-17 11:47:14,488 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/charitha-de-silva
+2025-12-17 11:47:16,493 - INFO - [118/649] 爬取: Dr Mohammad Deghat
+2025-12-17 11:47:16,585 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohammad-deghat
+2025-12-17 11:47:18,590 - INFO - [119/649] 爬取: Dr Mohammad Dehghanimadvar
+2025-12-17 11:47:19,369 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohammad-dehghanimadvar
+2025-12-17 11:47:21,374 - INFO - [120/649] 爬取: Professor Andrew Dempster
+2025-12-17 11:47:21,689 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/andrew-dempster
+2025-12-17 11:47:21,690 - INFO - 中间保存进度: 120/649 | 成功: 120, 失败: 0
+2025-12-17 11:47:23,717 - INFO - [121/649] 爬取: Dr Fei Deng
+2025-12-17 11:47:23,804 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/fei-deng
+2025-12-17 11:47:25,809 - INFO - [122/649] 爬取: Dr Rong Deng
+2025-12-17 11:47:25,882 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rong-deng
+2025-12-17 11:47:28,046 - INFO - [123/649] 爬取: Associate Professor Oliver Diessel
+2025-12-17 11:47:28,153 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/oliver-diessel
+2025-12-17 11:47:30,157 - INFO - [124/649] 爬取: Professor Vinayak Dixit
+2025-12-17 11:47:30,329 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/vinayak-dixit
+2025-12-17 11:47:32,334 - INFO - [125/649] 爬取: Dr Thanh Nho Do
+2025-12-17 11:47:32,439 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/thanh-nho-do
+2025-12-17 11:47:34,440 - INFO - [126/649] 爬取: Dr Lawrence Doctors
+2025-12-17 11:47:34,549 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lawrence-doctors
+2025-12-17 11:47:36,554 - INFO - [127/649] 爬取: Associate Professor Socrates Dokos
+2025-12-17 11:47:36,748 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/socrates-dokos
+2025-12-17 11:47:38,753 - INFO - [128/649] 爬取: Dr Wenkui Dong
+2025-12-17 11:47:38,839 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wenkui-dong
+2025-12-17 11:47:40,844 - INFO - [129/649] 爬取: Professor Con Doolan
+2025-12-17 11:47:41,091 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/con-doolan
+2025-12-17 11:47:43,096 - INFO - [130/649] 爬取: Dr Kurt Douglas
+2025-12-17 11:47:43,169 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kurt-douglas
+2025-12-17 11:47:43,169 - INFO - 中间保存进度: 130/649 | 成功: 130, 失败: 0
+2025-12-17 11:47:45,199 - INFO - [131/649] 爬取: Dr Zheyuan DU
+2025-12-17 11:47:45,261 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zheyuan-du
+2025-12-17 11:47:47,266 - INFO - [132/649] 爬取: Dr Nard Dumoulin Stuyck
+2025-12-17 11:47:47,348 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nard-dumoulin-stuyck
+2025-12-17 11:47:49,353 - INFO - [133/649] 爬取: Professor Rukmi Dutta
+2025-12-17 11:47:49,469 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rukmi-dutta
+2025-12-17 11:47:51,473 - INFO - [134/649] 爬取: Dr Priya Dwivedi
+2025-12-17 11:47:51,531 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/priya-dwivedi
+2025-12-17 11:47:53,536 - INFO - [135/649] 爬取: Scientia Professor Andrew Dzurak
+2025-12-17 11:47:53,756 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/andrew-dzurak
+2025-12-17 11:47:55,761 - INFO - [136/649] 爬取: Dr Mohammad Ebadi
+2025-12-17 11:47:55,824 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohammad-ebadi
+2025-12-17 11:47:57,829 - INFO - [137/649] 爬取: Dr Esmaeel Eftekharian
+2025-12-17 11:47:57,896 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/esmaeel-eftekharian
+2025-12-17 11:47:59,901 - INFO - [138/649] 爬取: Professor Renate Egan
+2025-12-17 11:47:59,981 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/renate-egan
+2025-12-17 11:48:01,984 - INFO - [139/649] 爬取: Professor N.J. Ekins-Daukes
+2025-12-17 11:48:02,179 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/n-j--ekins-daukes
+2025-12-17 11:48:04,184 - INFO - [140/649] 爬取: Associate Professor Kevin Elphinstone
+2025-12-17 11:48:04,255 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kevin-elphinstone
+2025-12-17 11:48:04,255 - INFO - 中间保存进度: 140/649 | 成功: 140, 失败: 0
+2025-12-17 11:48:06,288 - INFO - [141/649] 爬取: Dr Don Samitha Elvitigala
+2025-12-17 11:48:06,349 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/don-samitha-elvitigala
+2025-12-17 11:48:08,354 - INFO - [142/649] 爬取: Professor Julien Epps
+2025-12-17 11:48:08,549 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/julien-epps
+2025-12-17 11:48:10,550 - INFO - [143/649] 爬取: Dr Chris Escott
+2025-12-17 11:48:10,614 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chris-escott
+2025-12-17 11:48:12,619 - INFO - [144/649] 爬取: Dr Dorna Esrafilzadeh
+2025-12-17 11:48:12,699 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/dorna-esrafilzadeh
+2025-12-17 11:48:14,704 - INFO - [145/649] 爬取: Dr Yasemin Fadil
+2025-12-17 11:48:14,767 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yasemin-fadil
+2025-12-17 11:48:16,772 - INFO - [146/649] 爬取: Dr Ka Wai Fan
+2025-12-17 11:48:16,853 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ka-wai-fan
+2025-12-17 11:48:18,854 - INFO - [147/649] 爬取: Emeritus Professor Anthony Fane
+2025-12-17 11:48:19,166 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/anthony-fane
+2025-12-17 11:48:21,171 - INFO - [148/649] 爬取: Dr Nona Farbehi
+2025-12-17 11:48:21,241 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nona-farbehi
+2025-12-17 11:48:23,242 - INFO - [149/649] 爬取: Dr Mahshid Farzanehsa
+2025-12-17 11:48:23,299 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mahshid-farzanehsa
+2025-12-17 11:48:25,304 - INFO - [150/649] 爬取: Associate Professor Stefan Felder
+2025-12-17 11:48:25,425 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/stefan-felder
+2025-12-17 11:48:25,425 - INFO - 中间保存进度: 150/649 | 成功: 150, 失败: 0
+2025-12-17 11:48:27,459 - INFO - [151/649] 爬取: Dr Yimeng Feng
+2025-12-17 11:48:27,553 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yimeng-feng
+2025-12-17 11:48:29,554 - INFO - [152/649] 爬取: Dr Ruth Fisher
+2025-12-17 11:48:29,628 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ruth-fisher
+2025-12-17 11:48:31,633 - INFO - [153/649] 爬取: Professor John Fletcher
+2025-12-17 11:48:31,793 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/john-fletcher
+2025-12-17 11:48:33,795 - INFO - [154/649] 爬取: Dr Javad Foroughi
+2025-12-17 11:48:33,917 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/javad-foroughi
+2025-12-17 11:48:35,920 - INFO - [155/649] 爬取: Emeritus Professor Stephen Foster
+2025-12-17 11:48:36,107 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/stephen-foster
+2025-12-17 11:48:38,111 - INFO - [156/649] 爬取: Dr Bruno Gaeta
+2025-12-17 11:48:38,193 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bruno-gaeta
+2025-12-17 11:48:40,198 - INFO - [157/649] 爬取: Dr Hasindu Gamaarachchi
+2025-12-17 11:48:40,301 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hasindu-gamaarachchi
+2025-12-17 11:48:42,303 - INFO - [158/649] 爬取: Professor Wei Gao
+2025-12-17 11:48:42,469 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wei-gao
+2025-12-17 11:48:44,470 - INFO - [159/649] 爬取: Dr Shikha Garg
+2025-12-17 11:48:44,620 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shikha-garg
+2025-12-17 11:48:46,625 - INFO - [160/649] 爬取: Professor Serge Gaspers
+2025-12-17 11:48:46,800 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/serge-gaspers
+2025-12-17 11:48:46,800 - INFO - 中间保存进度: 160/649 | 成功: 160, 失败: 0
+2025-12-17 11:48:48,836 - INFO - [161/649] 爬取: Mr Felix Gayot
+2025-12-17 11:48:48,898 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/felix-gayot
+2025-12-17 11:48:50,903 - INFO - [162/649] 爬取: Professor Linlin Ge
+2025-12-17 11:48:51,076 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/linlin-ge
+2025-12-17 11:48:53,081 - INFO - [163/649] 爬取: Dr Arup George
+2025-12-17 11:48:53,487 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arup-george
+2025-12-17 11:48:55,492 - INFO - [164/649] 爬取: Dr Anna Ghorbanpour Tamajan
+2025-12-17 11:48:55,550 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/anna-ghorbanpour-tamajan
+2025-12-17 11:48:57,552 - INFO - [165/649] 爬取: Professor Ian Gibson
+2025-12-17 11:48:57,610 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ian-gibson
+2025-12-17 11:48:59,615 - INFO - [166/649] 爬取: Emeritus Professor Raymond Gilbert
+2025-12-17 11:48:59,885 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/raymond-gilbert
+2025-12-17 11:49:01,885 - INFO - [167/649] 爬取: Dr Nicholas Gilmore
+2025-12-17 11:49:02,270 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nicholas-gilmore
+2025-12-17 11:49:04,274 - INFO - [168/649] 爬取: Professor William Glamore
+2025-12-17 11:49:04,402 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/william-glamore
+2025-12-17 11:49:06,407 - INFO - [169/649] 爬取: Associate Professor Bernd Gludovatz
+2025-12-17 11:49:06,508 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bernd-gludovatz
+2025-12-17 11:49:08,513 - INFO - [170/649] 爬取: Professor Ewa Goldys
+2025-12-17 11:49:10,083 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ewa-goldys
+2025-12-17 11:49:10,084 - INFO - 中间保存进度: 170/649 | 成功: 170, 失败: 0
+2025-12-17 11:49:12,124 - INFO - [171/649] 爬取: Dr Dong Gong
+2025-12-17 11:49:12,211 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/dong-gong
+2025-12-17 11:49:14,216 - INFO - [172/649] 爬取: Scientia Professor Martin Green
+2025-12-17 11:49:14,756 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/martin-green
+2025-12-17 11:49:16,761 - INFO - [173/649] 爬取: Dr Sarah Grundy
+2025-12-17 11:49:16,863 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sarah-grundy
+2025-12-17 11:49:18,866 - INFO - [174/649] 爬取: Associate Professor Sophia Gu
+2025-12-17 11:49:18,964 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sophia-gu
+2025-12-17 11:49:20,969 - INFO - [175/649] 爬取: Dr Jose Guivant
+2025-12-17 11:49:21,062 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jose-guivant
+2025-12-17 11:49:23,067 - INFO - [176/649] 爬取: Dr Denny Gunawan
+2025-12-17 11:49:23,136 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/denny-gunawan
+2025-12-17 11:49:25,141 - INFO - [177/649] 爬取: Dr Jia Guo
+2025-12-17 11:49:25,199 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jia-guo
+2025-12-17 11:49:27,200 - INFO - [178/649] 爬取: Dr Hui Guo
+2025-12-17 11:49:27,735 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hui-guo
+2025-12-17 11:49:29,740 - INFO - [179/649] 爬取: Dr Tianruo Guo
+2025-12-17 11:49:29,840 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/tianruo-guo
+2025-12-17 11:49:31,845 - INFO - [180/649] 爬取: Associate Professor Hassan Habibi Gharakheili
+2025-12-17 11:49:31,941 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hassan-habibi-gharakheili
+2025-12-17 11:49:31,941 - INFO - 中间保存进度: 180/649 | 成功: 180, 失败: 0
+2025-12-17 11:49:33,984 - INFO - [181/649] 爬取: Emeritus Professor Paul Hagan
+2025-12-17 11:49:34,184 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/paul-hagan
+2025-12-17 11:49:36,189 - INFO - [182/649] 爬取: Dr Milad Haghani
+2025-12-17 11:49:36,278 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/milad-haghani
+2025-12-17 11:49:38,283 - INFO - [183/649] 爬取: Dr Navid Haghdadi
+2025-12-17 11:49:38,350 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/navid-haghdadi
+2025-12-17 11:49:40,355 - INFO - [184/649] 爬取: Associate Professor Ailar Hajimohammadi
+2025-12-17 11:49:40,442 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ailar-hajimohammadi
+2025-12-17 11:49:42,447 - INFO - [185/649] 爬取: Associate Professor Brett Hallam
+2025-12-17 11:49:42,635 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/brett-hallam
+2025-12-17 11:49:44,640 - INFO - [186/649] 爬取: Dr Rachid Hamadi
+2025-12-17 11:49:44,705 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rachid-hamadi
+2025-12-17 11:49:46,710 - INFO - [187/649] 爬取: Associate Professor Ehab Hamed
+2025-12-17 11:49:46,814 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ehab-hamed
+2025-12-17 11:49:48,816 - INFO - [188/649] 爬取: Professor Ziv Hameiri
+2025-12-17 11:49:49,048 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ziv-hameiri
+2025-12-17 11:49:51,049 - INFO - [189/649] 爬取: Dr Phillip Hamer
+2025-12-17 11:49:51,159 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/phillip-hamer
+2025-12-17 11:49:53,164 - INFO - [190/649] 爬取: Mr Zifei Han
+2025-12-17 11:49:53,592 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zifei-han
+2025-12-17 11:49:53,592 - INFO - 中间保存进度: 190/649 | 成功: 190, 失败: 0
+2025-12-17 11:49:55,637 - INFO - [191/649] 爬取: Dr Zhaojun Han
+2025-12-17 11:49:55,766 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhaojun-han
+2025-12-17 11:49:57,771 - INFO - [192/649] 爬取: Dr Naras Hanumanth Rao
+2025-12-17 11:49:57,841 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/narasinga-rao-hanumanth-rao
+2025-12-17 11:49:59,846 - INFO - [193/649] 爬取: Professor Xiaojing Hao
+2025-12-17 11:50:00,040 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xiaojing-hao
+2025-12-17 11:50:02,045 - INFO - [194/649] 爬取: Associate Professor Mitchell Harley
+2025-12-17 11:50:02,151 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mitchell-harley
+2025-12-17 11:50:04,156 - INFO - [195/649] 爬取: Ms Alice Harrison
+2025-12-17 11:50:04,223 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/alice-harrison
+2025-12-17 11:50:06,228 - INFO - [196/649] 爬取: Dr Md Mahmudul Hasan
+2025-12-17 11:50:06,698 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/md-mahmudul-hasan
+2025-12-17 11:50:08,703 - INFO - [197/649] 爬取: Mr Alex (Abolfazl) Hashemi
+2025-12-17 11:50:08,786 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/alex--abolfazl--hashemi
+2025-12-17 11:50:10,789 - INFO - [198/649] 爬取: Professor Mahbub Hassan
+2025-12-17 11:50:10,944 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mahbub-hassan
+2025-12-17 11:50:12,949 - INFO - [199/649] 爬取: Dr Md Mahamudul Hassan
+2025-12-17 11:50:13,006 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/md-mahamudul-hassan
+2025-12-17 11:50:15,011 - INFO - [200/649] 爬取: Dr Tahereh Hassan Zadeh Koohi
+2025-12-17 11:50:15,403 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/tahereh-hassan-zadeh-koohi
+2025-12-17 11:50:15,403 - INFO - 中间保存进度: 200/649 | 成功: 200, 失败: 0
+2025-12-17 11:50:17,448 - INFO - [201/649] 爬取: Ms Julie Hatzi
+2025-12-17 11:50:17,509 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/julie-hatzi
+2025-12-17 11:50:19,514 - INFO - [202/649] 爬取: Professor Evatt Hawkes
+2025-12-17 11:50:19,670 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/evatt-hawkes
+2025-12-17 11:50:21,675 - INFO - [203/649] 爬取: Dr James Hayes
+2025-12-17 11:50:21,735 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/james-hayes
+2025-12-17 11:50:23,740 - INFO - [204/649] 爬取: Mr Shuai He
+2025-12-17 11:50:23,818 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shuai-he
+2025-12-17 11:50:25,821 - INFO - [205/649] 爬取: Dr Mingrui He
+2025-12-17 11:50:26,303 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mingrui-he
+2025-12-17 11:50:28,308 - INFO - [206/649] 爬取: Emeritus Professor Bruce Hebblewhite
+2025-12-17 11:50:28,444 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bruce-hebblewhite
+2025-12-17 11:50:30,447 - INFO - [207/649] 爬取: Scientia Professor Gernot Heiser
+2025-12-17 11:50:30,577 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gernot-heiser
+2025-12-17 11:50:32,582 - INFO - [208/649] 爬取: Professor Rita Henderson
+2025-12-17 11:50:32,722 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rita-henderson
+2025-12-17 11:50:34,725 - INFO - [209/649] 爬取: Dr Mandalena Hermawan
+2025-12-17 11:50:35,230 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mandalena-hermawan
+2025-12-17 11:50:37,235 - INFO - [210/649] 爬取: Dr Henry Hickman
+2025-12-17 11:50:37,291 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/henry-hickman
+2025-12-17 11:50:37,291 - INFO - 中间保存进度: 210/649 | 成功: 210, 失败: 0
+2025-12-17 11:50:39,338 - INFO - [211/649] 爬取: Dr Philippa Higgins
+2025-12-17 11:50:39,406 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/philippa-higgins
+2025-12-17 11:50:41,411 - INFO - [212/649] 爬取: Professor Bram Hoex
+2025-12-17 11:50:41,599 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bram-hoex
+2025-12-17 11:50:43,604 - INFO - [213/649] 爬取: Ms Sandra Hoffmann
+2025-12-17 11:50:43,648 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sandra-hoffmann
+2025-12-17 11:50:45,653 - INFO - [214/649] 爬取: Mr Robert Holdom
+2025-12-17 11:50:46,019 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/robert-holdom
+2025-12-17 11:50:48,024 - INFO - [215/649] 爬取: Dr Danielle Holmes
+2025-12-17 11:50:48,087 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/danni-holmes
+2025-12-17 11:50:50,092 - INFO - [216/649] 爬取: Dr Md. Anower Hossain
+2025-12-17 11:50:50,178 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/md--anower-hossain
+2025-12-17 11:50:52,179 - INFO - [217/649] 爬取: Professor Taha Hossein Rashidi
+2025-12-17 11:50:52,323 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/taha-hossein-rashidi
+2025-12-17 11:50:54,328 - INFO - [218/649] 爬取: Dr Seyedeh Maryam Hosseini
+2025-12-17 11:50:54,794 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/seyedeh-maryam-hosseini
+2025-12-17 11:50:56,795 - INFO - [219/649] 爬取: Dr Branislav Hredzak
+2025-12-17 11:50:56,899 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/branislav-hredzak
+2025-12-17 11:50:58,904 - INFO - [220/649] 爬取: Professor Wen Hu
+2025-12-17 11:50:59,078 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wen-hu
+2025-12-17 11:50:59,078 - INFO - 中间保存进度: 220/649 | 成功: 220, 失败: 0
+2025-12-17 11:51:01,127 - INFO - [221/649] 爬取: Mr Dr.Boyang Hu
+2025-12-17 11:51:01,181 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/dr-boyang-hu
+2025-12-17 11:51:03,186 - INFO - [222/649] 爬取: Dr Chaoran Huang
+2025-12-17 11:51:03,257 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chaoran-huang
+2025-12-17 11:51:05,261 - INFO - [223/649] 爬取: Dr Jialiang Huang
+2025-12-17 11:51:05,944 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jialiang-huang
+2025-12-17 11:51:07,944 - INFO - [224/649] 爬取: Dr Fay Hudson
+2025-12-17 11:51:08,764 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/fay-hudson
+2025-12-17 11:51:10,769 - INFO - [225/649] 爬取: Dr Paul Hunter
+2025-12-17 11:51:10,830 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/paul-hunter
+2025-12-17 11:51:12,835 - INFO - [226/649] 爬取: Associate Professor Furqan Hussain
+2025-12-17 11:51:12,928 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/furqan-le-hussain
+2025-12-17 11:51:14,933 - INFO - [227/649] 爬取: Associate Professor Aleksandar Ignjatovic
+2025-12-17 11:51:15,054 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/aleksandar-ignjatovic
+2025-12-17 11:51:17,059 - INFO - [228/649] 爬取: Dr Elnaz Irannezhad
+2025-12-17 11:51:17,130 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/elnaz-irannezhad
+2025-12-17 11:51:19,135 - INFO - [229/649] 爬取: Dr Maya Isarov
+2025-12-17 11:51:19,191 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/maya-isarov
+2025-12-17 11:51:21,196 - INFO - [230/649] 爬取: Dr Fumi Ishizuka
+2025-12-17 11:51:21,264 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/fumi-ishizuka
+2025-12-17 11:51:21,264 - INFO - 中间保存进度: 230/649 | 成功: 230, 失败: 0
+2025-12-17 11:51:23,315 - INFO - [231/649] 爬取: Dr Faisal Islam
+2025-12-17 11:51:23,370 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/faisal-islam
+2025-12-17 11:51:25,375 - INFO - [232/649] 爬取: Dr Sankaran Iyer
+2025-12-17 11:51:25,439 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sankaran-iyer
+2025-12-17 11:51:27,444 - INFO - [233/649] 爬取: Dr Miriam Jackson
+2025-12-17 11:51:27,827 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/miriam-jackson
+2025-12-17 11:51:29,830 - INFO - [234/649] 爬取: Dr Divya Jayakumar Nair
+2025-12-17 11:51:29,919 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/divya-jayakumar-nair
+2025-12-17 11:51:31,924 - INFO - [235/649] 爬取: Professor Sanjay Jha
+2025-12-17 11:51:32,099 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sanjay-jha
+2025-12-17 11:51:34,104 - INFO - [236/649] 爬取: Dr Jiaojiao Jiang
+2025-12-17 11:51:34,186 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jiaojiao-jiang
+2025-12-17 11:51:36,191 - INFO - [237/649] 爬取: Dr Ze Jiang
+2025-12-17 11:51:36,277 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ze-jiang
+2025-12-17 11:51:38,279 - INFO - [238/649] 爬取: Dr Shan Jiang
+2025-12-17 11:51:38,757 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shan-jiang
+2025-12-17 11:51:40,762 - INFO - [239/649] 爬取: Dr Lixue Jiang
+2025-12-17 11:51:41,204 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lixue-jiang
+2025-12-17 11:51:43,209 - INFO - [240/649] 爬取: Ms Yuchao Jiang
+2025-12-17 11:51:43,276 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yuchao-jiang
+2025-12-17 11:51:43,276 - INFO - 中间保存进度: 240/649 | 成功: 240, 失败: 0
+2025-12-17 11:51:45,326 - INFO - [241/649] 爬取: Dr Chaoyang Jiang
+2025-12-17 11:51:45,752 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chaoyang-jiang
+2025-12-17 11:51:47,757 - INFO - [242/649] 爬取: Dr Jessica Yajie Jiang
+2025-12-17 11:51:47,826 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jessica-yajie-jiang
+2025-12-17 11:51:49,831 - INFO - [243/649] 爬取: Dr Yu Jing
+2025-12-17 11:51:49,919 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yu-jing
+2025-12-17 11:51:51,924 - INFO - [244/649] 爬取: Dr Fiona Johnson
+2025-12-17 11:51:52,039 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/fiona-johnson
+2025-12-17 11:51:54,044 - INFO - [245/649] 爬取: Professor Michael Johnson
+2025-12-17 11:51:54,101 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-johnson2
+2025-12-17 11:51:56,106 - INFO - [246/649] 爬取: Dr Adele Jones
+2025-12-17 11:51:56,186 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/adele-jones
+2025-12-17 11:51:58,191 - INFO - [247/649] 爬取: Dr Alison Jones
+2025-12-17 11:51:58,552 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/alison-jones
+2025-12-17 11:52:00,557 - INFO - [248/649] 爬取: Dr Aditya Joshi
+2025-12-17 11:52:00,653 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/aditya-joshi
+2025-12-17 11:52:02,658 - INFO - [249/649] 爬取: Associate Professor Rakesh Joshi
+2025-12-17 11:52:02,777 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rakesh-joshi
+2025-12-17 11:52:04,782 - INFO - [250/649] 爬取: Dr Mattias Juhl
+2025-12-17 11:52:05,158 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mattias-juhl
+2025-12-17 11:52:05,158 - INFO - 中间保存进度: 250/649 | 成功: 250, 失败: 0
+2025-12-17 11:52:07,208 - INFO - [251/649] 爬取: Dr Imrana Kabir
+2025-12-17 11:52:07,663 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/imrana-kabir
+2025-12-17 11:52:09,668 - INFO - [252/649] 爬取: Associate Professor Mohsen Kalantari
+2025-12-17 11:52:10,426 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohsen-kalantari
+2025-12-17 11:52:12,431 - INFO - [253/649] 爬取: Dr Henner Kampwerth
+2025-12-17 11:52:12,514 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/henner-kampwerth
+2025-12-17 11:52:14,519 - INFO - [254/649] 爬取: Professor Salil Kanhere
+2025-12-17 11:52:14,789 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/salil-kanhere
+2025-12-17 11:52:16,790 - INFO - [255/649] 爬取: Professor Sami Kara
+2025-12-17 11:52:16,950 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sami-kara
+2025-12-17 11:52:18,955 - INFO - [256/649] 爬取: Associate Professor Lauren Kark
+2025-12-17 11:52:19,050 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lauren-kark
+2025-12-17 11:52:21,055 - INFO - [257/649] 爬取: Dr Ali Kashani
+2025-12-17 11:52:21,134 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ali-kashani
+2025-12-17 11:52:23,139 - INFO - [258/649] 爬取: Associate Professor Jay Katupitiya
+2025-12-17 11:52:23,268 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jay-katupitiya
+2025-12-17 11:52:25,273 - INFO - [259/649] 爬取: Associate Professor Merlinde Kay
+2025-12-17 11:52:25,578 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/merlinde-kay
+2025-12-17 11:52:27,583 - INFO - [260/649] 爬取: Emeritus Professor Maria Kazacos
+2025-12-17 11:52:27,789 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/maria-skyllas-kazacos
+2025-12-17 11:52:27,789 - INFO - 中间保存进度: 260/649 | 成功: 260, 失败: 0
+2025-12-17 11:52:29,846 - INFO - [261/649] 爬取: Associate Professor David Kellermann
+2025-12-17 11:52:29,916 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/david-kellermann
+2025-12-17 11:52:31,921 - INFO - [262/649] 爬取: Professor Nicole Kessissoglou
+2025-12-17 11:52:32,114 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nicole-kessissoglou
+2025-12-17 11:52:34,119 - INFO - [263/649] 爬取: Scientia Professor Nasser Khalili
+2025-12-17 11:52:34,324 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nasser-khalili
+2025-12-17 11:52:36,329 - INFO - [264/649] 爬取: Dr Muhammad Umair Khan
+2025-12-17 11:52:36,393 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/muhammad-umair-khan
+2025-12-17 11:52:38,394 - INFO - [265/649] 爬取: Mr Muhammad Haider Ali Khan
+2025-12-17 11:52:38,457 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/muhammad-haider-ali-khan
+2025-12-17 11:52:40,462 - INFO - [266/649] 爬取: Dr Arash Khatamianfar
+2025-12-17 11:52:40,527 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arash-khatamianfar
+2025-12-17 11:52:42,531 - INFO - [267/649] 爬取: Associate Professor Arman Khoshghalb
+2025-12-17 11:52:42,638 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arman-khoshghalb
+2025-12-17 11:52:44,643 - INFO - [268/649] 爬取: Dr Taehwan Kim
+2025-12-17 11:52:44,756 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/taehwan-kim
+2025-12-17 11:52:46,761 - INFO - [269/649] 爬取: Dr Moonyong Kim
+2025-12-17 11:52:46,857 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/moonyong-kim
+2025-12-17 11:52:48,860 - INFO - [270/649] 爬取: Professor Jang-Kyo Kim
+2025-12-17 11:52:49,119 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jang-kyo-kim
+2025-12-17 11:52:49,119 - INFO - 中间保存进度: 270/649 | 成功: 270, 失败: 0
+2025-12-17 11:52:51,172 - INFO - [271/649] 爬取: Dr Andrew Kinsela
+2025-12-17 11:52:51,802 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/andrew-kinsela
+2025-12-17 11:52:53,805 - INFO - [272/649] 爬取: Dr Georgios Konstantinou
+2025-12-17 11:52:54,014 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/georgios-konstantinou
+2025-12-17 11:52:56,019 - INFO - [273/649] 爬取: Professor Shawn Kook
+2025-12-17 11:52:56,172 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shawn-kook
+2025-12-17 11:52:58,177 - INFO - [274/649] 爬取: Dr Anders Kringhoej
+2025-12-17 11:52:58,257 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/anders-kringhoej
+2025-12-17 11:53:00,262 - INFO - [275/649] 爬取: Professor Jay Kruzic
+2025-12-17 11:53:00,411 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jay-kruzic
+2025-12-17 11:53:02,416 - INFO - [276/649] 爬取: Dr Priyank Kumar
+2025-12-17 11:53:02,532 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/priyank-kumar
+2025-12-17 11:53:04,537 - INFO - [277/649] 爬取: Dr Dipan Kundu
+2025-12-17 11:53:04,638 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/dipan-kundu
+2025-12-17 11:53:06,642 - INFO - [278/649] 爬取: Professor Francois Ladouceur
+2025-12-17 11:53:06,763 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/francois-ladouceur
+2025-12-17 11:53:08,768 - INFO - [279/649] 爬取: Dr Jesse Laeuchli
+2025-12-17 11:53:08,828 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jesse-laeuchli
+2025-12-17 11:53:10,833 - INFO - [280/649] 爬取: Dr Hamed Lamei Ramandi
+2025-12-17 11:53:10,910 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hamed-lamei-ramandi
+2025-12-17 11:53:10,910 - INFO - 中间保存进度: 280/649 | 成功: 280, 失败: 0
+2025-12-17 11:53:12,970 - INFO - [281/649] 爬取: Dr Yanyan Lao
+2025-12-17 11:53:13,046 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yanyan-lao
+2025-12-17 11:53:15,051 - INFO - [282/649] 爬取: Associate Professor Arne Laucht
+2025-12-17 11:53:15,186 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arne-laucht
+2025-12-17 11:53:17,191 - INFO - [283/649] 爬取: Dr Thao Le
+2025-12-17 11:53:17,555 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/thao-le
+2025-12-17 11:53:19,560 - INFO - [284/649] 爬取: Dr Van Duc Le
+2025-12-17 11:53:19,631 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/van-duc-le
+2025-12-17 11:53:21,637 - INFO - [285/649] 爬取: Associate Professor Pierre Le Clech
+2025-12-17 11:53:21,797 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/pierre-le-clech
+2025-12-17 11:53:23,802 - INFO - [286/649] 爬取: Professor Johannes le Coutre
+2025-12-17 11:53:23,918 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/johannes-le-coutre
+2025-12-17 11:53:25,920 - INFO - [287/649] 爬取: Mr Patrick Lederer
+2025-12-17 11:53:25,975 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/patrick-lederer
+2025-12-17 11:53:27,977 - INFO - [288/649] 爬取: Associate Professor Alice Lee
+2025-12-17 11:53:28,057 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/alice-lee
+2025-12-17 11:53:30,062 - INFO - [289/649] 爬取: Dr Wendy Lee
+2025-12-17 11:53:30,150 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wendy-lee
+2025-12-17 11:53:32,155 - INFO - [290/649] 爬取: Dr Matthew Lee
+2025-12-17 11:53:32,238 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/matthew-lee
+2025-12-17 11:53:32,238 - INFO - 中间保存进度: 290/649 | 成功: 290, 失败: 0
+2025-12-17 11:53:34,300 - INFO - [291/649] 爬取: Associate Professor Torsten Lehmann
+2025-12-17 11:53:34,403 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/torsten-lehmann
+2025-12-17 11:53:36,408 - INFO - [292/649] 爬取: Dr Chin Neng Leong
+2025-12-17 11:53:36,470 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chin-neng-leong
+2025-12-17 11:53:38,475 - INFO - [293/649] 爬取: Professor Greg Leslie
+2025-12-17 11:53:38,695 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/greg-leslie
+2025-12-17 11:53:40,700 - INFO - [294/649] 爬取: Mr Josh Leverett
+2025-12-17 11:53:40,762 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/josh-leverett
+2025-12-17 11:53:42,767 - INFO - [295/649] 爬取: Dr Ao Li
+2025-12-17 11:53:42,845 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ao-li
+2025-12-17 11:53:44,850 - INFO - [296/649] 爬取: Dr Zhen (Jan) Li
+2025-12-17 11:53:45,306 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jan-li
+2025-12-17 11:53:47,311 - INFO - [297/649] 爬取: Associate Professor Ming Li
+2025-12-17 11:53:47,439 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ming-li
+2025-12-17 11:53:49,444 - INFO - [298/649] 爬取: Dr Qiyuan Li
+2025-12-17 11:53:49,930 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/qiyuan-li
+2025-12-17 11:53:51,935 - INFO - [299/649] 爬取: Dr Darson Li
+2025-12-17 11:53:52,347 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/darson-li
+2025-12-17 11:53:54,351 - INFO - [300/649] 爬取: Associate Professor Wengui Li
+2025-12-17 11:53:54,513 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wengui-li
+2025-12-17 11:53:54,513 - INFO - 中间保存进度: 300/649 | 成功: 300, 失败: 0
+2025-12-17 11:53:56,577 - INFO - [301/649] 爬取: Associate Professor Binghao Li
+2025-12-17 11:53:56,702 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/binghao-li
+2025-12-17 11:53:58,707 - INFO - [302/649] 爬取: Mr Yuekang Li
+2025-12-17 11:53:58,787 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yuekang-li
+2025-12-17 11:54:00,792 - INFO - [303/649] 爬取: Dr Wenxian Li
+2025-12-17 11:54:01,624 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wenxian-li
+2025-12-17 11:54:03,629 - INFO - [304/649] 爬取: Dr Xiaopeng Li
+2025-12-17 11:54:03,724 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xiaopeng-li
+2025-12-17 11:54:05,729 - INFO - [305/649] 爬取: Associate Professor Kang Liang
+2025-12-17 11:54:05,930 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kang-liang
+2025-12-17 11:54:07,935 - INFO - [306/649] 爬取: Dr Jieying Liang
+2025-12-17 11:54:08,005 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jieying-liang
+2025-12-17 11:54:10,010 - INFO - [307/649] 爬取: Dr May Lim
+2025-12-17 11:54:10,109 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/may-lim
+2025-12-17 11:54:12,114 - INFO - [308/649] 爬取: Associate Professor Samsung Lim
+2025-12-17 11:54:12,266 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/samsung-lim
+2025-12-17 11:54:14,269 - INFO - [309/649] 爬取: Dr Bo Lin
+2025-12-17 11:54:14,689 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bo-lin
+2025-12-17 11:54:16,692 - INFO - [310/649] 爬取: Ms Kang Lin
+2025-12-17 11:54:16,758 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kang-lin
+2025-12-17 11:54:16,758 - INFO - 中间保存进度: 310/649 | 成功: 310, 失败: 0
+2025-12-17 11:54:18,832 - INFO - [311/649] 爬取: Associate Professor Yi Liu
+2025-12-17 11:54:18,941 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yi-liu
+2025-12-17 11:54:20,946 - INFO - [312/649] 爬取: Dr Xu Liu
+2025-12-17 11:54:21,373 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xu-liu
+2025-12-17 11:54:23,378 - INFO - [313/649] 爬取: Miss Si Liu
+2025-12-17 11:54:23,431 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/si-liu
+2025-12-17 11:54:25,436 - INFO - [314/649] 爬取: Dr Yinyan Liu
+2025-12-17 11:54:25,525 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yan-liu
+2025-12-17 11:54:27,530 - INFO - [315/649] 爬取: Associate Professor Ang Liu
+2025-12-17 11:54:27,641 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ang-liu
+2025-12-17 11:54:29,646 - INFO - [316/649] 爬取: Dr Shuang Liu
+2025-12-17 11:54:29,705 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shuang-liu
+2025-12-17 11:54:31,709 - INFO - [317/649] 爬取: Dr Ziheng Liu
+2025-12-17 11:54:31,802 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ziheng-liu
+2025-12-17 11:54:33,807 - INFO - [318/649] 爬取: Dr Robert Lloyd
+2025-12-17 11:54:33,882 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/robert-lloyd
+2025-12-17 11:54:35,882 - INFO - [319/649] 爬取: Professor Megan Lord
+2025-12-17 11:54:36,534 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/megan-lord
+2025-12-17 11:54:38,537 - INFO - [320/649] 爬取: Dr Raymond Louie
+2025-12-17 11:54:38,656 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/raymond-louie
+2025-12-17 11:54:38,657 - INFO - 中间保存进度: 320/649 | 成功: 320, 失败: 0
+2025-12-17 11:54:40,732 - INFO - [321/649] 爬取: Dr Emma Lovell
+2025-12-17 11:54:40,812 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/emma-lovell
+2025-12-17 11:54:42,817 - INFO - [322/649] 爬取: Scientia Professor Nigel Lovell
+2025-12-17 11:54:43,279 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nigel-lovell
+2025-12-17 11:54:45,282 - INFO - [323/649] 爬取: Associate Professor Xunyu Lu
+2025-12-17 11:54:45,374 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xunyu-lu
+2025-12-17 11:54:47,379 - INFO - [324/649] 爬取: Dr Qinghua Lu
+2025-12-17 11:54:47,539 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/qinghua-lu
+2025-12-17 11:54:49,544 - INFO - [325/649] 爬取: Dr Gough Lui
+2025-12-17 11:54:49,931 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gough-lui
+2025-12-17 11:54:51,936 - INFO - [326/649] 爬取: Dr Xavier Luo
+2025-12-17 11:54:52,001 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xavier-luo
+2025-12-17 11:54:54,006 - INFO - [327/649] 爬取: Dr Minzhao Lyu
+2025-12-17 11:54:54,073 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/minzhao-lyu
+2025-12-17 11:54:56,078 - INFO - [328/649] 爬取: Professor Iain Macgill
+2025-12-17 11:54:56,287 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/iain-macgill
+2025-12-17 11:54:58,292 - INFO - [329/649] 爬取: Dr Ashesh Mahidadia
+2025-12-17 11:54:58,355 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ashesh-mahidadia
+2025-12-17 11:55:00,360 - INFO - [330/649] 爬取: Mr Mohamed Mahmoud
+2025-12-17 11:55:00,417 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohamed-mahmoud
+2025-12-17 11:55:00,417 - INFO - 中间保存进度: 330/649 | 成功: 330, 失败: 0
+2025-12-17 11:55:02,494 - INFO - [331/649] 爬取: Dr Mehrisadat Makki Alamdari
+2025-12-17 11:55:02,586 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mehrisadat-makki-alamdari
+2025-12-17 11:55:04,591 - INFO - [332/649] 爬取: Professor Robert Malaney
+2025-12-17 11:55:04,790 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/robert-malaney
+2025-12-17 11:55:06,795 - INFO - [333/649] 爬取: Professor Michael Manefield
+2025-12-17 11:55:06,929 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-manefield
+2025-12-17 11:55:08,934 - INFO - [334/649] 爬取: Mr Kristian Mansfield
+2025-12-17 11:55:08,996 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kristian-mansfield
+2025-12-17 11:55:10,997 - INFO - [335/649] 爬取: Dr Jaleh Mansouri
+2025-12-17 11:55:11,054 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jaleh-mansouri
+2025-12-17 11:55:13,059 - INFO - [336/649] 爬取: Dr Yongjing Mao
+2025-12-17 11:55:13,120 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yongjing-mao
+2025-12-17 11:55:15,125 - INFO - [337/649] 爬取: Associate Professor Nadine Marcus
+2025-12-17 11:55:15,219 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/nadine-marcus
+2025-12-17 11:55:17,224 - INFO - [338/649] 爬取: Professor Lucy Marshall
+2025-12-17 11:55:17,280 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lucy-marshall
+2025-12-17 11:55:19,285 - INFO - [339/649] 爬取: Dr Eric Martin
+2025-12-17 11:55:19,362 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/eric-martin
+2025-12-17 11:55:21,363 - INFO - [340/649] 爬取: Dr Rahat Masood
+2025-12-17 11:55:21,459 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rahat-masood
+2025-12-17 11:55:21,459 - INFO - 中间保存进度: 340/649 | 成功: 340, 失败: 0
+2025-12-17 11:55:23,538 - INFO - [341/649] 爬取: Dr Reji Mathew
+2025-12-17 11:55:23,615 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/reji-mathew
+2025-12-17 11:55:25,620 - INFO - [342/649] 爬取: Dr Gabriel Matus Vazquez
+2025-12-17 11:55:25,676 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gabriel-matus-vazquez
+2025-12-17 11:55:27,681 - INFO - [343/649] 爬取: Dr Federico Mazur
+2025-12-17 11:55:27,748 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/federico-mazur
+2025-12-17 11:55:29,753 - INFO - [344/649] 爬取: Dr James McDonald
+2025-12-17 11:55:29,838 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/james-mcdonald
+2025-12-17 11:55:31,841 - INFO - [345/649] 爬取: Dr Craig McLaughlin
+2025-12-17 11:55:31,896 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/craig-mclaughlin
+2025-12-17 11:55:33,901 - INFO - [346/649] 爬取: Dr Shona McNab
+2025-12-17 11:55:34,317 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shona-mcnab
+2025-12-17 11:55:36,322 - INFO - [347/649] 爬取: Mr Peter McNair
+2025-12-17 11:55:36,378 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/peter-mcnair
+2025-12-17 11:55:38,379 - INFO - [348/649] 爬取: Dr Raj Mehrotra
+2025-12-17 11:55:38,488 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/raj-mehrotra
+2025-12-17 11:55:40,493 - INFO - [349/649] 爬取: Professor Erik Meijering
+2025-12-17 11:55:40,636 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/erik-meijering
+2025-12-17 11:55:42,641 - INFO - [350/649] 爬取: Associate Professor Chris Menictas
+2025-12-17 11:55:42,740 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chris-menictas
+2025-12-17 11:55:42,740 - INFO - 中间保存进度: 350/649 | 成功: 350, 失败: 0
+2025-12-17 11:55:44,821 - INFO - [351/649] 爬取: Dr Will Midgley
+2025-12-17 11:55:44,886 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/will-midgley
+2025-12-17 11:55:46,890 - INFO - [352/649] 爬取: Professor Americo Migliaccio
+2025-12-17 11:55:46,982 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/americo-migliaccio
+2025-12-17 11:55:48,987 - INFO - [353/649] 爬取: Mr Brett Miller
+2025-12-17 11:55:49,560 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/brett-miller
+2025-12-17 11:55:51,565 - INFO - [354/649] 爬取: Dr Christopher Miller
+2025-12-17 11:55:51,653 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/christopher-miller
+2025-12-17 11:55:53,658 - INFO - [355/649] 爬取: Dr Deepak Mishra
+2025-12-17 11:55:53,902 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/deepak-mishra
+2025-12-17 11:55:55,907 - INFO - [356/649] 爬取: Dr Rishabh Mishra
+2025-12-17 11:55:56,300 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rishabh-mishra
+2025-12-17 11:55:58,305 - INFO - [357/649] 爬取: Dr Luca Modenese
+2025-12-17 11:55:58,827 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/luca-modenese
+2025-12-17 11:56:00,832 - INFO - [358/649] 爬取: Mr Ben Modra
+2025-12-17 11:56:00,900 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ben-modra
+2025-12-17 11:56:02,905 - INFO - [359/649] 爬取: Dr Akram Mohamed Shafie
+2025-12-17 11:56:02,967 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/akram-mohamed-shafie
+2025-12-17 11:56:04,972 - INFO - [360/649] 爬取: Associate Professor Gelareh Mohammadi
+2025-12-17 11:56:05,064 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gelareh-mohammadi
+2025-12-17 11:56:05,064 - INFO - 中间保存进度: 360/649 | 成功: 360, 失败: 0
+2025-12-17 11:56:07,147 - INFO - [361/649] 爬取: Dr Milad Mohsenzadeh
+2025-12-17 11:56:07,238 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/milad-mohsenzadeh
+2025-12-17 11:56:09,243 - INFO - [362/649] 爬取: Mr Raktim Kumar Mondol
+2025-12-17 11:56:09,304 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/raktim-kumar-mondol
+2025-12-17 11:56:11,309 - INFO - [363/649] 爬取: Dr Laura Montano Luna
+2025-12-17 11:56:11,374 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/laura-montano-luna
+2025-12-17 11:56:13,379 - INFO - [364/649] 爬取: Associate Professor Danielle Moreau
+2025-12-17 11:56:13,516 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/danielle-moreau
+2025-12-17 11:56:15,521 - INFO - [365/649] 爬取: Scientia Professor Andrea Morello
+2025-12-17 11:56:15,666 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/andrea-morello
+2025-12-17 11:56:17,671 - INFO - [366/649] 爬取: Emeritus Professor Carroll Morgan
+2025-12-17 11:56:17,781 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/carroll-morgan
+2025-12-17 11:56:19,786 - INFO - [367/649] 爬取: Emeritus Professor Graham Morrison
+2025-12-17 11:56:19,933 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/graham-morrison
+2025-12-17 11:56:21,938 - INFO - [368/649] 爬取: Professor Daniel Moses
+2025-12-17 11:56:22,044 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/daniel-moses
+2025-12-17 11:56:24,049 - INFO - [369/649] 爬取: Professor Peyman Mostaghimi
+2025-12-17 11:56:24,177 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/peyman-mostaghimi
+2025-12-17 11:56:26,182 - INFO - [370/649] 爬取: Dr Mohsen Mousavi
+2025-12-17 11:56:26,258 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohsen-mousavi
+2025-12-17 11:56:26,258 - INFO - 中间保存进度: 370/649 | 成功: 370, 失败: 0
+2025-12-17 11:56:28,342 - INFO - [371/649] 爬取: Dr Ahmed Musleh
+2025-12-17 11:56:28,805 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ahmed-musleh
+2025-12-17 11:56:30,813 - INFO - [372/649] 爬取: Mr Prashanth Nagulapally
+2025-12-17 11:56:30,919 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/prashanth-nagulapally
+2025-12-17 11:56:32,924 - INFO - [373/649] 爬取: Dr Rishi Ravindra Naik
+2025-12-17 11:56:33,007 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rishi-ravindra-naik
+2025-12-17 11:56:35,008 - INFO - [374/649] 爬取: Dr Ali Najmi
+2025-12-17 11:56:35,109 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ali-najmi
+2025-12-17 11:56:37,114 - INFO - [375/649] 爬取: Dr Aous Naman
+2025-12-17 11:56:37,228 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/aous-naman
+2025-12-17 11:56:39,232 - INFO - [376/649] 爬取: Ms Shivika Narang
+2025-12-17 11:56:39,647 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shivika-narang
+2025-12-17 11:56:41,652 - INFO - [377/649] 爬取: Dr Shimul Kanti Nath
+2025-12-17 11:56:41,767 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shimul-kanti-nath
+2025-12-17 11:56:43,772 - INFO - [378/649] 爬取: Dr Peter Neal
+2025-12-17 11:56:44,313 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/peter-neal
+2025-12-17 11:56:46,318 - INFO - [379/649] 爬取: Mr Daniel Nebauer
+2025-12-17 11:56:46,729 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/daniel-nebauer
+2025-12-17 11:56:48,732 - INFO - [380/649] 爬取: Associate Professor Derrick Wing Kwan Ng
+2025-12-17 11:56:49,191 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/derrick-wing-kwan-ng
+2025-12-17 11:56:49,191 - INFO - 中间保存进度: 380/649 | 成功: 380, 失败: 0
+2025-12-17 11:56:51,280 - INFO - [381/649] 爬取: Mr Cong Nguyen
+2025-12-17 11:56:51,705 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/cong-nguyen
+2025-12-17 11:56:53,710 - INFO - [382/649] 爬取: Dr Wei Ni
+2025-12-17 11:56:55,667 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wei-ni
+2025-12-17 11:56:57,672 - INFO - [383/649] 爬取: Professor Bing-Jie Ni
+2025-12-17 11:56:58,012 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bing-jie-ni
+2025-12-17 11:57:00,017 - INFO - [384/649] 爬取: Dr Shuai Nie
+2025-12-17 11:57:00,541 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shuai-nie
+2025-12-17 11:57:02,546 - INFO - [385/649] 爬取: Dr Michael Nielsen
+2025-12-17 11:57:02,766 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-nielsen
+2025-12-17 11:57:04,771 - INFO - [386/649] 爬取: Associate Professor Robert Nordon
+2025-12-17 11:57:04,918 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/robert-nordon
+2025-12-17 11:57:06,923 - INFO - [387/649] 爬取: Dr Hendra Nurdin
+2025-12-17 11:57:07,103 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hendra-nurdin
+2025-12-17 11:57:09,108 - INFO - [388/649] 爬取: Mr Martin Nurizzo
+2025-12-17 11:57:09,219 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/martin-nurizzo
+2025-12-17 11:57:11,224 - INFO - [389/649] 爬取: Professor Denis O'Carroll
+2025-12-17 11:57:11,446 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/denis-o-carroll
+2025-12-17 11:57:13,451 - INFO - [390/649] 爬取: Dr Daniel O'Shea
+2025-12-17 11:57:13,570 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/daniel-o-shea
+2025-12-17 11:57:13,570 - INFO - 中间保存进度: 390/649 | 成功: 390, 失败: 0
+2025-12-17 11:57:15,658 - INFO - [391/649] 爬取: Associate Professor Edward Obbard
+2025-12-17 11:57:15,844 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/edward-obbard
+2025-12-17 11:57:17,849 - INFO - [392/649] 爬取: Associate Professor Joung Oh
+2025-12-17 11:57:18,007 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/joung-oh
+2025-12-17 11:57:20,012 - INFO - [393/649] 爬取: Dr John Olsen
+2025-12-17 11:57:20,168 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/john-olsen
+2025-12-17 11:57:22,173 - INFO - [394/649] 爬取: Dr Amr Omar
+2025-12-17 11:57:22,304 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/amr-omar
+2025-12-17 11:57:24,308 - INFO - [395/649] 爬取: Dr Ebrahim Oromiehie
+2025-12-17 11:57:25,291 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ebrahim-oromiehie
+2025-12-17 11:57:27,296 - INFO - [396/649] 爬取: Professor Maurice Pagnucco
+2025-12-17 11:57:27,484 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/maurice-pagnucco
+2025-12-17 11:57:29,489 - INFO - [397/649] 爬取: Associate Professor Helen Paik
+2025-12-17 11:57:29,690 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/helen-paik
+2025-12-17 11:57:31,695 - INFO - [398/649] 爬取: Dr Jian Pan
+2025-12-17 11:57:32,256 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jian-pan
+2025-12-17 11:57:34,261 - INFO - [399/649] 爬取: Mr Eh Hau Pan
+2025-12-17 11:57:34,377 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/eh-hau-pan
+2025-12-17 11:57:36,382 - INFO - [400/649] 爬取: Dr Rob Passey
+2025-12-17 11:57:36,546 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rob-passey
+2025-12-17 11:57:36,546 - INFO - 中间保存进度: 400/649 | 成功: 400, 失败: 0
+2025-12-17 11:57:38,631 - INFO - [401/649] 爬取: Professor Garth Pearce
+2025-12-17 11:57:38,798 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/garth-pearce
+2025-12-17 11:57:40,803 - INFO - [402/649] 爬取: Dr Phoebe Pearce
+2025-12-17 11:57:40,934 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/phoebe-pearce
+2025-12-17 11:57:42,939 - INFO - [403/649] 爬取: Dr Hammond Pearce
+2025-12-17 11:57:43,095 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hammond-pearce
+2025-12-17 11:57:45,100 - INFO - [404/649] 爬取: Dr Shuhua Peng
+2025-12-17 11:57:45,321 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shuhua-peng
+2025-12-17 11:57:47,326 - INFO - [405/649] 爬取: Professor Zhongxiao Peng
+2025-12-17 11:57:47,534 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhongxiao-peng
+2025-12-17 11:57:49,539 - INFO - [406/649] 爬取: Professor Gang-Ding Peng
+2025-12-17 11:57:49,998 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gang-ding-peng
+2025-12-17 11:57:52,003 - INFO - [407/649] 爬取: Dr Ivan Perez-Wurfl
+2025-12-17 11:57:52,178 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ivan-perez-wurfl
+2025-12-17 11:57:54,184 - INFO - [408/649] 爬取: Mr An Ninh Pham
+2025-12-17 11:57:54,325 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/an-ninh-pham
+2025-12-17 11:57:56,330 - INFO - [409/649] 爬取: Associate Professor Hoang-Phuong Phan
+2025-12-17 11:57:56,561 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hoang-phuong-phan
+2025-12-17 11:57:58,566 - INFO - [410/649] 爬取: Associate Professor Toan Phung
+2025-12-17 11:57:58,821 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/toan-phung
+2025-12-17 11:57:58,821 - INFO - 中间保存进度: 410/649 | 成功: 410, 失败: 0
+2025-12-17 11:58:00,908 - INFO - [411/649] 爬取: Associate Professor Jarryd Pla
+2025-12-17 11:58:01,063 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jarryd-pla
+2025-12-17 11:58:03,069 - INFO - [412/649] 爬取: Dr Pablo Poblete Durruty
+2025-12-17 11:58:03,183 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/pablo-poblete-durruty
+2025-12-17 11:58:05,188 - INFO - [413/649] 爬取: Dr Shukla Poddar
+2025-12-17 11:58:05,298 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shukla-poddar
+2025-12-17 11:58:07,303 - INFO - [414/649] 爬取: Dr Badal Pokharel
+2025-12-17 11:58:07,428 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/badal-pokharel
+2025-12-17 11:58:09,433 - INFO - [415/649] 爬取: Mr Vitalii Ponomar
+2025-12-17 11:58:09,558 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/vitalii-ponomar
+2025-12-17 11:58:11,563 - INFO - [416/649] 爬取: Professor Laura Poole-Warren
+2025-12-17 11:58:11,754 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/laura-poole-warren
+2025-12-17 11:58:13,759 - INFO - [417/649] 爬取: Dr Arian Prabowo
+2025-12-17 11:58:14,246 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arian-prabowo
+2025-12-17 11:58:16,251 - INFO - [418/649] 爬取: Mr Krish Prasad
+2025-12-17 11:58:16,774 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/krish-prasad
+2025-12-17 11:58:18,779 - INFO - [419/649] 爬取: Dr Abhnil Prasad
+2025-12-17 11:58:18,931 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/abhnil-prasad
+2025-12-17 11:58:20,936 - INFO - [420/649] 爬取: Professor Stuart Prescott
+2025-12-17 11:58:21,122 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/stuart-prescott
+2025-12-17 11:58:21,122 - INFO - 中间保存进度: 420/649 | 成功: 420, 失败: 0
+2025-12-17 11:58:23,210 - INFO - [421/649] 爬取: Dr Rita Prestigiacomo
+2025-12-17 11:58:23,770 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rita-prestigiacomo
+2025-12-17 11:58:25,775 - INFO - [422/649] 爬取: Dr Matthew Priestley
+2025-12-17 11:58:25,894 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/matthew-priestley
+2025-12-17 11:58:27,899 - INFO - [423/649] 爬取: Professor Gangadhara Prusty
+2025-12-17 11:58:28,222 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/gangadhara-prusty
+2025-12-17 11:58:30,227 - INFO - [424/649] 爬取: Dr Andreas Pusch
+2025-12-17 11:58:30,336 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/andreas-pusch
+2025-12-17 11:58:32,341 - INFO - [425/649] 爬取: Dr Chen Qian
+2025-12-17 11:58:32,486 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chen-qian
+2025-12-17 11:58:34,491 - INFO - [426/649] 爬取: Dr Min Qiu
+2025-12-17 11:58:34,633 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/min-qiu
+2025-12-17 11:58:36,638 - INFO - [427/649] 爬取: Professor Fethi Rabhi
+2025-12-17 11:58:36,822 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/fethi-rabhi
+2025-12-17 11:58:38,827 - INFO - [428/649] 爬取: Mr Mamunur Rahaman
+2025-12-17 11:58:38,955 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/md-mamunur-rahaman
+2025-12-17 11:58:40,960 - INFO - [429/649] 爬取: Dr Zahra Rahimpour
+2025-12-17 11:58:41,088 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zahra-rahimpour
+2025-12-17 11:58:43,093 - INFO - [430/649] 爬取: Professor Faz Rahman
+2025-12-17 11:58:43,490 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/faz-rahman
+2025-12-17 11:58:43,490 - INFO - 中间保存进度: 430/649 | 成功: 430, 失败: 0
+2025-12-17 11:58:45,580 - INFO - [431/649] 爬取: Emeritus Professor Sheik Rahman
+2025-12-17 11:58:45,826 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sheik-rahman
+2025-12-17 11:58:47,831 - INFO - [432/649] 爬取: Dr Vineet Rajani
+2025-12-17 11:58:48,028 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/vineet-rajani
+2025-12-17 11:58:50,034 - INFO - [433/649] 爬取: Dr Raju Raju
+2025-12-17 11:58:50,159 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/raju-raju
+2025-12-17 11:58:52,164 - INFO - [434/649] 爬取: Professor Rodica Ramer
+2025-12-17 11:58:52,385 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rodica-ramer
+2025-12-17 11:58:54,390 - INFO - [435/649] 爬取: Emeritus Professor Bob Randall
+2025-12-17 11:58:54,658 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bob-randall
+2025-12-17 11:58:56,663 - INFO - [436/649] 爬取: Associate Professor Simit Raval
+2025-12-17 11:58:56,843 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/simit-raval
+2025-12-17 11:58:58,848 - INFO - [437/649] 爬取: Professor Jayashri Ravishankar
+2025-12-17 11:58:59,012 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jayashri-ravishankar
+2025-12-17 11:59:01,017 - INFO - [438/649] 爬取: Dr Imran Razzak
+2025-12-17 11:59:01,279 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/imran-razzak
+2025-12-17 11:59:03,289 - INFO - [439/649] 爬取: Emeritus Professor Michael Regan
+2025-12-17 11:59:03,462 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-regan
+2025-12-17 11:59:05,472 - INFO - [440/649] 爬取: Dr Irene Renaud-Assemat
+2025-12-17 11:59:05,596 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/irene-renaud-assemat
+2025-12-17 11:59:05,596 - INFO - 中间保存进度: 440/649 | 成功: 440, 失败: 0
+2025-12-17 11:59:07,697 - INFO - [441/649] 爬取: Dr Jake Renzella
+2025-12-17 11:59:07,808 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jake-renzella
+2025-12-17 11:59:09,818 - INFO - [442/649] 爬取: Professor Chris Rizos
+2025-12-17 11:59:11,833 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chris-rizos
+2025-12-17 11:59:13,843 - INFO - [443/649] 爬取: Professor Jelena Rnjak-Kovacina
+2025-12-17 11:59:14,028 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jelena-rnjak-kovacina
+2025-12-17 11:59:16,039 - INFO - [444/649] 爬取: Dr Mike Roberts
+2025-12-17 11:59:16,171 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mike-roberts
+2025-12-17 11:59:18,181 - INFO - [445/649] 爬取: Associate Professor Craig Roberts
+2025-12-17 11:59:18,316 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/craig-roberts
+2025-12-17 11:59:20,326 - INFO - [446/649] 爬取: Professor Hamid Roshan
+2025-12-17 11:59:20,489 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hamid-roshan
+2025-12-17 11:59:22,499 - INFO - [447/649] 爬取: Dr Fiacre Rougieux
+2025-12-17 11:59:23,399 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/fiacre-rougieux
+2025-12-17 11:59:25,409 - INFO - [448/649] 爬取: Dr Mohammad Rowshan
+2025-12-17 11:59:25,526 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohammad-rowshan
+2025-12-17 11:59:27,536 - INFO - [449/649] 爬取: Associate Professor Sushmita Ruj
+2025-12-17 11:59:27,703 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sushmita-ruj
+2025-12-17 11:59:29,713 - INFO - [450/649] 爬取: Professor Adrian Russell
+2025-12-17 11:59:29,903 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/adrian-russell
+2025-12-17 11:59:29,903 - INFO - 中间保存进度: 450/649 | 成功: 450, 失败: 0
+2025-12-17 11:59:32,003 - INFO - [451/649] 爬取: Dr Helen Rutlidge
+2025-12-17 11:59:32,141 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/helen-rutlidge
+2025-12-17 11:59:34,151 - INFO - [452/649] 爬取: Associate Professor Meead Saberi Kalaee
+2025-12-17 11:59:34,314 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/meead-saberi-kalaee
+2025-12-17 11:59:36,324 - INFO - [453/649] 爬取: Dr Abdallah Saffidine
+2025-12-17 11:59:36,454 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/abdallah-saffidine
+2025-12-17 11:59:38,464 - INFO - [454/649] 爬取: Professor Flora Salim
+2025-12-17 11:59:38,760 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/flora-salim
+2025-12-17 11:59:40,770 - INFO - [455/649] 爬取: Dr Shanil Samarakoon
+2025-12-17 11:59:41,322 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shanil-samarakoon
+2025-12-17 11:59:43,332 - INFO - [456/649] 爬取: Professor Claude Sammut
+2025-12-17 11:59:43,541 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/claude-sammut
+2025-12-17 11:59:45,551 - INFO - [457/649] 爬取: Dr Rui SANG
+2025-12-17 11:59:46,180 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rui-sang
+2025-12-17 11:59:48,191 - INFO - [458/649] 爬取: Professor Andrei Savkine
+2025-12-17 11:59:48,549 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/andrey-savkine
+2025-12-17 11:59:50,559 - INFO - [459/649] 爬取: Professor Serkan Saydam
+2025-12-17 11:59:50,806 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/serkan-saydam
+2025-12-17 11:59:52,816 - INFO - [460/649] 爬取: Dr Michael Schofield
+2025-12-17 11:59:52,918 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-schofield
+2025-12-17 11:59:52,918 - INFO - 中间保存进度: 460/649 | 成功: 460, 失败: 0
+2025-12-17 11:59:55,023 - INFO - [461/649] 爬取: Associate Professor Jason Scott
+2025-12-17 11:59:55,235 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jason-scott
+2025-12-17 11:59:57,245 - INFO - [462/649] 爬取: Dr Timothy Scott
+2025-12-17 11:59:57,366 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/timothy-scott
+2025-12-17 11:59:59,376 - INFO - [463/649] 爬取: Mr Julius Secadiningrat
+2025-12-17 11:59:59,527 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/julius-secadiningrat
+2025-12-17 12:00:01,537 - INFO - [464/649] 爬取: Professor Cordelia Selomulya
+2025-12-17 12:00:01,745 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/cordelia-selomulya
+2025-12-17 12:00:03,756 - INFO - [465/649] 爬取: Dr Chandany Sen
+2025-12-17 12:00:03,884 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chandany-sen
+2025-12-17 12:00:05,894 - INFO - [466/649] 爬取: Professor Aruna Seneviratne
+2025-12-17 12:00:06,200 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/aruna-seneviratne
+2025-12-17 12:00:08,210 - INFO - [467/649] 爬取: Dr Sebastian Sequoiah-Grayson
+2025-12-17 12:00:08,330 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sebastian-sequoiah-grayson
+2025-12-17 12:00:10,340 - INFO - [468/649] 爬取: Associate Professor Vidhyasaharan Sethu
+2025-12-17 12:00:10,531 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/vidhyasaharan-sethu
+2025-12-17 12:00:12,542 - INFO - [469/649] 爬取: Dr Thomas Sewell
+2025-12-17 12:00:12,663 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/thomas-sewell
+2025-12-17 12:00:14,673 - INFO - [470/649] 爬取: Dr Zhao Sha
+2025-12-17 12:00:14,803 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhao-sha
+2025-12-17 12:00:14,803 - INFO - 中间保存进度: 470/649 | 成功: 470, 失败: 0
+2025-12-17 12:00:16,905 - INFO - [471/649] 爬取: Dr Arash Shaghaghi
+2025-12-17 12:00:17,080 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arash-shaghaghi
+2025-12-17 12:00:19,090 - INFO - [472/649] 爬取: Dr Babak Shahbodagh
+2025-12-17 12:00:19,232 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/babak-shahbodaghkhan
+2025-12-17 12:00:21,242 - INFO - [473/649] 爬取: Dr Mostafa Shahin
+2025-12-17 12:00:21,390 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mostafa-shahin
+2025-12-17 12:00:23,400 - INFO - [474/649] 爬取: Dr Ali Shakiba
+2025-12-17 12:00:23,972 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ali-shakiba
+2025-12-17 12:00:25,982 - INFO - [475/649] 爬取: Mr Yuan Shang
+2025-12-17 12:00:26,106 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yuan-shang
+2025-12-17 12:00:28,116 - INFO - [476/649] 爬取: Professor Ashish Sharma
+2025-12-17 12:00:28,430 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ashish-sharma
+2025-12-17 12:00:30,440 - INFO - [477/649] 爬取: Professor Yansong Shen
+2025-12-17 12:00:30,666 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yansong-shen
+2025-12-17 12:00:32,676 - INFO - [478/649] 爬取: Dr Johnson Xuesong Shen
+2025-12-17 12:00:32,853 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/johnson-xuesong-shen
+2025-12-17 12:00:34,863 - INFO - [479/649] 爬取: Dr John Shepherd
+2025-12-17 12:00:34,999 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/john-shepherd
+2025-12-17 12:00:37,009 - INFO - [480/649] 爬取: Dr Igor Shikhov
+2025-12-17 12:00:37,140 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/igor-shikhov
+2025-12-17 12:00:37,140 - INFO - 中间保存进度: 480/649 | 成功: 480, 失败: 0
+2025-12-17 12:00:39,248 - INFO - [481/649] 爬取: Associate Professor Mohit Shivdasani
+2025-12-17 12:00:39,462 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohit-shivdasani
+2025-12-17 12:00:41,472 - INFO - [482/649] 爬取: Associate Professor Santosh Shrestha
+2025-12-17 12:00:41,695 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/santosh-shrestha
+2025-12-17 12:00:43,705 - INFO - [483/649] 爬取: Dr Guangyao Si
+2025-12-17 12:00:44,475 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/guangyao-si
+2025-12-17 12:00:46,485 - INFO - [484/649] 爬取: Dr Ayesha Siddika
+2025-12-17 12:00:46,715 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ayesha-siddika
+2025-12-17 12:00:48,725 - INFO - [485/649] 爬取: Dr Sonit Singh
+2025-12-17 12:00:48,870 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sonit-singh
+2025-12-17 12:00:50,880 - INFO - [486/649] 爬取: Dr Shaveen Singh
+2025-12-17 12:00:50,988 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shaveen-singh
+2025-12-17 12:00:52,998 - INFO - [487/649] 爬取: Dr Rob Sison
+2025-12-17 12:00:53,187 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/robert-sison
+2025-12-17 12:00:55,197 - INFO - [488/649] 爬取: Professor Vijay Sivaraman
+2025-12-17 12:00:55,427 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/vijay-sivaraman
+2025-12-17 12:00:57,437 - INFO - [489/649] 爬取: Dr Wade Smith
+2025-12-17 12:00:57,624 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wade-smith
+2025-12-17 12:00:59,634 - INFO - [490/649] 爬取: Ms Anastasia Soeriyadi
+2025-12-17 12:00:59,849 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/anastasia-soeriyadi
+2025-12-17 12:00:59,849 - INFO - 中间保存进度: 490/649 | 成功: 490, 失败: 0
+2025-12-17 12:01:01,962 - INFO - [491/649] 爬取: Professor Prof. V. Solo
+2025-12-17 12:01:02,168 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/prof--v--solo
+2025-12-17 12:01:04,179 - INFO - [492/649] 爬取: Mr Wei Song
+2025-12-17 12:01:04,301 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wei-song
+2025-12-17 12:01:06,311 - INFO - [493/649] 爬取: Dr Ning Song
+2025-12-17 12:01:06,485 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ning-song
+2025-12-17 12:01:08,493 - INFO - [494/649] 爬取: Associate Professor Yang Song
+2025-12-17 12:01:08,692 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yang-song
+2025-12-17 12:01:10,702 - INFO - [495/649] 爬取: Professor Chongmin Song
+2025-12-17 12:01:10,995 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chongmin-song
+2025-12-17 12:01:13,005 - INFO - [496/649] 爬取: Professor Arcot Sowmya
+2025-12-17 12:01:13,326 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arcot-sowmya
+2025-12-17 12:01:15,336 - INFO - [497/649] 爬取: Associate Professor Patrick Spicer
+2025-12-17 12:01:15,574 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/patrick-spicer
+2025-12-17 12:01:17,584 - INFO - [498/649] 爬取: Associate Professor Kristen Splinter
+2025-12-17 12:01:17,764 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kristen-splinter
+2025-12-17 12:01:19,774 - INFO - [499/649] 爬取: Dr Annette Spooner
+2025-12-17 12:01:19,886 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/annette-spooner
+2025-12-17 12:01:21,896 - INFO - [500/649] 爬取: Professor Alistair Sproul
+2025-12-17 12:01:22,107 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/alistair-sproul
+2025-12-17 12:01:22,107 - INFO - 中间保存进度: 500/649 | 成功: 500, 失败: 0
+2025-12-17 12:01:24,215 - INFO - [501/649] 爬取: Dr Jennifer Stansby
+2025-12-17 12:01:24,330 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jennifer-stansby1
+2025-12-17 12:01:26,340 - INFO - [502/649] 爬取: Miss Holly Stemp
+2025-12-17 12:01:26,548 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/holly-stemp
+2025-12-17 12:01:28,558 - INFO - [503/649] 爬取: Ms Haley Stone
+2025-12-17 12:01:29,085 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/haley-stone
+2025-12-17 12:01:31,095 - INFO - [504/649] 爬取: Dr Naomi Stringer
+2025-12-17 12:01:31,660 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/naomi-stringer
+2025-12-17 12:01:33,670 - INFO - [505/649] 爬取: Professor Richard Stuetz
+2025-12-17 12:01:33,932 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/richard-stuetz
+2025-12-17 12:01:35,942 - INFO - [506/649] 爬取: Mr Rocky Su
+2025-12-17 12:01:36,445 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rocky-su
+2025-12-17 12:01:38,455 - INFO - [507/649] 爬取: Dr Adnan Sufian
+2025-12-17 12:01:38,949 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/adnan-sufian
+2025-12-17 12:01:40,959 - INFO - [508/649] 爬取: Associate Professor Yulei Sui
+2025-12-17 12:01:41,145 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yulei-sui
+2025-12-17 12:01:43,155 - INFO - [509/649] 爬取: Dr Basem Suleiman
+2025-12-17 12:01:43,402 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/basem-suleiman
+2025-12-17 12:01:45,412 - INFO - [510/649] 爬取: Dr Kaiwen Sun
+2025-12-17 12:01:45,620 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kaiwen-sun
+2025-12-17 12:01:45,620 - INFO - 中间保存进度: 510/649 | 成功: 510, 失败: 0
+2025-12-17 12:01:47,729 - INFO - [511/649] 爬取: Dr Yingying Sun
+2025-12-17 12:01:48,401 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yingying-sun
+2025-12-17 12:01:50,411 - INFO - [512/649] 爬取: Professor Changming Sun
+2025-12-17 12:01:50,635 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/changming-sun
+2025-12-17 12:01:52,645 - INFO - [513/649] 爬取: Miss Christine Sun
+2025-12-17 12:01:53,139 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/christine-sun
+2025-12-17 12:01:55,149 - INFO - [514/649] 爬取: Dr Mahesh Suryawanshi
+2025-12-17 12:01:55,292 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mahesh-suryawanshi
+2025-12-17 12:01:57,302 - INFO - [515/649] 爬取: Dr Maliheh Tabasi
+2025-12-17 12:01:57,530 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/maliheh-tabasi
+2025-12-17 12:01:59,540 - INFO - [516/649] 爬取: Dr Benjamin Tag
+2025-12-17 12:01:59,695 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/benjamin-tag
+2025-12-17 12:02:01,705 - INFO - [517/649] 爬取: Dr Siddulu Naidu TALAPANENI
+2025-12-17 12:02:02,381 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/siddulu-naidu-talapaneni
+2025-12-17 12:02:04,391 - INFO - [518/649] 爬取: Dr Bojan Tamburic
+2025-12-17 12:02:04,529 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bojan-tamburic
+2025-12-17 12:02:06,539 - INFO - [519/649] 爬取: Ms Yue Tan
+2025-12-17 12:02:06,740 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yue-tan
+2025-12-17 12:02:08,750 - INFO - [520/649] 爬取: Dr Julie Tang
+2025-12-17 12:02:08,848 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/julie-tang
+2025-12-17 12:02:08,848 - INFO - 中间保存进度: 520/649 | 成功: 520, 失败: 0
+2025-12-17 12:02:10,965 - INFO - [521/649] 爬取: Mr Xinxin Tang
+2025-12-17 12:02:11,103 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xinxin-tang
+2025-12-17 12:02:13,113 - INFO - [522/649] 爬取: Associate Professor Shiyang Tang
+2025-12-17 12:02:13,549 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shiyang-tang
+2025-12-17 12:02:15,559 - INFO - [523/649] 爬取: Dr Tuomo Tanttu
+2025-12-17 12:02:15,724 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/tuomo-tanttu
+2025-12-17 12:02:17,734 - INFO - [524/649] 爬取: Professor David Taubman
+2025-12-17 12:02:17,944 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/david-taubman
+2025-12-17 12:02:19,954 - INFO - [525/649] 爬取: Associate Professor Murad Tayebjee
+2025-12-17 12:02:20,124 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/murad-tayebjee
+2025-12-17 12:02:22,134 - INFO - [526/649] 爬取: Professor Robert Taylor
+2025-12-17 12:02:22,413 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/robert-taylor
+2025-12-17 12:02:24,423 - INFO - [527/649] 爬取: Dr Jerrin Thadathil Varghese
+2025-12-17 12:02:24,538 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jerrin-thadathil-varghese
+2025-12-17 12:02:26,548 - INFO - [528/649] 爬取: Dr Sirojan Tharmakulasingam
+2025-12-17 12:02:26,664 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sirojan-tharmakulasingam
+2025-12-17 12:02:28,674 - INFO - [529/649] 爬取: Professor Michael Thielscher
+2025-12-17 12:02:28,879 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-thielscher
+2025-12-17 12:02:30,890 - INFO - [530/649] 爬取: Doctor Steven Thompson
+2025-12-17 12:02:31,626 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/steven-thompson
+2025-12-17 12:02:31,626 - INFO - 中间保存进度: 530/649 | 成功: 530, 失败: 0
+2025-12-17 12:02:33,747 - INFO - [531/649] 爬取: Associate Professor Victoria Timchenko
+2025-12-17 12:02:33,990 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/victoria-timchenko
+2025-12-17 12:02:36,000 - INFO - [532/649] 爬取: Emeritus Professor Francis Tin Loi
+2025-12-17 12:02:36,193 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/francis-tin-loi
+2025-12-17 12:02:38,204 - INFO - [533/649] 爬取: Dr Rohit Tiwari
+2025-12-17 12:02:38,353 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rohit-tiwari
+2025-12-17 12:02:40,363 - INFO - [534/649] 爬取: Dr Han Tng
+2025-12-17 12:02:40,856 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/keng-han-tng
+2025-12-17 12:02:42,866 - INFO - [535/649] 爬取: Dr Inma Tomeo-Reyes
+2025-12-17 12:02:42,988 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/inma-tomeo-reyes
+2025-12-17 12:02:44,998 - INFO - [536/649] 爬取: Ms Dana Tothova
+2025-12-17 12:02:45,108 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/dana-tothova
+2025-12-17 12:02:47,118 - INFO - [537/649] 爬取: Emeritus Professor John Trinder
+2025-12-17 12:02:47,905 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/john-trinder
+2025-12-17 12:02:49,915 - INFO - [538/649] 爬取: Dr Francisco Trujillo
+2025-12-17 12:02:50,111 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/francisco-trujillo
+2025-12-17 12:02:52,121 - INFO - [539/649] 爬取: Professor Thorsten Trupke
+2025-12-17 12:02:52,356 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/thorsten-trupke
+2025-12-17 12:02:54,366 - INFO - [540/649] 爬取: Dr David Tsai
+2025-12-17 12:02:54,575 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/david-tsai
+2025-12-17 12:02:54,575 - INFO - 中间保存进度: 540/649 | 成功: 540, 失败: 0
+2025-12-17 12:02:56,690 - INFO - [541/649] 爬取: Dr Ernest Tse
+2025-12-17 12:02:56,835 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ernest-tse
+2025-12-17 12:02:58,845 - INFO - [542/649] 爬取: Mr Toby Tucker
+2025-12-17 12:02:59,052 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/toby-tucker
+2025-12-17 12:03:01,062 - INFO - [543/649] 爬取: Professor Ian Turner
+2025-12-17 12:03:01,292 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ian-turner
+2025-12-17 12:03:03,302 - INFO - [544/649] 爬取: Associate Professor Ashraf Uddin
+2025-12-17 12:03:03,552 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ashraf-uddin
+2025-12-17 12:03:05,562 - INFO - [545/649] 爬取: Scientia Professor Brian Uy
+2025-12-17 12:03:05,853 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/brian-uy
+2025-12-17 12:03:07,863 - INFO - [546/649] 爬取: Dr Mohammad Vahab
+2025-12-17 12:03:08,351 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mohammad-vahab
+2025-12-17 12:03:10,361 - INFO - [547/649] 爬取: Professor Hamid Vali Pour Goudarzi
+2025-12-17 12:03:10,631 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hamid-vali-pour-goudarzi
+2025-12-17 12:03:12,641 - INFO - [548/649] 爬取: Professor Ron Van der Meyden
+2025-12-17 12:03:12,904 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ron-van-der-meyden
+2025-12-17 12:03:14,914 - INFO - [549/649] 爬取: Dr Michelle Vaqueiro Contreras
+2025-12-17 12:03:15,030 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michelle-vaqueiro-contreras
+2025-12-17 12:03:17,040 - INFO - [550/649] 爬取: Dr Sasha Vassar
+2025-12-17 12:03:17,150 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sasha-vassar
+2025-12-17 12:03:17,150 - INFO - 中间保存进度: 550/649 | 成功: 550, 失败: 0
+2025-12-17 12:03:19,271 - INFO - [551/649] 爬取: Dr Bruno Vicari Stefani
+2025-12-17 12:03:19,483 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/bruno-vicari-stefani
+2025-12-17 12:03:21,493 - INFO - [552/649] 爬取: Dr Javier Videla Mario
+2025-12-17 12:03:21,982 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/javier-videla-mario
+2025-12-17 12:03:23,992 - INFO - [553/649] 爬取: Professor Arianna Vignati
+2025-12-17 12:03:24,200 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/arianna-vignati
+2025-12-17 12:03:26,208 - INFO - [554/649] 爬取: Dr Elisabeth Vogel
+2025-12-17 12:03:26,295 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/elisabeth-vogel
+2025-12-17 12:03:28,296 - INFO - [555/649] 爬取: Dr Zoran Vulovic
+2025-12-17 12:03:28,431 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zoran-vulovic
+2025-12-17 12:03:30,441 - INFO - [556/649] 爬取: Scientia Professor David Waite
+2025-12-17 12:03:30,819 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/david-waite
+2025-12-17 12:03:32,829 - INFO - [557/649] 爬取: Scientia Professor Toby Walsh
+2025-12-17 12:03:33,126 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/toby-walsh
+2025-12-17 12:03:35,136 - INFO - [558/649] 爬取: Mr Ao Wang
+2025-12-17 12:03:35,267 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ao-wang
+2025-12-17 12:03:37,277 - INFO - [559/649] 爬取: Dr Li Wang
+2025-12-17 12:03:37,429 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/li-wang
+2025-12-17 12:03:39,439 - INFO - [560/649] 爬取: Dr Wei Wang
+2025-12-17 12:03:39,672 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wei-wang
+2025-12-17 12:03:39,672 - INFO - 中间保存进度: 560/649 | 成功: 560, 失败: 0
+2025-12-17 12:03:41,791 - INFO - [561/649] 爬取: Emeritus Professor Jun Wang
+2025-12-17 12:03:42,095 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jun-wang
+2025-12-17 12:03:44,105 - INFO - [562/649] 爬取: Dr Sisi Wang
+2025-12-17 12:03:44,229 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sisi-wang
+2025-12-17 12:03:46,239 - INFO - [563/649] 爬取: Dr Yong Wang
+2025-12-17 12:03:46,424 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yong-wang
+2025-12-17 12:03:48,434 - INFO - [564/649] 爬取: Scientia Professor Chun Wang
+2025-12-17 12:03:48,750 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chun-wang
+2025-12-17 12:03:50,760 - INFO - [565/649] 爬取: Dr Qihan Wang
+2025-12-17 12:03:50,883 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/qihan-wang
+2025-12-17 12:03:52,893 - INFO - [566/649] 爬取: Dr Cheng Wang
+2025-12-17 12:03:53,059 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/cheng-wang
+2025-12-17 12:03:55,069 - INFO - [567/649] 爬取: Dr Yanzhi Wang
+2025-12-17 12:03:55,192 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yanzhi-wang
+2025-12-17 12:03:57,202 - INFO - [568/649] 爬取: Dr Ziqing Wang
+2025-12-17 12:03:57,332 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ziqing-wang
+2025-12-17 12:03:59,342 - INFO - [569/649] 爬取: Dr Dadong Wang
+2025-12-17 12:03:59,520 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/dadong-wang
+2025-12-17 12:04:01,530 - INFO - [570/649] 爬取: Associate Professor Jinling Wang
+2025-12-17 12:04:01,796 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jinling-wang
+2025-12-17 12:04:01,796 - INFO - 中间保存进度: 570/649 | 成功: 570, 失败: 0
+2025-12-17 12:04:03,915 - INFO - [571/649] 爬取: Dr Xiaoyang Wang
+2025-12-17 12:04:04,082 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xiaoyang-wang
+2025-12-17 12:04:06,092 - INFO - [572/649] 爬取: Professor Da-Wei Wang
+2025-12-17 12:04:06,378 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/da-wei-wang
+2025-12-17 12:04:08,388 - INFO - [573/649] 爬取: Dr Ying Da Wang
+2025-12-17 12:04:09,237 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ying-da-wang
+2025-12-17 12:04:11,248 - INFO - [574/649] 爬取: Dr Dong Wen
+2025-12-17 12:04:11,389 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/dong-wen
+2025-12-17 12:04:13,399 - INFO - [575/649] 爬取: Mr Mark Whelan
+2025-12-17 12:04:13,511 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mark-whelan
+2025-12-17 12:04:15,521 - INFO - [576/649] 爬取: Emeritus Professor John Whitelock
+2025-12-17 12:04:15,704 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/john-whitelock
+2025-12-17 12:04:17,714 - INFO - [577/649] 爬取: Dr Peter Wich
+2025-12-17 12:04:17,889 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/peter-wich
+2025-12-17 12:04:19,899 - INFO - [578/649] 爬取: Dr Fitri Widhiastuti
+2025-12-17 12:04:20,057 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/fitri-widhiastuti
+2025-12-17 12:04:22,067 - INFO - [579/649] 爬取: Professor Tommy Wiedmann
+2025-12-17 12:04:22,281 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/tommy-wiedmann
+2025-12-17 12:04:24,291 - INFO - [580/649] 爬取: Mr Benjamin Willis
+2025-12-17 12:04:24,398 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/benjamin-willis
+2025-12-17 12:04:24,399 - INFO - 中间保存进度: 580/649 | 成功: 580, 失败: 0
+2025-12-17 12:04:26,528 - INFO - [581/649] 爬取: Associate Professor Wayne Wobcke
+2025-12-17 12:04:26,654 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wayne-wobcke
+2025-12-17 12:04:28,664 - INFO - [582/649] 爬取: Associate Professor Aron Woldeghiorgis
+2025-12-17 12:04:28,819 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/aron-michael
+2025-12-17 12:04:30,829 - INFO - [583/649] 爬取: Dr Edgar Wong
+2025-12-17 12:04:30,977 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/edgar-wong
+2025-12-17 12:04:32,987 - INFO - [584/649] 爬取: Dr Victor Wong
+2025-12-17 12:04:33,494 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/victor-wong
+2025-12-17 12:04:35,504 - INFO - [585/649] 爬取: Dr Malcolm Wong
+2025-12-17 12:04:35,959 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/malcolm-wong
+2025-12-17 12:04:37,969 - INFO - [586/649] 爬取: Associate Professor Raymond Wong
+2025-12-17 12:04:38,216 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/raymond-wong
+2025-12-17 12:04:40,226 - INFO - [587/649] 爬取: Dr Choon Jie Wong
+2025-12-17 12:04:40,681 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/choon-jie-wong
+2025-12-17 12:04:42,691 - INFO - [588/649] 爬取: Dr Brendan Wright
+2025-12-17 12:04:42,859 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/brendan-wright
+2025-12-17 12:04:44,869 - INFO - [589/649] 爬取: Dr Leo Wu
+2025-12-17 12:04:45,030 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/leo-wu
+2025-12-17 12:04:47,040 - INFO - [590/649] 爬取: Mr Xinyuan Wu
+2025-12-17 12:04:47,494 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xinyuan-wu
+2025-12-17 12:04:47,494 - INFO - 中间保存进度: 590/649 | 成功: 590, 失败: 0
+2025-12-17 12:04:49,620 - INFO - [591/649] 爬取: Associate Professor Zhenhai Xia
+2025-12-17 12:04:49,820 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhenhai-xia
+2025-12-17 12:04:51,830 - INFO - [592/649] 爬取: Dr Shane Xie
+2025-12-17 12:04:51,963 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yixuan-xie
+2025-12-17 12:04:53,973 - INFO - [593/649] 爬取: Dr Zhouzun Xie
+2025-12-17 12:04:54,488 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhouzun-xie
+2025-12-17 12:04:56,498 - INFO - [594/649] 爬取: Dr Chengpei Xu
+2025-12-17 12:04:56,649 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chengpei-xu
+2025-12-17 12:04:58,659 - INFO - [595/649] 爬取: Associate Professor Jiangtao Xu
+2025-12-17 12:04:58,845 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jiangtao-xu
+2025-12-17 12:05:00,855 - INFO - [596/649] 爬取: Dr Hao Xue
+2025-12-17 12:05:01,012 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hao-xue
+2025-12-17 12:05:03,022 - INFO - [597/649] 爬取: Scientia Professor Jingling Xue
+2025-12-17 12:05:03,268 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jingling-xue
+2025-12-17 12:05:05,279 - INFO - [598/649] 爬取: Dr Yang Yang
+2025-12-17 12:05:05,423 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yang-yang
+2025-12-17 12:05:07,433 - INFO - [599/649] 爬取: Associate Professor Henry Yang
+2025-12-17 12:05:07,608 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/henry-yang
+2025-12-17 12:05:09,618 - INFO - [600/649] 爬取: Dr Zhengyi Yang
+2025-12-17 12:05:09,863 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhengyi-yang
+2025-12-17 12:05:09,863 - INFO - 中间保存进度: 600/649 | 成功: 600, 失败: 0
+2025-12-17 12:05:11,988 - INFO - [601/649] 爬取: Professor Lina Yao
+2025-12-17 12:05:12,367 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lina-yao
+2025-12-17 12:05:14,377 - INFO - [602/649] 爬取: Dr Yendrew Yauwenas
+2025-12-17 12:05:14,503 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yendrew-yauwenas
+2025-12-17 12:05:16,513 - INFO - [603/649] 爬取: Dr Qianyu Ye
+2025-12-17 12:05:16,962 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/qianyu-ye
+2025-12-17 12:05:18,972 - INFO - [604/649] 爬取: Professor Guan Yeoh
+2025-12-17 12:05:19,286 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/guan-yeoh
+2025-12-17 12:05:21,296 - INFO - [605/649] 爬取: Dr Jonathan Yeow
+2025-12-17 12:05:21,436 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jonathan-yeow
+2025-12-17 12:05:23,446 - INFO - [606/649] 爬取: Dr Steve Yianni
+2025-12-17 12:05:23,565 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/steve-yianni
+2025-12-17 12:05:25,575 - INFO - [607/649] 爬取: Dr Baran Yildiz
+2025-12-17 12:05:25,715 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/baran-yildiz
+2025-12-17 12:05:27,725 - INFO - [608/649] 爬取: Dr Hang Yin
+2025-12-17 12:05:28,480 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/hang-yin
+2025-12-17 12:05:30,490 - INFO - [609/649] 爬取: Dr Sunhyung Yoo
+2025-12-17 12:05:30,647 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/sunhyung-yoo
+2025-12-17 12:05:32,657 - INFO - [610/649] 爬取: Dr Yang Yu
+2025-12-17 12:05:32,843 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yang-yu
+2025-12-17 12:05:32,843 - INFO - 中间保存进度: 610/649 | 成功: 610, 失败: 0
+2025-12-17 12:05:34,970 - INFO - [611/649] 爬取: Mr Steve Yu
+2025-12-17 12:05:35,380 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/steve-yu
+2025-12-17 12:05:37,390 - INFO - [612/649] 爬取: Mr Michael Yu
+2025-12-17 12:05:37,889 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/michael-yu
+2025-12-17 12:05:39,899 - INFO - [613/649] 爬取: Dr Xiaobing Yu
+2025-12-17 12:05:40,560 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/xiaobing-yu
+2025-12-17 12:05:42,570 - INFO - [614/649] 爬取: Professor Jinhong Yuan
+2025-12-17 12:05:43,066 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jinhong-yuan
+2025-12-17 12:05:45,076 - INFO - [615/649] 爬取: Dr Yiyu Zeng
+2025-12-17 12:05:45,758 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yiyu-zeng
+2025-12-17 12:05:47,768 - INFO - [616/649] 爬取: Professor Per Zetterlund
+2025-12-17 12:05:48,006 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/per-zetterlund
+2025-12-17 12:05:50,016 - INFO - [617/649] 爬取: Dr Qingfeng Zhai
+2025-12-17 12:05:50,152 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/qingfeng-zhai
+2025-12-17 12:05:52,162 - INFO - [618/649] 爬取: Associate Professor Jin Zhang
+2025-12-17 12:05:52,335 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jin-zhang
+2025-12-17 12:05:54,345 - INFO - [619/649] 爬取: Professor Wei Zhang
+2025-12-17 12:05:54,611 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wei-zhang
+2025-12-17 12:05:56,621 - INFO - [620/649] 爬取: Mr Ding Zhang
+2025-12-17 12:05:57,113 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ding-zhang
+2025-12-17 12:05:57,114 - INFO - 中间保存进度: 620/649 | 成功: 620, 失败: 0
+2025-12-17 12:05:59,249 - INFO - [621/649] 爬取: Dr Meng Zhang
+2025-12-17 12:05:59,472 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/meng-zhang
+2025-12-17 12:06:01,482 - INFO - [622/649] 爬取: Associate Professor Haibo Zhang
+2025-12-17 12:06:01,704 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/haibo-zhang
+2025-12-17 12:06:03,714 - INFO - [623/649] 爬取: Dr Daming Zhang
+2025-12-17 12:06:03,892 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/daming-zhang
+2025-12-17 12:06:05,902 - INFO - [624/649] 爬取: Dr Yuchen Zhang
+2025-12-17 12:06:06,029 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yuchen-zhang
+2025-12-17 12:06:08,039 - INFO - [625/649] 爬取: Dr Boming Zhang
+2025-12-17 12:06:08,153 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/boming-zhang
+2025-12-17 12:06:10,163 - INFO - [626/649] 爬取: Dr Mingzi Zhang
+2025-12-17 12:06:10,944 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mingzi-zhang
+2025-12-17 12:06:12,954 - INFO - [627/649] 爬取: Professor Wenjie Zhang
+2025-12-17 12:06:13,208 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/wenjie-zhang
+2025-12-17 12:06:15,218 - INFO - [628/649] 爬取: Dr Rachel Zhang
+2025-12-17 12:06:15,446 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/rachel-zhang
+2025-12-17 12:06:17,456 - INFO - [629/649] 爬取: Dr Kefeng Zhang
+2025-12-17 12:06:17,590 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kefeng-zhang
+2025-12-17 12:06:19,600 - INFO - [630/649] 爬取: Scientia Professor Liangchi Zhang
+2025-12-17 12:06:21,355 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/liangchi-zhang
+2025-12-17 12:06:21,356 - INFO - 中间保存进度: 630/649 | 成功: 630, 失败: 0
+2025-12-17 12:06:23,486 - INFO - [631/649] 爬取: Associate Professor Chengguo Zhang
+2025-12-17 12:06:23,670 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/chengguo-zhang
+2025-12-17 12:06:25,680 - INFO - [632/649] 爬取: Associate Professor Jian Zhao
+2025-12-17 12:06:25,836 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jian-zhao
+2025-12-17 12:06:27,846 - INFO - [633/649] 爬取: Dr Jing (Camille) Zhao
+2025-12-17 12:06:28,306 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jing-zhao
+2025-12-17 12:06:30,315 - INFO - [634/649] 爬取: Dr Liya Zhao
+2025-12-17 12:06:30,490 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/liya-zhao
+2025-12-17 12:06:32,500 - INFO - [635/649] 爬取: Associate Professor Min Zheng
+2025-12-17 12:06:32,735 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/min-zheng
+2025-12-17 12:06:34,745 - INFO - [636/649] 爬取: Dr Zhaozhi Zheng
+2025-12-17 12:06:34,866 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhaozhi-zheng
+2025-12-17 12:06:36,876 - INFO - [637/649] 爬取: Dr Shujie Zhou
+2025-12-17 12:06:37,009 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/shujie-zhou
+2025-12-17 12:06:39,019 - INFO - [638/649] 爬取: Dr Yincai Zhou
+2025-12-17 12:06:39,143 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yincai-zhou
+2025-12-17 12:06:41,153 - INFO - [639/649] 爬取: Dr Zhuangyi Zhou
+2025-12-17 12:06:41,277 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/zhuangyi-zhou2
+2025-12-17 12:06:43,288 - INFO - [640/649] 爬取: Dr Yan Zhu
+2025-12-17 12:06:43,429 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yan-zhu
+2025-12-17 12:06:43,429 - INFO - 中间保存进度: 640/649 | 成功: 640, 失败: 0
+2025-12-17 12:06:45,562 - INFO - [641/649] 爬取: Miss Charlotte Zhu
+2025-12-17 12:06:46,001 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/charlotte-zhu
+2025-12-17 12:06:48,011 - INFO - [642/649] 爬取: Mr Yuting Zhuo
+2025-12-17 12:06:48,131 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yuting-zhuo
+2025-12-17 12:06:50,142 - INFO - [643/649] 爬取: Yun Ye
+2025-12-17 12:06:50,248 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/yun-ye
+2025-12-17 12:06:52,258 - INFO - [644/649] 爬取: Kai Zhao
+2025-12-17 12:06:52,377 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/kai-zhao
+2025-12-17 12:06:54,387 - INFO - [645/649] 爬取: Lucian Hiss
+2025-12-17 12:06:54,487 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/lucian-hiss
+2025-12-17 12:06:56,497 - INFO - [646/649] 爬取: Jingwei Hou
+2025-12-17 12:06:56,878 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/jingwei-hou
+2025-12-17 12:06:58,888 - INFO - [647/649] 爬取: Francois Flocard
+2025-12-17 12:06:59,016 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/francois-flocard
+2025-12-17 12:07:01,026 - INFO - [648/649] 爬取: Shamim Aryampa
+2025-12-17 12:07:01,137 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/ms-shamim-aryampa
+2025-12-17 12:07:03,147 - INFO - [649/649] 爬取: Ademir Abdala Prata Junior
+2025-12-17 12:07:03,256 - INFO - ✓ 成功爬取: https://www.unsw.edu.au/staff/mr-ademir-abdala-prata-junior
+2025-12-17 12:07:05,266 - INFO - 保存结果到: engineering_staff_with_profiles.json
+2025-12-17 12:07:05,429 - INFO - ============================================================
+2025-12-17 12:07:05,429 - INFO - 完成! 总数: 649 | 成功: 649, 失败: 0
+2025-12-17 12:07:05,429 - INFO - ============================================================

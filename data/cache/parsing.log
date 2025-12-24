@@ -1,0 +1,2067 @@
+2025-12-19 15:21:25,687 - INFO - ================================================================================
+2025-12-19 15:21:25,688 - INFO - Step 2: 解析 Publications 并获取 Abstract
+2025-12-19 15:21:25,688 - INFO - ================================================================================
+2025-12-19 15:21:25,838 - INFO - 
+Total staff: 649
+2025-12-19 15:21:25,838 - INFO - Already processed: 0
+2025-12-19 15:21:25,838 - INFO - Max workers: 5
+2025-12-19 15:21:25,838 - INFO - Pending staff: 649
+2025-12-19 15:21:25,839 - INFO - 
+[1/649] Processing Dr Shiva Abdoli
+2025-12-19 15:21:25,843 - INFO -   ✓ 105 chunks created
+2025-12-19 15:21:25,843 - INFO - 
+[2/649] Processing Mr Zubair Abdullah-Vetter
+2025-12-19 15:21:25,846 - INFO -   ✓ 48 chunks created
+2025-12-19 15:21:25,846 - INFO - 
+[3/649] Processing Professor Elias Aboutanios
+2025-12-19 15:21:25,860 - INFO -   ✓ 341 chunks created
+2025-12-19 15:21:25,860 - INFO - 
+[4/649] Processing Dr Othman Abu Laban
+2025-12-19 15:21:25,862 - INFO -   ✓ 27 chunks created
+2025-12-19 15:21:25,862 - INFO - 
+[5/649] Processing Emeritus Professor Ian Acworth
+2025-12-19 15:21:25,887 - INFO -   ✓ 305 chunks created
+2025-12-19 15:21:27,734 - INFO -   💾 Progress saved (batch 1)
+2025-12-19 15:21:27,734 - INFO - 
+[6/649] Processing Dr Vipul Agarwal
+2025-12-19 15:21:27,741 - INFO -   ✓ 155 chunks created
+2025-12-19 15:21:27,741 - INFO - 
+[7/649] Processing Associate Professor Beena Ahmed
+2025-12-19 15:21:27,760 - INFO -   ✓ 295 chunks created
+2025-12-19 15:21:27,760 - INFO - 
+[8/649] Processing Dr Xiaoyu Ai
+2025-12-19 15:21:27,762 - INFO -   ✓ 26 chunks created
+2025-12-19 15:21:27,762 - INFO - 
+[9/649] Processing Mrs Sharareh Akbarian
+2025-12-19 15:21:27,763 - INFO -   ✓ 24 chunks created
+2025-12-19 15:21:27,763 - INFO - 
+[10/649] Processing Dr Amr Al Abed
+2025-12-19 15:21:27,774 - INFO -   ✓ 171 chunks created
+2025-12-19 15:21:29,614 - INFO -   💾 Progress saved (batch 2)
+2025-12-19 15:21:29,614 - INFO - 
+[11/649] Processing Mr Md Shariful Alam
+2025-12-19 15:21:29,615 - INFO -   ✓ 26 chunks created
+2025-12-19 15:21:29,615 - INFO - 
+[12/649] Processing Mr Karen alavi
+2025-12-19 15:21:29,615 - INFO - 
+[13/649] Processing Dr Hamid Alinejad-Rokny
+2025-12-19 15:21:29,634 - INFO -   ✓ 503 chunks created
+2025-12-19 15:21:29,634 - INFO - 
+[14/649] Processing Dr Reem Almasri
+2025-12-19 15:21:29,636 - INFO -   ✓ 31 chunks created
+2025-12-19 15:21:29,636 - INFO - 
+[15/649] Processing Dr Mohammed Alnahhal
+2025-12-19 15:21:29,638 - INFO -   ✓ 47 chunks created
+2025-12-19 15:21:31,483 - INFO -   💾 Progress saved (batch 3)
+2025-12-19 15:21:31,483 - INFO - 
+[16/649] Processing Scientia Professor Rose Amal
+2025-12-19 15:21:31,551 - INFO -   ✓ 1488 chunks created
+2025-12-19 15:21:31,551 - INFO - 
+[17/649] Processing Dr Johannes Aman Pohjola
+2025-12-19 15:21:31,554 - INFO -   ✓ 66 chunks created
+2025-12-19 15:21:31,554 - INFO - 
+[18/649] Processing Mr Ali Amani Geshnigani
+2025-12-19 15:21:31,554 - INFO -   ✓ 11 chunks created
+2025-12-19 15:21:31,554 - INFO - 
+[19/649] Processing Professor Eliathamby Ambikairajah
+2025-12-19 15:21:31,600 - INFO -   ✓ 601 chunks created
+2025-12-19 15:21:31,600 - INFO - 
+[20/649] Processing Associate Professor Martin Andersen
+2025-12-19 15:21:31,627 - INFO -   ✓ 465 chunks created
+2025-12-19 15:21:33,471 - INFO -   💾 Progress saved (batch 4)
+2025-12-19 15:21:33,471 - INFO - 
+[21/649] Processing Dr Ayad Anwer
+2025-12-19 15:21:33,478 - INFO -   ✓ 149 chunks created
+2025-12-19 15:21:33,479 - INFO - 
+[22/649] Processing Mr Shuang Ao
+2025-12-19 15:21:33,479 - INFO -   ✓ 6 chunks created
+2025-12-19 15:21:33,479 - INFO - 
+[23/649] Processing Mr Thomas Archbold
+2025-12-19 15:21:33,479 - INFO - 
+[24/649] Processing Professor Jayashree Arcot
+2025-12-19 15:21:33,495 - INFO -   ✓ 313 chunks created
+2025-12-19 15:21:33,495 - INFO - 
+[25/649] Processing Dr Ulises Aregueta Robles
+2025-12-19 15:21:33,497 - INFO -   ✓ 60 chunks created
+2025-12-19 15:21:35,352 - INFO -   💾 Progress saved (batch 5)
+2025-12-19 15:21:35,352 - INFO - 
+[26/649] Processing Dr Reza Argha
+2025-12-19 15:21:35,366 - INFO -   ✓ 256 chunks created
+2025-12-19 15:21:35,366 - INFO - 
+[27/649] Processing Dr Lucy Armitage
+2025-12-19 15:21:35,369 - INFO -   ✓ 49 chunks created
+2025-12-19 15:21:35,369 - INFO - 
+[28/649] Processing Professor Ryan Armstrong
+2025-12-19 15:21:35,389 - INFO -   ✓ 493 chunks created
+2025-12-19 15:21:35,389 - INFO - 
+[29/649] Processing Professor Christoph Arns
+2025-12-19 15:21:35,412 - INFO -   ✓ 412 chunks created
+2025-12-19 15:21:35,412 - INFO - 
+[30/649] Processing Dr Annie Gilda Roselin Arockia Baskaran
+2025-12-19 15:21:37,249 - INFO -   💾 Progress saved (batch 6)
+2025-12-19 15:21:37,249 - INFO - 
+[31/649] Processing Dr Felipe Arrano Vargas
+2025-12-19 15:21:37,252 - INFO -   ✓ 70 chunks created
+2025-12-19 15:21:37,252 - INFO - 
+[32/649] Processing Professor Seher Ata
+2025-12-19 15:21:37,262 - INFO -   ✓ 229 chunks created
+2025-12-19 15:21:37,262 - INFO - 
+[33/649] Processing Associate Professor Shaghik Atakaramians
+2025-12-19 15:21:37,272 - INFO -   ✓ 240 chunks created
+2025-12-19 15:21:37,272 - INFO - 
+[34/649] Processing Dr Elena Atroshchenko
+2025-12-19 15:21:37,282 - INFO -   ✓ 178 chunks created
+2025-12-19 15:21:37,282 - INFO - 
+[35/649] Processing Dr Manuj Awasthi
+2025-12-19 15:21:37,286 - INFO -   ✓ 118 chunks created
+2025-12-19 15:21:39,173 - INFO -   💾 Progress saved (batch 7)
+2025-12-19 15:21:39,173 - INFO - 
+[36/649] Processing Professor Haris Aziz
+2025-12-19 15:21:39,194 - INFO -   ✓ 459 chunks created
+2025-12-19 15:21:39,194 - INFO - 
+[37/649] Processing Dr Firoozeh Babayekhorasani
+2025-12-19 15:21:39,195 - INFO -   ✓ 24 chunks created
+2025-12-19 15:21:39,195 - INFO - 
+[38/649] Processing Dr Juan Baena Vargas
+2025-12-19 15:21:39,198 - INFO -   ✓ 50 chunks created
+2025-12-19 15:21:39,198 - INFO - 
+[39/649] Processing Dr Michael Bain
+2025-12-19 15:21:39,207 - INFO -   ✓ 163 chunks created
+2025-12-19 15:21:39,207 - INFO - 
+[40/649] Processing Mr Ali Bakhshi
+2025-12-19 15:21:39,209 - INFO -   ✓ 34 chunks created
+2025-12-19 15:21:41,082 - INFO -   💾 Progress saved (batch 8)
+2025-12-19 15:21:41,083 - INFO - 
+[41/649] Processing Dr Sara Ballouz
+2025-12-19 15:21:41,086 - INFO -   ✓ 132 chunks created
+2025-12-19 15:21:41,087 - INFO - 
+[42/649] Processing Professor Jie Bao
+2025-12-19 15:21:41,210 - INFO -   ✓ 1626 chunks created
+2025-12-19 15:21:41,210 - INFO - 
+[43/649] Processing Dr Khalegh Barati
+2025-12-19 15:21:41,214 - INFO -   ✓ 84 chunks created
+2025-12-19 15:21:41,214 - INFO - 
+[44/649] Processing Professor Tracie Barber
+2025-12-19 15:21:41,241 - INFO -   ✓ 550 chunks created
+2025-12-19 15:21:41,241 - INFO - 
+[45/649] Processing Associate Professor Gustavo Batista
+2025-12-19 15:21:41,255 - INFO -   ✓ 248 chunks created
+2025-12-19 15:21:43,121 - INFO -   💾 Progress saved (batch 9)
+2025-12-19 15:21:43,121 - INFO - 
+[46/649] Processing Dr Nicholas Bedford
+2025-12-19 15:21:43,137 - INFO -   ✓ 381 chunks created
+2025-12-19 15:21:43,137 - INFO - 
+[47/649] Processing Associate Professor Susann Beier
+2025-12-19 15:21:43,146 - INFO -   ✓ 187 chunks created
+2025-12-19 15:21:43,146 - INFO - 
+[48/649] Processing Dr Matt Berrington
+2025-12-19 15:21:43,146 - INFO - 
+[49/649] Processing Dr Binayak Bhandari
+2025-12-19 15:21:43,151 - INFO -   ✓ 99 chunks created
+2025-12-19 15:21:43,151 - INFO - 
+[50/649] Processing Dr Asal Bidarmaghz
+2025-12-19 15:21:43,156 - INFO -   ✓ 107 chunks created
+2025-12-19 15:21:45,024 - INFO -   💾 Progress saved (batch 10)
+2025-12-19 15:21:45,024 - INFO - 
+[51/649] Processing Professor Lynne Bilston
+2025-12-19 15:22:41,869 - INFO -   ✓ 872 chunks created
+2025-12-19 15:22:41,869 - INFO - 
+[52/649] Processing Dr Alan Blair
+2025-12-19 15:22:41,888 - INFO -   ✓ 144 chunks created
+2025-12-19 15:22:41,888 - INFO - 
+[53/649] Processing Dr Valentin Bobrin
+2025-12-19 15:22:41,892 - INFO -   ✓ 81 chunks created
+2025-12-19 15:22:41,892 - INFO - 
+[54/649] Processing Associate Professor Pietro Borghesani
+2025-12-19 15:22:41,909 - INFO -   ✓ 242 chunks created
+2025-12-19 15:22:41,910 - INFO - 
+[55/649] Processing Dr Ghislain Bournival
+2025-12-19 15:22:41,916 - INFO -   ✓ 138 chunks created
+2025-12-19 15:22:43,751 - INFO -   💾 Progress saved (batch 11)
+2025-12-19 15:22:43,751 - INFO - 
+[56/649] Processing Professor Cyrille Boyer
+2025-12-19 15:22:43,801 - INFO -   ✓ 1233 chunks created
+2025-12-19 15:22:43,801 - INFO - 
+[57/649] Processing Emeritus Professor Mark Bradford
+2025-12-19 15:22:43,874 - INFO -   ✓ 1242 chunks created
+2025-12-19 15:22:43,874 - INFO - 
+[58/649] Processing Dr Matthew Brand
+2025-12-19 15:22:43,875 - INFO -   ✓ 14 chunks created
+2025-12-19 15:22:43,875 - INFO - 
+[59/649] Processing Associate Professor Stephen Bremner
+2025-12-19 15:22:43,894 - INFO -   ✓ 381 chunks created
+2025-12-19 15:22:43,894 - INFO - 
+[60/649] Processing Associate Professor Matthew Brodie
+2025-12-19 15:22:43,906 - INFO -   ✓ 267 chunks created
+2025-12-19 15:22:45,750 - INFO -   💾 Progress saved (batch 12)
+2025-12-19 15:22:45,750 - INFO - 
+[61/649] Processing Dr Sonya Brown
+2025-12-19 15:22:45,753 - INFO -   ✓ 66 chunks created
+2025-12-19 15:22:45,753 - INFO - 
+[62/649] Processing Associate Professor Anna Bruce
+2025-12-19 15:22:45,779 - INFO -   ✓ 317 chunks created
+2025-12-19 15:22:45,779 - INFO - 
+[63/649] Processing Dr Erik Buchholz
+2025-12-19 15:22:45,780 - INFO -   ✓ 31 chunks created
+2025-12-19 15:22:45,780 - INFO - 
+[64/649] Processing Associate Professor Patrick Burr
+2025-12-19 15:22:45,788 - INFO -   ✓ 285 chunks created
+2025-12-19 15:22:45,788 - INFO - 
+[65/649] Processing Dr Graeme Bushell
+2025-12-19 15:22:45,792 - INFO -   ✓ 44 chunks created
+2025-12-19 15:22:47,676 - INFO -   💾 Progress saved (batch 13)
+2025-12-19 15:22:47,676 - INFO - 
+[66/649] Processing Ms Anna Cain
+2025-12-19 15:22:51,009 - INFO -   ✓ 12 chunks created
+2025-12-19 15:22:51,010 - INFO - 
+[67/649] Processing Dr Jared Campbell
+2025-12-19 15:22:51,035 - INFO -   ✓ 259 chunks created
+2025-12-19 15:22:51,035 - INFO - 
+[68/649] Processing Mr Deniz Ekin Canbay
+2025-12-19 15:22:51,036 - INFO - 
+[69/649] Processing Professor Ismet Canbulat
+2025-12-19 15:22:51,059 - INFO -   ✓ 335 chunks created
+2025-12-19 15:22:51,059 - INFO - 
+[70/649] Processing Dr Xin Cao
+2025-12-19 15:22:51,069 - INFO -   ✓ 207 chunks created
+2025-12-19 15:22:52,948 - INFO -   💾 Progress saved (batch 14)
+2025-12-19 15:22:52,948 - INFO - 
+[71/649] Processing Dr Charlie Cao
+2025-12-19 15:22:52,952 - INFO -   ✓ 96 chunks created
+2025-12-19 15:22:52,952 - INFO - 
+[72/649] Processing Professor Robert Care
+2025-12-19 15:22:52,952 - INFO -   ✓ 5 chunks created
+2025-12-19 15:22:52,952 - INFO - 
+[73/649] Processing Mr James Carley
+2025-12-19 15:22:52,962 - INFO -   ✓ 100 chunks created
+2025-12-19 15:22:52,962 - INFO - 
+[74/649] Processing Emeritus Professor David Carmichael
+2025-12-19 15:22:53,027 - INFO -   ✓ 388 chunks created
+2025-12-19 15:22:53,027 - INFO - 
+[75/649] Processing Dr German Castro Donoso
+2025-12-19 15:22:53,028 - INFO -   ✓ 3 chunks created
+2025-12-19 15:22:54,890 - INFO -   💾 Progress saved (batch 15)
+2025-12-19 15:22:54,890 - INFO - 
+[76/649] Processing Mr Duncan Chalmers
+2025-12-19 15:22:54,893 - INFO -   ✓ 40 chunks created
+2025-12-19 15:22:54,893 - INFO - 
+[77/649] Processing Dr Shaun Chan
+2025-12-19 15:22:54,913 - INFO -   ✓ 388 chunks created
+2025-12-19 15:22:54,913 - INFO - 
+[78/649] Processing Dr Catherine Chan
+2025-12-19 15:22:54,929 - INFO -   ✓ 287 chunks created
+2025-12-19 15:22:54,929 - INFO - 
+[79/649] Processing Dr Kok Wai Chan
+2025-12-19 15:22:54,933 - INFO -   ✓ 129 chunks created
+2025-12-19 15:22:54,933 - INFO - 
+[80/649] Processing Dr King Yuk Chan
+2025-12-19 15:22:54,942 - INFO -   ✓ 161 chunks created
+2025-12-19 15:22:56,837 - INFO -   💾 Progress saved (batch 16)
+2025-12-19 15:22:56,837 - INFO - 
+[81/649] Processing Dr Ronald Ting Tai Chan
+2025-12-19 15:22:56,838 - INFO -   ✓ 7 chunks created
+2025-12-19 15:22:56,838 - INFO - 
+[82/649] Processing Professor Rona Chandrawati
+2025-12-19 15:22:56,847 - INFO -   ✓ 251 chunks created
+2025-12-19 15:22:56,847 - INFO - 
+[83/649] Processing Associate Professor Shery Chang
+2025-12-19 15:22:56,857 - INFO -   ✓ 289 chunks created
+2025-12-19 15:22:56,857 - INFO - 
+[84/649] Processing Dr Nathan Chang
+2025-12-19 15:23:02,792 - INFO -   ✓ 103 chunks created
+2025-12-19 15:23:02,792 - INFO - 
+[85/649] Processing Mr Wenkai Chang
+2025-12-19 15:23:02,797 - INFO -   ✓ 53 chunks created
+2025-12-19 15:23:04,660 - INFO -   💾 Progress saved (batch 17)
+2025-12-19 15:23:04,660 - INFO - 
+[86/649] Processing Dr James Charlesworth
+2025-12-19 15:23:06,137 - INFO -   ✓ 43 chunks created
+2025-12-19 15:23:06,137 - INFO - 
+[87/649] Processing Dr Akshansha Chauhan
+2025-12-19 15:23:21,904 - INFO -   ✓ 113 chunks created
+2025-12-19 15:23:21,905 - INFO - 
+[88/649] Processing Dr Guo Chen
+2025-12-19 15:23:21,939 - INFO -   ✓ 342 chunks created
+2025-12-19 15:23:21,939 - INFO - 
+[89/649] Processing Dr Ran Chen
+2025-12-19 15:23:21,947 - INFO -   ✓ 106 chunks created
+2025-12-19 15:23:21,947 - INFO - 
+[90/649] Processing Mr Jay Chen
+2025-12-19 15:23:34,995 - INFO -   ✓ 310 chunks created
+2025-12-19 15:23:36,874 - INFO -   💾 Progress saved (batch 18)
+2025-12-19 15:23:36,874 - INFO - 
+[91/649] Processing Dr Zhixi Chen
+2025-12-19 15:23:36,885 - INFO -   ✓ 127 chunks created
+2025-12-19 15:23:36,885 - INFO - 
+[92/649] Processing Dr Siyuan Chen
+2025-12-19 15:23:40,918 - INFO -   ✓ 87 chunks created
+2025-12-19 15:23:40,918 - INFO - 
+[93/649] Processing Dr Xiaojun Chen
+2025-12-19 15:23:40,935 - INFO -   ✓ 130 chunks created
+2025-12-19 15:23:40,935 - INFO - 
+[94/649] Processing Dr Daniel Chen
+2025-12-19 15:23:40,940 - INFO -   ✓ 88 chunks created
+2025-12-19 15:23:40,940 - INFO - 
+[95/649] Processing Dr Chi David Cheng
+2025-12-19 15:23:40,944 - INFO -   ✓ 94 chunks created
+2025-12-19 15:23:42,784 - INFO -   💾 Progress saved (batch 19)
+2025-12-19 15:23:42,784 - INFO - 
+[96/649] Processing Associate Professor Chun Tung Chou
+2025-12-19 15:23:42,806 - INFO -   ✓ 362 chunks created
+2025-12-19 15:23:42,806 - INFO - 
+[97/649] Processing Dr Clay (Guoyu) Chu
+2025-12-19 15:23:42,808 - INFO -   ✓ 33 chunks created
+2025-12-19 15:23:42,808 - INFO - 
+[98/649] Processing Dr Xiaoran (Daisy) Chu
+2025-12-19 15:23:42,809 - INFO -   ✓ 14 chunks created
+2025-12-19 15:23:42,809 - INFO - 
+[99/649] Processing Dr Alison Ciesla
+2025-12-19 15:23:42,819 - INFO -   ✓ 200 chunks created
+2025-12-19 15:23:42,819 - INFO - 
+[100/649] Processing Professor Stuart Clark
+2025-12-19 15:23:42,827 - INFO -   ✓ 162 chunks created
+2025-12-19 15:23:44,692 - INFO -   💾 Progress saved (batch 20)
+2025-12-19 15:23:44,692 - INFO - 
+[101/649] Processing Mr Ian Coghlan
+2025-12-19 15:23:44,697 - INFO -   ✓ 72 chunks created
+2025-12-19 15:23:44,697 - INFO - 
+[102/649] Processing Mr Jialin Cong
+2025-12-19 15:23:44,699 - INFO -   ✓ 43 chunks created
+2025-12-19 15:23:44,699 - INFO - 
+[103/649] Processing Professor Gavin Conibeer
+2025-12-19 15:23:44,744 - INFO -   ✓ 831 chunks created
+2025-12-19 15:23:44,744 - INFO - 
+[104/649] Processing Associate Professor Ron Cox
+2025-12-19 15:23:44,762 - INFO -   ✓ 206 chunks created
+2025-12-19 15:23:44,762 - INFO - 
+[105/649] Processing Associate Professor Julian Cox
+2025-12-19 15:23:44,770 - INFO -   ✓ 133 chunks created
+2025-12-19 15:23:46,665 - INFO -   💾 Progress saved (batch 21)
+2025-12-19 15:23:46,665 - INFO - 
+[106/649] Processing Dr Francisco Cruz Naranjo
+2025-12-19 15:23:46,673 - INFO -   ✓ 127 chunks created
+2025-12-19 15:23:46,673 - INFO - 
+[107/649] Processing Ms Xin Cui
+2025-12-19 15:23:46,676 - INFO -   ✓ 62 chunks created
+2025-12-19 15:23:46,676 - INFO - 
+[108/649] Processing Dr Ulrike Dackermann
+2025-12-19 15:23:46,689 - INFO -   ✓ 150 chunks created
+2025-12-19 15:23:46,689 - INFO - 
+[109/649] Processing Scientia Professor Liming Dai
+2025-12-19 15:23:46,765 - INFO -   ✓ 2055 chunks created
+2025-12-19 15:23:46,765 - INFO - 
+[110/649] Processing Dr Rahman Daiyan
+2025-12-19 15:23:46,775 - INFO -   ✓ 279 chunks created
+2025-12-19 15:23:48,643 - INFO -   💾 Progress saved (batch 22)
+2025-12-19 15:23:48,643 - INFO - 
+[111/649] Processing Associate Professor Andrew Dansie
+2025-12-19 15:23:48,645 - INFO -   ✓ 46 chunks created
+2025-12-19 15:23:48,645 - INFO - 
+[112/649] Processing Dr Ali Darejeh
+2025-12-19 15:23:48,650 - INFO -   ✓ 65 chunks created
+2025-12-19 15:23:48,650 - INFO - 
+[113/649] Processing Emeritus Professor Graham Davies
+2025-12-19 15:23:48,653 - INFO -   ✓ 43 chunks created
+2025-12-19 15:23:48,653 - INFO - 
+[114/649] Processing Associate Professor Steven Davis
+2025-12-19 15:23:48,661 - INFO -   ✓ 134 chunks created
+2025-12-19 15:23:48,661 - INFO - 
+[115/649] Processing Dr Ivan Miguel De Cachinho Cordeiro
+2025-12-19 15:23:48,666 - INFO -   ✓ 99 chunks created
+2025-12-19 15:23:50,553 - INFO -   💾 Progress saved (batch 23)
+2025-12-19 15:23:50,553 - INFO - 
+[116/649] Processing Dr Raveen De Silva
+2025-12-19 15:23:50,553 - INFO -   ✓ 3 chunks created
+2025-12-19 15:23:50,553 - INFO - 
+[117/649] Processing Dr Charitha de Silva
+2025-12-19 15:23:50,571 - INFO -   ✓ 366 chunks created
+2025-12-19 15:23:50,571 - INFO - 
+[118/649] Processing Dr Mohammad Deghat
+2025-12-19 15:23:50,578 - INFO -   ✓ 121 chunks created
+2025-12-19 15:23:50,578 - INFO - 
+[119/649] Processing Dr Mohammad Dehghanimadvar
+2025-12-19 15:23:50,580 - INFO -   ✓ 55 chunks created
+2025-12-19 15:23:50,580 - INFO - 
+[120/649] Processing Professor Andrew Dempster
+2025-12-19 15:23:50,627 - INFO -   ✓ 832 chunks created
+2025-12-19 15:23:52,485 - INFO -   💾 Progress saved (batch 24)
+2025-12-19 15:23:52,485 - INFO - 
+[121/649] Processing Dr Fei Deng
+2025-12-19 15:23:52,544 - INFO -   ✓ 160 chunks created
+2025-12-19 15:23:52,544 - INFO - 
+[122/649] Processing Dr Rong Deng
+2025-12-19 15:23:52,547 - INFO -   ✓ 91 chunks created
+2025-12-19 15:23:52,547 - INFO - 
+[123/649] Processing Associate Professor Oliver Diessel
+2025-12-19 15:23:52,557 - INFO -   ✓ 114 chunks created
+2025-12-19 15:23:52,557 - INFO - 
+[124/649] Processing Professor Vinayak Dixit
+2025-12-19 15:23:52,572 - INFO -   ✓ 391 chunks created
+2025-12-19 15:23:52,572 - INFO - 
+[125/649] Processing Dr Thanh Nho Do
+2025-12-19 15:23:52,583 - INFO -   ✓ 287 chunks created
+2025-12-19 15:23:54,474 - INFO -   💾 Progress saved (batch 25)
+2025-12-19 15:23:54,474 - INFO - 
+[126/649] Processing Dr Lawrence Doctors
+2025-12-19 15:23:54,487 - INFO -   ✓ 191 chunks created
+2025-12-19 15:23:54,487 - INFO - 
+[127/649] Processing Associate Professor Socrates Dokos
+2025-12-19 15:23:54,528 - INFO -   ✓ 596 chunks created
+2025-12-19 15:23:54,528 - INFO - 
+[128/649] Processing Dr Wenkui Dong
+2025-12-19 15:23:54,538 - INFO -   ✓ 177 chunks created
+2025-12-19 15:23:54,538 - INFO - 
+[129/649] Processing Professor Con Doolan
+2025-12-19 15:23:54,569 - INFO -   ✓ 677 chunks created
+2025-12-19 15:23:54,569 - INFO - 
+[130/649] Processing Dr Kurt Douglas
+2025-12-19 15:23:54,574 - INFO -   ✓ 73 chunks created
+2025-12-19 15:23:56,451 - INFO -   💾 Progress saved (batch 26)
+2025-12-19 15:23:56,451 - INFO - 
+[131/649] Processing Dr Zheyuan DU
+2025-12-19 15:23:56,456 - INFO -   ✓ 121 chunks created
+2025-12-19 15:23:56,456 - INFO - 
+[132/649] Processing Dr Nard Dumoulin Stuyck
+2025-12-19 15:23:56,459 - INFO -   ✓ 63 chunks created
+2025-12-19 15:23:56,459 - INFO - 
+[133/649] Processing Professor Rukmi Dutta
+2025-12-19 15:23:56,480 - INFO -   ✓ 234 chunks created
+2025-12-19 15:23:56,480 - INFO - 
+[134/649] Processing Dr Priya Dwivedi
+2025-12-19 15:23:56,480 - INFO -   ✓ 7 chunks created
+2025-12-19 15:23:56,480 - INFO - 
+[135/649] Processing Scientia Professor Andrew Dzurak
+2025-12-19 15:23:56,513 - INFO -   ✓ 922 chunks created
+2025-12-19 15:23:58,372 - INFO -   💾 Progress saved (batch 27)
+2025-12-19 15:23:58,372 - INFO - 
+[136/649] Processing Dr Mohammad Ebadi
+2025-12-19 15:23:58,375 - INFO -   ✓ 59 chunks created
+2025-12-19 15:23:58,375 - INFO - 
+[137/649] Processing Dr Esmaeel Eftekharian
+2025-12-19 15:23:58,377 - INFO -   ✓ 56 chunks created
+2025-12-19 15:23:58,377 - INFO - 
+[138/649] Processing Professor Renate Egan
+2025-12-19 15:23:58,385 - INFO -   ✓ 142 chunks created
+2025-12-19 15:23:58,385 - INFO - 
+[139/649] Processing Professor N.J. Ekins-Daukes
+2025-12-19 15:23:58,415 - INFO -   ✓ 697 chunks created
+2025-12-19 15:23:58,415 - INFO - 
+[140/649] Processing Associate Professor Kevin Elphinstone
+2025-12-19 15:23:58,418 - INFO -   ✓ 48 chunks created
+2025-12-19 15:24:00,297 - INFO -   💾 Progress saved (batch 28)
+2025-12-19 15:24:00,297 - INFO - 
+[141/649] Processing Dr Don Samitha Elvitigala
+2025-12-19 15:24:00,303 - INFO -   ✓ 70 chunks created
+2025-12-19 15:24:00,303 - INFO - 
+[142/649] Processing Professor Julien Epps
+2025-12-19 15:24:00,334 - INFO -   ✓ 417 chunks created
+2025-12-19 15:24:00,334 - INFO - 
+[143/649] Processing Dr Chris Escott
+2025-12-19 15:24:00,337 - INFO -   ✓ 70 chunks created
+2025-12-19 15:24:00,337 - INFO - 
+[144/649] Processing Dr Dorna Esrafilzadeh
+2025-12-19 15:24:00,343 - INFO -   ✓ 149 chunks created
+2025-12-19 15:24:00,343 - INFO - 
+[145/649] Processing Dr Yasemin Fadil
+2025-12-19 15:24:03,055 - INFO -   ✓ 35 chunks created
+2025-12-19 15:24:04,999 - INFO -   💾 Progress saved (batch 29)
+2025-12-19 15:24:04,999 - INFO - 
+[146/649] Processing Dr Ka Wai Fan
+2025-12-19 15:24:04,999 - INFO -   ✓ 5 chunks created
+2025-12-19 15:24:04,999 - INFO - 
+[147/649] Processing Emeritus Professor Anthony Fane
+2025-12-19 15:24:05,064 - INFO -   ✓ 1211 chunks created
+2025-12-19 15:24:05,064 - INFO - 
+[148/649] Processing Dr Nona Farbehi
+2025-12-19 15:24:05,068 - INFO -   ✓ 84 chunks created
+2025-12-19 15:24:05,068 - INFO - 
+[149/649] Processing Dr Mahshid Farzanehsa
+2025-12-19 15:24:05,068 - INFO -   ✓ 5 chunks created
+2025-12-19 15:24:05,068 - INFO - 
+[150/649] Processing Associate Professor Stefan Felder
+2025-12-19 15:24:05,082 - INFO -   ✓ 348 chunks created
+2025-12-19 15:24:06,950 - INFO -   💾 Progress saved (batch 30)
+2025-12-19 15:24:06,950 - INFO - 
+[151/649] Processing Dr Yimeng Feng
+2025-12-19 15:24:06,950 - INFO - 
+[152/649] Processing Dr Ruth Fisher
+2025-12-19 15:24:06,953 - INFO -   ✓ 78 chunks created
+2025-12-19 15:24:06,953 - INFO - 
+[153/649] Processing Professor John Fletcher
+2025-12-19 15:24:06,987 - INFO -   ✓ 605 chunks created
+2025-12-19 15:24:06,987 - INFO - 
+[154/649] Processing Dr Javad Foroughi
+2025-12-19 15:24:06,997 - INFO -   ✓ 277 chunks created
+2025-12-19 15:24:06,997 - INFO - 
+[155/649] Processing Emeritus Professor Stephen Foster
+2025-12-19 15:24:07,031 - INFO -   ✓ 522 chunks created
+2025-12-19 15:24:08,917 - INFO -   💾 Progress saved (batch 31)
+2025-12-19 15:24:08,917 - INFO - 
+[156/649] Processing Dr Bruno Gaeta
+2025-12-19 15:24:08,921 - INFO -   ✓ 103 chunks created
+2025-12-19 15:24:08,921 - INFO - 
+[157/649] Processing Dr Hasindu Gamaarachchi
+2025-12-19 15:24:08,929 - INFO -   ✓ 213 chunks created
+2025-12-19 15:24:08,929 - INFO - 
+[158/649] Processing Professor Wei Gao
+2025-12-19 15:24:08,969 - INFO -   ✓ 699 chunks created
+2025-12-19 15:24:08,969 - INFO - 
+[159/649] Processing Dr Shikha Garg
+2025-12-19 15:24:09,052 - INFO -   ✓ 568 chunks created
+2025-12-19 15:24:09,052 - INFO - 
+[160/649] Processing Professor Serge Gaspers
+2025-12-19 15:24:09,065 - INFO -   ✓ 311 chunks created
+2025-12-19 15:24:10,959 - INFO -   💾 Progress saved (batch 32)
+2025-12-19 15:24:10,959 - INFO - 
+[161/649] Processing Mr Felix Gayot
+2025-12-19 15:24:10,960 - INFO -   ✓ 21 chunks created
+2025-12-19 15:24:10,960 - INFO - 
+[162/649] Processing Professor Linlin Ge
+2025-12-19 15:24:10,987 - INFO -   ✓ 444 chunks created
+2025-12-19 15:24:10,987 - INFO - 
+[163/649] Processing Dr Arup George
+2025-12-19 15:24:15,867 - INFO -   ✓ 36 chunks created
+2025-12-19 15:24:15,868 - INFO - 
+[164/649] Processing Dr Anna Ghorbanpour Tamajan
+2025-12-19 15:24:15,871 - INFO -   ✓ 9 chunks created
+2025-12-19 15:24:15,871 - INFO - 
+[165/649] Processing Professor Ian Gibson
+2025-12-19 15:24:17,793 - INFO -   💾 Progress saved (batch 33)
+2025-12-19 15:24:17,793 - INFO - 
+[166/649] Processing Emeritus Professor Raymond Gilbert
+2025-12-19 15:24:17,835 - INFO -   ✓ 572 chunks created
+2025-12-19 15:24:17,835 - INFO - 
+[167/649] Processing Dr Nicholas Gilmore
+2025-12-19 15:24:17,836 - INFO -   ✓ 28 chunks created
+2025-12-19 15:24:17,836 - INFO - 
+[168/649] Processing Professor William Glamore
+2025-12-19 15:24:17,851 - INFO -   ✓ 277 chunks created
+2025-12-19 15:24:17,851 - INFO - 
+[169/649] Processing Associate Professor Bernd Gludovatz
+2025-12-19 15:24:17,865 - INFO -   ✓ 307 chunks created
+2025-12-19 15:24:17,865 - INFO - 
+[170/649] Processing Professor Ewa Goldys
+2025-12-19 15:24:17,919 - INFO -   ✓ 1180 chunks created
+2025-12-19 15:24:19,783 - INFO -   💾 Progress saved (batch 34)
+2025-12-19 15:24:19,783 - INFO - 
+[171/649] Processing Dr Dong Gong
+2025-12-19 15:24:19,789 - INFO -   ✓ 112 chunks created
+2025-12-19 15:24:19,789 - INFO - 
+[172/649] Processing Scientia Professor Martin Green
+2025-12-19 15:24:19,893 - INFO -   ✓ 2305 chunks created
+2025-12-19 15:24:19,893 - INFO - 
+[173/649] Processing Dr Sarah Grundy
+2025-12-19 15:24:19,896 - INFO -   ✓ 53 chunks created
+2025-12-19 15:24:19,896 - INFO - 
+[174/649] Processing Associate Professor Sophia Gu
+2025-12-19 15:24:19,906 - INFO -   ✓ 246 chunks created
+2025-12-19 15:24:19,906 - INFO - 
+[175/649] Processing Dr Jose Guivant
+2025-12-19 15:24:19,915 - INFO -   ✓ 164 chunks created
+2025-12-19 15:24:21,825 - INFO -   💾 Progress saved (batch 35)
+2025-12-19 15:24:21,825 - INFO - 
+[176/649] Processing Dr Denny Gunawan
+2025-12-19 15:24:21,828 - INFO -   ✓ 78 chunks created
+2025-12-19 15:24:21,828 - INFO - 
+[177/649] Processing Dr Jia Guo
+2025-12-19 15:24:21,829 - INFO -   ✓ 22 chunks created
+2025-12-19 15:24:21,829 - INFO - 
+[178/649] Processing Dr Hui Guo
+2025-12-19 15:24:21,836 - INFO -   ✓ 89 chunks created
+2025-12-19 15:24:21,836 - INFO - 
+[179/649] Processing Dr Tianruo Guo
+2025-12-19 15:24:21,852 - INFO -   ✓ 218 chunks created
+2025-12-19 15:24:21,852 - INFO - 
+[180/649] Processing Associate Professor Hassan Habibi Gharakheili
+2025-12-19 15:24:21,862 - INFO -   ✓ 190 chunks created
+2025-12-19 15:24:23,749 - INFO -   💾 Progress saved (batch 36)
+2025-12-19 15:24:23,749 - INFO - 
+[181/649] Processing Emeritus Professor Paul Hagan
+2025-12-19 15:24:23,770 - INFO -   ✓ 299 chunks created
+2025-12-19 15:24:23,770 - INFO - 
+[182/649] Processing Dr Milad Haghani
+2025-12-19 15:24:23,779 - INFO -   ✓ 267 chunks created
+2025-12-19 15:24:23,779 - INFO - 
+[183/649] Processing Dr Navid Haghdadi
+2025-12-19 15:24:23,784 - INFO -   ✓ 59 chunks created
+2025-12-19 15:24:23,784 - INFO - 
+[184/649] Processing Associate Professor Ailar Hajimohammadi
+2025-12-19 15:24:23,792 - INFO -   ✓ 171 chunks created
+2025-12-19 15:24:23,792 - INFO - 
+[185/649] Processing Associate Professor Brett Hallam
+2025-12-19 15:24:23,816 - INFO -   ✓ 514 chunks created
+2025-12-19 15:24:25,704 - INFO -   💾 Progress saved (batch 37)
+2025-12-19 15:24:25,704 - INFO - 
+[186/649] Processing Dr Rachid Hamadi
+2025-12-19 15:24:25,706 - INFO -   ✓ 24 chunks created
+2025-12-19 15:24:25,706 - INFO - 
+[187/649] Processing Associate Professor Ehab Hamed
+2025-12-19 15:24:25,719 - INFO -   ✓ 216 chunks created
+2025-12-19 15:24:25,719 - INFO - 
+[188/649] Processing Professor Ziv Hameiri
+2025-12-19 15:24:25,766 - INFO -   ✓ 780 chunks created
+2025-12-19 15:24:25,766 - INFO - 
+[189/649] Processing Dr Phillip Hamer
+2025-12-19 15:24:25,776 - INFO -   ✓ 206 chunks created
+2025-12-19 15:24:25,776 - INFO - 
+[190/649] Processing Mr Zifei Han
+2025-12-19 15:24:25,777 - INFO -   ✓ 21 chunks created
+2025-12-19 15:24:27,675 - INFO -   💾 Progress saved (batch 38)
+2025-12-19 15:24:27,675 - INFO - 
+[191/649] Processing Dr Zhaojun Han
+2025-12-19 15:24:27,750 - INFO -   ✓ 477 chunks created
+2025-12-19 15:24:27,750 - INFO - 
+[192/649] Processing Dr Naras Hanumanth Rao
+2025-12-19 15:24:27,753 - INFO -   ✓ 56 chunks created
+2025-12-19 15:24:27,753 - INFO - 
+[193/649] Processing Professor Xiaojing Hao
+2025-12-19 15:24:27,781 - INFO -   ✓ 740 chunks created
+2025-12-19 15:24:27,781 - INFO - 
+[194/649] Processing Associate Professor Mitchell Harley
+2025-12-19 15:24:27,791 - INFO -   ✓ 251 chunks created
+2025-12-19 15:24:27,791 - INFO - 
+[195/649] Processing Ms Alice Harrison
+2025-12-19 15:24:27,793 - INFO -   ✓ 30 chunks created
+2025-12-19 15:24:29,682 - INFO -   💾 Progress saved (batch 39)
+2025-12-19 15:24:29,683 - INFO - 
+[196/649] Processing Dr Md Mahmudul Hasan
+2025-12-19 15:24:29,686 - INFO -   ✓ 68 chunks created
+2025-12-19 15:24:29,686 - INFO - 
+[197/649] Processing Mr Alex (Abolfazl) Hashemi
+2025-12-19 15:24:29,686 - INFO -   ✓ 8 chunks created
+2025-12-19 15:24:29,686 - INFO - 
+[198/649] Processing Professor Mahbub Hassan
+2025-12-19 15:24:29,712 - INFO -   ✓ 454 chunks created
+2025-12-19 15:24:29,712 - INFO - 
+[199/649] Processing Dr Md Mahamudul Hassan
+2025-12-19 15:24:29,712 - INFO - 
+[200/649] Processing Dr Tahereh Hassan Zadeh Koohi
+2025-12-19 15:24:31,576 - INFO -   💾 Progress saved (batch 40)
+2025-12-19 15:24:31,576 - INFO - 
+[201/649] Processing Ms Julie Hatzi
+2025-12-19 15:24:31,576 - INFO - 
+[202/649] Processing Professor Evatt Hawkes
+2025-12-19 15:24:31,609 - INFO -   ✓ 573 chunks created
+2025-12-19 15:24:31,609 - INFO - 
+[203/649] Processing Dr James Hayes
+2025-12-19 15:24:31,610 - INFO -   ✓ 33 chunks created
+2025-12-19 15:24:31,610 - INFO - 
+[204/649] Processing Mr Shuai He
+2025-12-19 15:24:31,618 - INFO -   ✓ 148 chunks created
+2025-12-19 15:24:31,618 - INFO - 
+[205/649] Processing Dr Mingrui He
+2025-12-19 15:24:31,623 - INFO -   ✓ 140 chunks created
+2025-12-19 15:24:33,499 - INFO -   💾 Progress saved (batch 41)
+2025-12-19 15:24:33,499 - INFO - 
+[206/649] Processing Emeritus Professor Bruce Hebblewhite
+2025-12-19 15:24:33,522 - INFO -   ✓ 275 chunks created
+2025-12-19 15:24:33,522 - INFO - 
+[207/649] Processing Scientia Professor Gernot Heiser
+2025-12-19 15:24:33,540 - INFO -   ✓ 274 chunks created
+2025-12-19 15:24:33,540 - INFO - 
+[208/649] Processing Professor Rita Henderson
+2025-12-19 15:24:33,560 - INFO -   ✓ 305 chunks created
+2025-12-19 15:24:33,560 - INFO - 
+[209/649] Processing Dr Mandalena Hermawan
+2025-12-19 15:24:33,561 - INFO -   ✓ 18 chunks created
+2025-12-19 15:24:33,561 - INFO - 
+[210/649] Processing Dr Henry Hickman
+2025-12-19 15:24:33,562 - INFO -   ✓ 13 chunks created
+2025-12-19 15:24:35,467 - INFO -   💾 Progress saved (batch 42)
+2025-12-19 15:24:35,467 - INFO - 
+[211/649] Processing Dr Philippa Higgins
+2025-12-19 15:24:35,469 - INFO -   ✓ 43 chunks created
+2025-12-19 15:24:35,469 - INFO - 
+[212/649] Processing Professor Bram Hoex
+2025-12-19 15:24:35,501 - INFO -   ✓ 685 chunks created
+2025-12-19 15:24:35,501 - INFO - 
+[213/649] Processing Ms Sandra Hoffmann
+2025-12-19 15:24:35,501 - INFO - 
+[214/649] Processing Mr Robert Holdom
+2025-12-19 15:24:35,501 - INFO - 
+[215/649] Processing Dr Danielle Holmes
+2025-12-19 15:24:39,059 - INFO -   ✓ 33 chunks created
+2025-12-19 15:24:40,976 - INFO -   💾 Progress saved (batch 43)
+2025-12-19 15:24:40,976 - INFO - 
+[216/649] Processing Dr Md. Anower Hossain
+2025-12-19 15:24:40,984 - INFO -   ✓ 179 chunks created
+2025-12-19 15:24:40,984 - INFO - 
+[217/649] Processing Professor Taha Hossein Rashidi
+2025-12-19 15:24:41,000 - INFO -   ✓ 432 chunks created
+2025-12-19 15:24:41,000 - INFO - 
+[218/649] Processing Dr Seyedeh Maryam Hosseini
+2025-12-19 15:24:41,003 - INFO -   ✓ 44 chunks created
+2025-12-19 15:24:41,003 - INFO - 
+[219/649] Processing Dr Branislav Hredzak
+2025-12-19 15:24:41,023 - INFO -   ✓ 360 chunks created
+2025-12-19 15:24:41,023 - INFO - 
+[220/649] Processing Professor Wen Hu
+2025-12-19 15:24:41,052 - INFO -   ✓ 532 chunks created
+2025-12-19 15:24:42,935 - INFO -   💾 Progress saved (batch 44)
+2025-12-19 15:24:42,935 - INFO - 
+[221/649] Processing Mr Dr.Boyang Hu
+2025-12-19 15:24:42,935 - INFO -   ✓ 5 chunks created
+2025-12-19 15:24:42,935 - INFO - 
+[222/649] Processing Dr Chaoran Huang
+2025-12-19 15:24:42,940 - INFO -   ✓ 90 chunks created
+2025-12-19 15:24:42,940 - INFO - 
+[223/649] Processing Dr Jialiang Huang
+2025-12-19 15:24:42,953 - INFO -   ✓ 323 chunks created
+2025-12-19 15:24:42,953 - INFO - 
+[224/649] Processing Dr Fay Hudson
+2025-12-19 15:24:42,967 - INFO -   ✓ 405 chunks created
+2025-12-19 15:24:42,967 - INFO - 
+[225/649] Processing Dr Paul Hunter
+2025-12-19 15:24:42,968 - INFO -   ✓ 35 chunks created
+2025-12-19 15:24:44,847 - INFO -   💾 Progress saved (batch 45)
+2025-12-19 15:24:44,848 - INFO - 
+[226/649] Processing Associate Professor Furqan Hussain
+2025-12-19 15:24:44,857 - INFO -   ✓ 173 chunks created
+2025-12-19 15:24:44,857 - INFO - 
+[227/649] Processing Associate Professor Aleksandar Ignjatovic
+2025-12-19 15:24:44,869 - INFO -   ✓ 214 chunks created
+2025-12-19 15:24:44,869 - INFO - 
+[228/649] Processing Dr Elnaz Irannezhad
+2025-12-19 15:24:44,872 - INFO -   ✓ 89 chunks created
+2025-12-19 15:24:44,872 - INFO - 
+[229/649] Processing Dr Maya Isarov
+2025-12-19 15:24:44,873 - INFO -   ✓ 4 chunks created
+2025-12-19 15:24:44,873 - INFO - 
+[230/649] Processing Dr Fumi Ishizuka
+2025-12-19 15:24:48,158 - INFO -   ✓ 56 chunks created
+2025-12-19 15:24:50,088 - INFO -   💾 Progress saved (batch 46)
+2025-12-19 15:24:50,088 - INFO - 
+[231/649] Processing Dr Faisal Islam
+2025-12-19 15:24:50,088 - INFO -   ✓ 4 chunks created
+2025-12-19 15:24:50,088 - INFO - 
+[232/649] Processing Dr Sankaran Iyer
+2025-12-19 15:24:50,090 - INFO -   ✓ 31 chunks created
+2025-12-19 15:24:50,090 - INFO - 
+[233/649] Processing Dr Miriam Jackson
+2025-12-19 15:24:50,091 - INFO -   ✓ 27 chunks created
+2025-12-19 15:24:50,091 - INFO - 
+[234/649] Processing Dr Divya Jayakumar Nair
+2025-12-19 15:24:50,096 - INFO -   ✓ 85 chunks created
+2025-12-19 15:24:50,096 - INFO - 
+[235/649] Processing Professor Sanjay Jha
+2025-12-19 15:24:50,126 - INFO -   ✓ 509 chunks created
+2025-12-19 15:24:51,987 - INFO -   💾 Progress saved (batch 47)
+2025-12-19 15:24:51,987 - INFO - 
+[236/649] Processing Dr Jiaojiao Jiang
+2025-12-19 15:24:51,995 - INFO -   ✓ 167 chunks created
+2025-12-19 15:24:51,995 - INFO - 
+[237/649] Processing Dr Ze Jiang
+2025-12-19 15:24:51,998 - INFO -   ✓ 81 chunks created
+2025-12-19 15:24:51,998 - INFO - 
+[238/649] Processing Dr Shan Jiang
+2025-12-19 15:24:52,003 - INFO -   ✓ 107 chunks created
+2025-12-19 15:24:52,003 - INFO - 
+[239/649] Processing Dr Lixue Jiang
+2025-12-19 15:24:52,008 - INFO -   ✓ 99 chunks created
+2025-12-19 15:24:52,008 - INFO - 
+[240/649] Processing Ms Yuchao Jiang
+2025-12-19 15:24:52,009 - INFO -   ✓ 12 chunks created
+2025-12-19 15:24:53,896 - INFO -   💾 Progress saved (batch 48)
+2025-12-19 15:24:53,896 - INFO - 
+[241/649] Processing Dr Chaoyang Jiang
+2025-12-19 15:24:53,900 - INFO -   ✓ 89 chunks created
+2025-12-19 15:24:53,900 - INFO - 
+[242/649] Processing Dr Jessica Yajie Jiang
+2025-12-19 15:24:53,903 - INFO -   ✓ 71 chunks created
+2025-12-19 15:24:53,903 - INFO - 
+[243/649] Processing Dr Yu Jing
+2025-12-19 15:24:53,907 - INFO -   ✓ 87 chunks created
+2025-12-19 15:24:53,907 - INFO - 
+[244/649] Processing Dr Fiona Johnson
+2025-12-19 15:24:53,921 - INFO -   ✓ 347 chunks created
+2025-12-19 15:24:53,922 - INFO - 
+[245/649] Processing Professor Michael Johnson
+2025-12-19 15:24:55,825 - INFO -   💾 Progress saved (batch 49)
+2025-12-19 15:24:55,825 - INFO - 
+[246/649] Processing Dr Adele Jones
+2025-12-19 15:24:55,832 - INFO -   ✓ 97 chunks created
+2025-12-19 15:24:55,832 - INFO - 
+[247/649] Processing Dr Alison Jones
+2025-12-19 15:24:55,832 - INFO -   ✓ 3 chunks created
+2025-12-19 15:24:55,832 - INFO - 
+[248/649] Processing Dr Aditya Joshi
+2025-12-19 15:24:55,840 - INFO -   ✓ 113 chunks created
+2025-12-19 15:24:55,841 - INFO - 
+[249/649] Processing Associate Professor Rakesh Joshi
+2025-12-19 15:24:55,853 - INFO -   ✓ 348 chunks created
+2025-12-19 15:24:55,853 - INFO - 
+[250/649] Processing Dr Mattias Juhl
+2025-12-19 15:24:55,854 - INFO -   ✓ 9 chunks created
+2025-12-19 15:24:57,757 - INFO -   💾 Progress saved (batch 50)
+2025-12-19 15:24:57,757 - INFO - 
+[251/649] Processing Dr Imrana Kabir
+2025-12-19 15:24:57,761 - INFO -   ✓ 76 chunks created
+2025-12-19 15:24:57,761 - INFO - 
+[252/649] Processing Associate Professor Mohsen Kalantari
+2025-12-19 15:24:57,769 - INFO -   ✓ 244 chunks created
+2025-12-19 15:24:57,769 - INFO - 
+[253/649] Processing Dr Henner Kampwerth
+2025-12-19 15:24:57,775 - INFO -   ✓ 98 chunks created
+2025-12-19 15:24:57,775 - INFO - 
+[254/649] Processing Professor Salil Kanhere
+2025-12-19 15:24:57,826 - INFO -   ✓ 1033 chunks created
+2025-12-19 15:24:57,826 - INFO - 
+[255/649] Processing Professor Sami Kara
+2025-12-19 15:24:57,850 - INFO -   ✓ 518 chunks created
+2025-12-19 15:24:59,735 - INFO -   💾 Progress saved (batch 51)
+2025-12-19 15:24:59,735 - INFO - 
+[256/649] Processing Associate Professor Lauren Kark
+2025-12-19 15:24:59,740 - INFO -   ✓ 103 chunks created
+2025-12-19 15:24:59,741 - INFO - 
+[257/649] Processing Dr Ali Kashani
+2025-12-19 15:24:59,748 - INFO -   ✓ 144 chunks created
+2025-12-19 15:24:59,748 - INFO - 
+[258/649] Processing Associate Professor Jay Katupitiya
+2025-12-19 15:24:59,766 - INFO -   ✓ 300 chunks created
+2025-12-19 15:24:59,766 - INFO - 
+[259/649] Processing Associate Professor Merlinde Kay
+2025-12-19 15:24:59,773 - INFO -   ✓ 148 chunks created
+2025-12-19 15:24:59,773 - INFO - 
+[260/649] Processing Emeritus Professor Maria Kazacos
+2025-12-19 15:24:59,804 - INFO -   ✓ 612 chunks created
+2025-12-19 15:25:01,674 - INFO -   💾 Progress saved (batch 52)
+2025-12-19 15:25:01,674 - INFO - 
+[261/649] Processing Associate Professor David Kellermann
+2025-12-19 15:25:01,677 - INFO -   ✓ 60 chunks created
+2025-12-19 15:25:01,677 - INFO - 
+[262/649] Processing Professor Nicole Kessissoglou
+2025-12-19 15:25:01,771 - INFO -   ✓ 551 chunks created
+2025-12-19 15:25:01,771 - INFO - 
+[263/649] Processing Scientia Professor Nasser Khalili
+2025-12-19 15:25:01,805 - INFO -   ✓ 616 chunks created
+2025-12-19 15:25:01,806 - INFO - 
+[264/649] Processing Dr Muhammad Umair Khan
+2025-12-19 15:25:01,808 - INFO -   ✓ 64 chunks created
+2025-12-19 15:25:01,809 - INFO - 
+[265/649] Processing Mr Muhammad Haider Ali Khan
+2025-12-19 15:25:01,810 - INFO -   ✓ 19 chunks created
+2025-12-19 15:25:03,677 - INFO -   💾 Progress saved (batch 53)
+2025-12-19 15:25:03,677 - INFO - 
+[266/649] Processing Dr Arash Khatamianfar
+2025-12-19 15:25:03,679 - INFO -   ✓ 29 chunks created
+2025-12-19 15:25:03,679 - INFO - 
+[267/649] Processing Associate Professor Arman Khoshghalb
+2025-12-19 15:25:03,693 - INFO -   ✓ 241 chunks created
+2025-12-19 15:25:03,693 - INFO - 
+[268/649] Processing Dr Taehwan Kim
+2025-12-19 15:25:03,703 - INFO -   ✓ 211 chunks created
+2025-12-19 15:25:03,703 - INFO - 
+[269/649] Processing Dr Moonyong Kim
+2025-12-19 15:25:03,714 - INFO -   ✓ 211 chunks created
+2025-12-19 15:25:03,714 - INFO - 
+[270/649] Processing Professor Jang-Kyo Kim
+2025-12-19 15:25:03,758 - INFO -   ✓ 1063 chunks created
+2025-12-19 15:25:05,610 - INFO -   💾 Progress saved (batch 54)
+2025-12-19 15:25:05,610 - INFO - 
+[271/649] Processing Dr Andrew Kinsela
+2025-12-19 15:25:05,619 - INFO -   ✓ 142 chunks created
+2025-12-19 15:25:05,619 - INFO - 
+[272/649] Processing Dr Georgios Konstantinou
+2025-12-19 15:25:05,662 - INFO -   ✓ 705 chunks created
+2025-12-19 15:25:05,662 - INFO - 
+[273/649] Processing Professor Shawn Kook
+2025-12-19 15:25:05,693 - INFO -   ✓ 576 chunks created
+2025-12-19 15:25:05,693 - INFO - 
+[274/649] Processing Dr Anders Kringhoej
+2025-12-19 15:25:09,629 - INFO -   ✓ 49 chunks created
+2025-12-19 15:25:09,629 - INFO - 
+[275/649] Processing Professor Jay Kruzic
+2025-12-19 15:25:09,668 - INFO -   ✓ 548 chunks created
+2025-12-19 15:25:11,549 - INFO -   💾 Progress saved (batch 55)
+2025-12-19 15:25:11,549 - INFO - 
+[276/649] Processing Dr Priyank Kumar
+2025-12-19 15:25:11,565 - INFO -   ✓ 408 chunks created
+2025-12-19 15:25:11,565 - INFO - 
+[277/649] Processing Dr Dipan Kundu
+2025-12-19 15:25:11,572 - INFO -   ✓ 186 chunks created
+2025-12-19 15:25:11,572 - INFO - 
+[278/649] Processing Professor Francois Ladouceur
+2025-12-19 15:25:11,588 - INFO -   ✓ 321 chunks created
+2025-12-19 15:25:11,588 - INFO - 
+[279/649] Processing Dr Jesse Laeuchli
+2025-12-19 15:25:11,589 - INFO -   ✓ 31 chunks created
+2025-12-19 15:25:11,589 - INFO - 
+[280/649] Processing Dr Hamed Lamei Ramandi
+2025-12-19 15:25:11,594 - INFO -   ✓ 111 chunks created
+2025-12-19 15:25:13,511 - INFO -   💾 Progress saved (batch 56)
+2025-12-19 15:25:13,511 - INFO - 
+[281/649] Processing Dr Yanyan Lao
+2025-12-19 15:25:13,512 - INFO -   ✓ 21 chunks created
+2025-12-19 15:25:13,512 - INFO - 
+[282/649] Processing Associate Professor Arne Laucht
+2025-12-19 15:25:13,528 - INFO -   ✓ 529 chunks created
+2025-12-19 15:25:13,528 - INFO - 
+[283/649] Processing Dr Thao Le
+2025-12-19 15:25:13,528 - INFO -   ✓ 12 chunks created
+2025-12-19 15:25:13,528 - INFO - 
+[284/649] Processing Dr Van Duc Le
+2025-12-19 15:25:13,533 - INFO -   ✓ 98 chunks created
+2025-12-19 15:25:13,533 - INFO - 
+[285/649] Processing Associate Professor Pierre Le Clech
+2025-12-19 15:25:13,555 - INFO -   ✓ 426 chunks created
+2025-12-19 15:25:15,421 - INFO -   💾 Progress saved (batch 57)
+2025-12-19 15:25:15,421 - INFO - 
+[286/649] Processing Professor Johannes le Coutre
+2025-12-19 15:25:15,429 - INFO -   ✓ 197 chunks created
+2025-12-19 15:25:15,429 - INFO - 
+[287/649] Processing Mr Patrick Lederer
+2025-12-19 15:25:15,429 - INFO - 
+[288/649] Processing Associate Professor Alice Lee
+2025-12-19 15:25:15,438 - INFO -   ✓ 179 chunks created
+2025-12-19 15:25:15,438 - INFO - 
+[289/649] Processing Dr Wendy Lee
+2025-12-19 15:25:15,441 - INFO -   ✓ 76 chunks created
+2025-12-19 15:25:15,441 - INFO - 
+[290/649] Processing Dr Matthew Lee
+2025-12-19 15:25:15,448 - INFO -   ✓ 168 chunks created
+2025-12-19 15:25:17,333 - INFO -   💾 Progress saved (batch 58)
+2025-12-19 15:25:17,333 - INFO - 
+[291/649] Processing Associate Professor Torsten Lehmann
+2025-12-19 15:25:17,346 - INFO -   ✓ 188 chunks created
+2025-12-19 15:25:17,346 - INFO - 
+[292/649] Processing Dr Chin Neng Leong
+2025-12-19 15:25:17,348 - INFO -   ✓ 24 chunks created
+2025-12-19 15:25:17,348 - INFO - 
+[293/649] Processing Professor Greg Leslie
+2025-12-19 15:25:17,371 - INFO -   ✓ 421 chunks created
+2025-12-19 15:25:17,371 - INFO - 
+[294/649] Processing Mr Josh Leverett
+2025-12-19 15:25:17,374 - INFO -   ✓ 50 chunks created
+2025-12-19 15:25:17,374 - INFO - 
+[295/649] Processing Dr Ao Li
+2025-12-19 15:25:17,379 - INFO -   ✓ 127 chunks created
+2025-12-19 15:25:19,264 - INFO -   💾 Progress saved (batch 59)
+2025-12-19 15:25:19,264 - INFO - 
+[296/649] Processing Dr Zhen (Jan) Li
+2025-12-19 15:25:19,269 - INFO -   ✓ 106 chunks created
+2025-12-19 15:25:19,269 - INFO - 
+[297/649] Processing Associate Professor Ming Li
+2025-12-19 15:25:19,281 - INFO -   ✓ 263 chunks created
+2025-12-19 15:25:19,281 - INFO - 
+[298/649] Processing Dr Qiyuan Li
+2025-12-19 15:25:19,286 - INFO -   ✓ 115 chunks created
+2025-12-19 15:25:19,287 - INFO - 
+[299/649] Processing Dr Darson Li
+2025-12-19 15:25:19,290 - INFO -   ✓ 57 chunks created
+2025-12-19 15:25:19,290 - INFO - 
+[300/649] Processing Associate Professor Wengui Li
+2025-12-19 15:25:19,319 - INFO -   ✓ 618 chunks created
+2025-12-19 15:25:21,181 - INFO -   💾 Progress saved (batch 60)
+2025-12-19 15:25:21,181 - INFO - 
+[301/649] Processing Associate Professor Binghao Li
+2025-12-19 15:25:21,194 - INFO -   ✓ 261 chunks created
+2025-12-19 15:25:21,194 - INFO - 
+[302/649] Processing Mr Yuekang Li
+2025-12-19 15:25:21,200 - INFO -   ✓ 110 chunks created
+2025-12-19 15:25:21,200 - INFO - 
+[303/649] Processing Dr Wenxian Li
+2025-12-19 15:25:21,498 - INFO -   ✓ 1060 chunks created
+2025-12-19 15:25:21,498 - INFO - 
+[304/649] Processing Dr Xiaopeng Li
+2025-12-19 15:25:21,510 - INFO -   ✓ 248 chunks created
+2025-12-19 15:25:21,510 - INFO - 
+[305/649] Processing Associate Professor Kang Liang
+2025-12-19 15:25:21,534 - INFO -   ✓ 648 chunks created
+2025-12-19 15:25:23,431 - INFO -   💾 Progress saved (batch 61)
+2025-12-19 15:25:23,431 - INFO - 
+[306/649] Processing Dr Jieying Liang
+2025-12-19 15:25:23,436 - INFO -   ✓ 111 chunks created
+2025-12-19 15:25:23,436 - INFO - 
+[307/649] Processing Dr May Lim
+2025-12-19 15:25:23,444 - INFO -   ✓ 153 chunks created
+2025-12-19 15:25:23,444 - INFO - 
+[308/649] Processing Associate Professor Samsung Lim
+2025-12-19 15:25:23,472 - INFO -   ✓ 468 chunks created
+2025-12-19 15:25:23,473 - INFO - 
+[309/649] Processing Dr Bo Lin
+2025-12-19 15:25:23,475 - INFO -   ✓ 47 chunks created
+2025-12-19 15:25:23,475 - INFO - 
+[310/649] Processing Ms Kang Lin
+2025-12-19 15:25:23,476 - INFO -   ✓ 18 chunks created
+2025-12-19 15:25:25,365 - INFO -   💾 Progress saved (batch 62)
+2025-12-19 15:25:25,365 - INFO - 
+[311/649] Processing Associate Professor Yi Liu
+2025-12-19 15:25:25,380 - INFO -   ✓ 315 chunks created
+2025-12-19 15:25:25,380 - INFO - 
+[312/649] Processing Dr Xu Liu
+2025-12-19 15:25:25,383 - INFO -   ✓ 87 chunks created
+2025-12-19 15:25:25,383 - INFO - 
+[313/649] Processing Miss Si Liu
+2025-12-19 15:25:25,383 - INFO - 
+[314/649] Processing Dr Yinyan Liu
+2025-12-19 15:25:25,385 - INFO -   ✓ 33 chunks created
+2025-12-19 15:25:25,385 - INFO - 
+[315/649] Processing Associate Professor Ang Liu
+2025-12-19 15:25:25,395 - INFO -   ✓ 318 chunks created
+2025-12-19 15:25:27,311 - INFO -   💾 Progress saved (batch 63)
+2025-12-19 15:25:27,311 - INFO - 
+[316/649] Processing Dr Shuang Liu
+2025-12-19 15:25:27,312 - INFO -   ✓ 16 chunks created
+2025-12-19 15:25:27,312 - INFO - 
+[317/649] Processing Dr Ziheng Liu
+2025-12-19 15:25:27,317 - INFO -   ✓ 105 chunks created
+2025-12-19 15:25:27,317 - INFO - 
+[318/649] Processing Dr Robert Lloyd
+2025-12-19 15:25:27,320 - INFO -   ✓ 59 chunks created
+2025-12-19 15:25:27,320 - INFO - 
+[319/649] Processing Professor Megan Lord
+2025-12-19 15:25:27,336 - INFO -   ✓ 342 chunks created
+2025-12-19 15:25:27,336 - INFO - 
+[320/649] Processing Dr Raymond Louie
+2025-12-19 15:25:27,344 - INFO -   ✓ 193 chunks created
+2025-12-19 15:25:29,250 - INFO -   💾 Progress saved (batch 64)
+2025-12-19 15:25:29,250 - INFO - 
+[321/649] Processing Dr Emma Lovell
+2025-12-19 15:25:29,256 - INFO -   ✓ 176 chunks created
+2025-12-19 15:25:29,256 - INFO - 
+[322/649] Processing Scientia Professor Nigel Lovell
+2025-12-19 15:25:29,447 - INFO -   ✓ 1827 chunks created
+2025-12-19 15:25:29,447 - INFO - 
+[323/649] Processing Associate Professor Xunyu Lu
+2025-12-19 15:25:29,457 - INFO -   ✓ 261 chunks created
+2025-12-19 15:25:29,457 - INFO - 
+[324/649] Processing Dr Qinghua Lu
+2025-12-19 15:25:29,477 - INFO -   ✓ 396 chunks created
+2025-12-19 15:25:29,477 - INFO - 
+[325/649] Processing Dr Gough Lui
+2025-12-19 15:25:29,477 - INFO -   ✓ 4 chunks created
+2025-12-19 15:25:31,367 - INFO -   💾 Progress saved (batch 65)
+2025-12-19 15:25:31,367 - INFO - 
+[326/649] Processing Dr Xavier Luo
+2025-12-19 15:25:31,369 - INFO -   ✓ 66 chunks created
+2025-12-19 15:25:31,370 - INFO - 
+[327/649] Processing Dr Minzhao Lyu
+2025-12-19 15:25:31,373 - INFO -   ✓ 90 chunks created
+2025-12-19 15:25:31,373 - INFO - 
+[328/649] Processing Professor Iain Macgill
+2025-12-19 15:25:31,413 - INFO -   ✓ 567 chunks created
+2025-12-19 15:25:31,414 - INFO - 
+[329/649] Processing Dr Ashesh Mahidadia
+2025-12-19 15:25:31,416 - INFO -   ✓ 41 chunks created
+2025-12-19 15:25:31,416 - INFO - 
+[330/649] Processing Mr Mohamed Mahmoud
+2025-12-19 15:25:31,417 - INFO -   ✓ 12 chunks created
+2025-12-19 15:25:33,319 - INFO -   💾 Progress saved (batch 66)
+2025-12-19 15:25:33,319 - INFO - 
+[331/649] Processing Dr Mehrisadat Makki Alamdari
+2025-12-19 15:25:33,329 - INFO -   ✓ 191 chunks created
+2025-12-19 15:25:33,329 - INFO - 
+[332/649] Processing Professor Robert Malaney
+2025-12-19 15:25:33,353 - INFO -   ✓ 660 chunks created
+2025-12-19 15:25:33,353 - INFO - 
+[333/649] Processing Professor Michael Manefield
+2025-12-19 15:25:33,371 - INFO -   ✓ 417 chunks created
+2025-12-19 15:25:33,372 - INFO - 
+[334/649] Processing Mr Kristian Mansfield
+2025-12-19 15:25:33,372 - INFO - 
+[335/649] Processing Dr Jaleh Mansouri
+2025-12-19 15:25:33,372 - INFO -   ✓ 4 chunks created
+2025-12-19 15:25:35,264 - INFO -   💾 Progress saved (batch 67)
+2025-12-19 15:25:35,264 - INFO - 
+[336/649] Processing Dr Yongjing Mao
+2025-12-19 15:25:35,266 - INFO -   ✓ 26 chunks created
+2025-12-19 15:25:35,266 - INFO - 
+[337/649] Processing Associate Professor Nadine Marcus
+2025-12-19 15:25:35,276 - INFO -   ✓ 138 chunks created
+2025-12-19 15:25:35,276 - INFO - 
+[338/649] Processing Professor Lucy Marshall
+2025-12-19 15:25:35,276 - INFO -   ✓ 18 chunks created
+2025-12-19 15:25:35,277 - INFO - 
+[339/649] Processing Dr Eric Martin
+2025-12-19 15:25:35,282 - INFO -   ✓ 98 chunks created
+2025-12-19 15:25:35,282 - INFO - 
+[340/649] Processing Dr Rahat Masood
+2025-12-19 15:25:35,286 - INFO -   ✓ 110 chunks created
+2025-12-19 15:25:37,196 - INFO -   💾 Progress saved (batch 68)
+2025-12-19 15:25:37,196 - INFO - 
+[341/649] Processing Dr Reji Mathew
+2025-12-19 15:25:37,201 - INFO -   ✓ 86 chunks created
+2025-12-19 15:25:37,201 - INFO - 
+[342/649] Processing Dr Gabriel Matus Vazquez
+2025-12-19 15:25:38,471 - INFO -   ✓ 8 chunks created
+2025-12-19 15:25:38,471 - INFO - 
+[343/649] Processing Dr Federico Mazur
+2025-12-19 15:25:38,480 - INFO -   ✓ 60 chunks created
+2025-12-19 15:25:38,480 - INFO - 
+[344/649] Processing Dr James McDonald
+2025-12-19 15:25:38,503 - INFO -   ✓ 171 chunks created
+2025-12-19 15:25:38,503 - INFO - 
+[345/649] Processing Dr Craig McLaughlin
+2025-12-19 15:25:38,503 - INFO -   ✓ 7 chunks created
+2025-12-19 15:25:40,448 - INFO -   💾 Progress saved (batch 69)
+2025-12-19 15:25:40,448 - INFO - 
+[346/649] Processing Dr Shona McNab
+2025-12-19 15:25:40,450 - INFO -   ✓ 60 chunks created
+2025-12-19 15:25:40,450 - INFO - 
+[347/649] Processing Mr Peter McNair
+2025-12-19 15:25:40,450 - INFO - 
+[348/649] Processing Dr Raj Mehrotra
+2025-12-19 15:25:40,461 - INFO -   ✓ 238 chunks created
+2025-12-19 15:25:40,461 - INFO - 
+[349/649] Processing Professor Erik Meijering
+2025-12-19 15:25:40,487 - INFO -   ✓ 553 chunks created
+2025-12-19 15:25:40,487 - INFO - 
+[350/649] Processing Associate Professor Chris Menictas
+2025-12-19 15:25:40,495 - INFO -   ✓ 149 chunks created
+2025-12-19 15:25:42,385 - INFO -   💾 Progress saved (batch 70)
+2025-12-19 15:25:42,385 - INFO - 
+[351/649] Processing Dr Will Midgley
+2025-12-19 15:25:42,388 - INFO -   ✓ 78 chunks created
+2025-12-19 15:25:42,388 - INFO - 
+[352/649] Processing Professor Americo Migliaccio
+2025-12-19 15:25:42,398 - INFO -   ✓ 247 chunks created
+2025-12-19 15:25:42,398 - INFO - 
+[353/649] Processing Mr Brett Miller
+2025-12-19 15:25:42,407 - INFO -   ✓ 76 chunks created
+2025-12-19 15:25:42,407 - INFO - 
+[354/649] Processing Dr Christopher Miller
+2025-12-19 15:25:42,414 - INFO -   ✓ 121 chunks created
+2025-12-19 15:25:42,414 - INFO - 
+[355/649] Processing Dr Deepak Mishra
+2025-12-19 15:25:42,455 - INFO -   ✓ 961 chunks created
+2025-12-19 15:25:44,353 - INFO -   💾 Progress saved (batch 71)
+2025-12-19 15:25:44,353 - INFO - 
+[356/649] Processing Dr Rishabh Mishra
+2025-12-19 15:25:44,354 - INFO -   ✓ 19 chunks created
+2025-12-19 15:25:44,354 - INFO - 
+[357/649] Processing Dr Luca Modenese
+2025-12-19 15:25:44,362 - INFO -   ✓ 191 chunks created
+2025-12-19 15:25:44,362 - INFO - 
+[358/649] Processing Mr Ben Modra
+2025-12-19 15:25:44,364 - INFO -   ✓ 30 chunks created
+2025-12-19 15:25:44,364 - INFO - 
+[359/649] Processing Dr Akram Mohamed Shafie
+2025-12-19 15:25:45,635 - INFO -   ✓ 26 chunks created
+2025-12-19 15:25:45,635 - INFO - 
+[360/649] Processing Associate Professor Gelareh Mohammadi
+2025-12-19 15:25:45,657 - INFO -   ✓ 151 chunks created
+2025-12-19 15:25:47,569 - INFO -   💾 Progress saved (batch 72)
+2025-12-19 15:25:47,569 - INFO - 
+[361/649] Processing Dr Milad Mohsenzadeh
+2025-12-19 15:25:47,569 - INFO -   ✓ 3 chunks created
+2025-12-19 15:25:47,569 - INFO - 
+[362/649] Processing Mr Raktim Kumar Mondol
+2025-12-19 15:25:47,572 - INFO -   ✓ 29 chunks created
+2025-12-19 15:25:47,572 - INFO - 
+[363/649] Processing Dr Laura Montano Luna
+2025-12-19 15:25:47,574 - INFO -   ✓ 41 chunks created
+2025-12-19 15:25:47,574 - INFO - 
+[364/649] Processing Associate Professor Danielle Moreau
+2025-12-19 15:25:47,592 - INFO -   ✓ 408 chunks created
+2025-12-19 15:25:47,592 - INFO - 
+[365/649] Processing Scientia Professor Andrea Morello
+2025-12-19 15:25:47,609 - INFO -   ✓ 610 chunks created
+2025-12-19 15:25:49,480 - INFO -   💾 Progress saved (batch 73)
+2025-12-19 15:25:49,480 - INFO - 
+[366/649] Processing Emeritus Professor Carroll Morgan
+2025-12-19 15:25:49,491 - INFO -   ✓ 300 chunks created
+2025-12-19 15:25:49,491 - INFO - 
+[367/649] Processing Emeritus Professor Graham Morrison
+2025-12-19 15:25:49,506 - INFO -   ✓ 262 chunks created
+2025-12-19 15:25:49,506 - INFO - 
+[368/649] Processing Professor Daniel Moses
+2025-12-19 15:25:49,524 - INFO -   ✓ 321 chunks created
+2025-12-19 15:25:49,524 - INFO - 
+[369/649] Processing Professor Peyman Mostaghimi
+2025-12-19 15:25:49,541 - INFO -   ✓ 411 chunks created
+2025-12-19 15:25:49,541 - INFO - 
+[370/649] Processing Dr Mohsen Mousavi
+2025-12-19 15:25:49,546 - INFO -   ✓ 115 chunks created
+2025-12-19 15:25:51,435 - INFO -   💾 Progress saved (batch 74)
+2025-12-19 15:25:51,436 - INFO - 
+[371/649] Processing Dr Ahmed Musleh
+2025-12-19 15:25:51,439 - INFO -   ✓ 71 chunks created
+2025-12-19 15:25:51,439 - INFO - 
+[372/649] Processing Mr Prashanth Nagulapally
+2025-12-19 15:25:51,440 - INFO -   ✓ 14 chunks created
+2025-12-19 15:25:51,440 - INFO - 
+[373/649] Processing Dr Rishi Ravindra Naik
+2025-12-19 15:25:51,442 - INFO -   ✓ 32 chunks created
+2025-12-19 15:25:51,442 - INFO - 
+[374/649] Processing Dr Ali Najmi
+2025-12-19 15:25:51,444 - INFO -   ✓ 69 chunks created
+2025-12-19 15:25:51,444 - INFO - 
+[375/649] Processing Dr Aous Naman
+2025-12-19 15:25:51,449 - INFO -   ✓ 90 chunks created
+2025-12-19 15:25:53,322 - INFO -   💾 Progress saved (batch 75)
+2025-12-19 15:25:53,322 - INFO - 
+[376/649] Processing Ms Shivika Narang
+2025-12-19 15:25:53,322 - INFO - 
+[377/649] Processing Dr Shimul Kanti Nath
+2025-12-19 15:25:53,327 - INFO -   ✓ 125 chunks created
+2025-12-19 15:25:53,327 - INFO - 
+[378/649] Processing Dr Peter Neal
+2025-12-19 15:25:53,334 - INFO -   ✓ 111 chunks created
+2025-12-19 15:25:53,334 - INFO - 
+[379/649] Processing Mr Daniel Nebauer
+2025-12-19 15:25:53,334 - INFO - 
+[380/649] Processing Associate Professor Derrick Wing Kwan Ng
+2025-12-19 15:25:53,492 - INFO -   ✓ 2499 chunks created
+2025-12-19 15:25:55,381 - INFO -   💾 Progress saved (batch 76)
+2025-12-19 15:25:55,381 - INFO - 
+[381/649] Processing Mr Cong Nguyen
+2025-12-19 15:25:55,383 - INFO -   ✓ 39 chunks created
+2025-12-19 15:25:55,383 - INFO - 
+[382/649] Processing Dr Wei Ni
+2025-12-19 15:25:55,443 - INFO -   ✓ 1603 chunks created
+2025-12-19 15:25:55,443 - INFO - 
+[383/649] Processing Professor Bing-Jie Ni
+2025-12-19 15:25:55,518 - INFO -   ✓ 1498 chunks created
+2025-12-19 15:25:55,518 - INFO - 
+[384/649] Processing Dr Shuai Nie
+2025-12-19 15:25:55,522 - INFO -   ✓ 59 chunks created
+2025-12-19 15:25:55,522 - INFO - 
+[385/649] Processing Dr Michael Nielsen
+2025-12-19 15:25:55,534 - INFO -   ✓ 289 chunks created
+2025-12-19 15:25:57,435 - INFO -   💾 Progress saved (batch 77)
+2025-12-19 15:25:57,435 - INFO - 
+[386/649] Processing Associate Professor Robert Nordon
+2025-12-19 15:25:57,443 - INFO -   ✓ 150 chunks created
+2025-12-19 15:25:57,443 - INFO - 
+[387/649] Processing Dr Hendra Nurdin
+2025-12-19 15:25:57,459 - INFO -   ✓ 418 chunks created
+2025-12-19 15:25:57,459 - INFO - 
+[388/649] Processing Mr Martin Nurizzo
+2025-12-19 15:25:57,459 - INFO -   ✓ 4 chunks created
+2025-12-19 15:25:57,459 - INFO - 
+[389/649] Processing Professor Denis O'Carroll
+2025-12-19 15:25:57,477 - INFO -   ✓ 355 chunks created
+2025-12-19 15:25:57,477 - INFO - 
+[390/649] Processing Dr Daniel O'Shea
+2025-12-19 15:25:57,478 - INFO -   ✓ 26 chunks created
+2025-12-19 15:25:59,395 - INFO -   💾 Progress saved (batch 78)
+2025-12-19 15:25:59,395 - INFO - 
+[391/649] Processing Associate Professor Edward Obbard
+2025-12-19 15:25:59,404 - INFO -   ✓ 155 chunks created
+2025-12-19 15:25:59,404 - INFO - 
+[392/649] Processing Associate Professor Joung Oh
+2025-12-19 15:25:59,415 - INFO -   ✓ 251 chunks created
+2025-12-19 15:25:59,415 - INFO - 
+[393/649] Processing Dr John Olsen
+2025-12-19 15:25:59,426 - INFO -   ✓ 174 chunks created
+2025-12-19 15:25:59,426 - INFO - 
+[394/649] Processing Dr Amr Omar
+2025-12-19 15:25:59,430 - INFO -   ✓ 75 chunks created
+2025-12-19 15:25:59,430 - INFO - 
+[395/649] Processing Dr Ebrahim Oromiehie
+2025-12-19 15:25:59,436 - INFO -   ✓ 103 chunks created
+2025-12-19 15:26:01,328 - INFO -   💾 Progress saved (batch 79)
+2025-12-19 15:26:01,328 - INFO - 
+[396/649] Processing Professor Maurice Pagnucco
+2025-12-19 15:26:01,346 - INFO -   ✓ 319 chunks created
+2025-12-19 15:26:01,346 - INFO - 
+[397/649] Processing Associate Professor Helen Paik
+2025-12-19 15:26:01,361 - INFO -   ✓ 275 chunks created
+2025-12-19 15:26:01,361 - INFO - 
+[398/649] Processing Dr Jian Pan
+2025-12-19 15:26:01,367 - INFO -   ✓ 141 chunks created
+2025-12-19 15:26:01,367 - INFO - 
+[399/649] Processing Mr Eh Hau Pan
+2025-12-19 15:26:01,368 - INFO -   ✓ 12 chunks created
+2025-12-19 15:26:01,368 - INFO - 
+[400/649] Processing Dr Rob Passey
+2025-12-19 15:26:01,375 - INFO -   ✓ 101 chunks created
+2025-12-19 15:26:03,269 - INFO -   💾 Progress saved (batch 80)
+2025-12-19 15:26:03,269 - INFO - 
+[401/649] Processing Professor Garth Pearce
+2025-12-19 15:26:03,284 - INFO -   ✓ 219 chunks created
+2025-12-19 15:26:03,284 - INFO - 
+[402/649] Processing Dr Phoebe Pearce
+2025-12-19 15:26:06,962 - INFO -   ✓ 105 chunks created
+2025-12-19 15:26:06,962 - INFO - 
+[403/649] Processing Dr Hammond Pearce
+2025-12-19 15:26:06,974 - INFO -   ✓ 154 chunks created
+2025-12-19 15:26:06,974 - INFO - 
+[404/649] Processing Dr Shuhua Peng
+2025-12-19 15:26:06,997 - INFO -   ✓ 374 chunks created
+2025-12-19 15:26:06,997 - INFO - 
+[405/649] Processing Professor Zhongxiao Peng
+2025-12-19 15:26:07,023 - INFO -   ✓ 474 chunks created
+2025-12-19 15:26:08,923 - INFO -   💾 Progress saved (batch 81)
+2025-12-19 15:26:08,924 - INFO - 
+[406/649] Processing Professor Gang-Ding Peng
+2025-12-19 15:26:09,010 - INFO -   ✓ 1826 chunks created
+2025-12-19 15:26:09,010 - INFO - 
+[407/649] Processing Dr Ivan Perez-Wurfl
+2025-12-19 15:26:09,022 - INFO -   ✓ 232 chunks created
+2025-12-19 15:26:09,022 - INFO - 
+[408/649] Processing Mr An Ninh Pham
+2025-12-19 15:26:09,026 - INFO -   ✓ 71 chunks created
+2025-12-19 15:26:09,026 - INFO - 
+[409/649] Processing Associate Professor Hoang-Phuong Phan
+2025-12-19 15:26:09,046 - INFO -   ✓ 557 chunks created
+2025-12-19 15:26:09,046 - INFO - 
+[410/649] Processing Associate Professor Toan Phung
+2025-12-19 15:26:09,091 - INFO -   ✓ 628 chunks created
+2025-12-19 15:26:10,982 - INFO -   💾 Progress saved (batch 82)
+2025-12-19 15:26:10,982 - INFO - 
+[411/649] Processing Associate Professor Jarryd Pla
+2025-12-19 15:26:10,987 - INFO -   ✓ 174 chunks created
+2025-12-19 15:26:10,987 - INFO - 
+[412/649] Processing Dr Pablo Poblete Durruty
+2025-12-19 15:26:10,987 - INFO - 
+[413/649] Processing Dr Shukla Poddar
+2025-12-19 15:26:10,989 - INFO -   ✓ 29 chunks created
+2025-12-19 15:26:10,989 - INFO - 
+[414/649] Processing Dr Badal Pokharel
+2025-12-19 15:26:10,991 - INFO -   ✓ 34 chunks created
+2025-12-19 15:26:10,991 - INFO - 
+[415/649] Processing Mr Vitalii Ponomar
+2025-12-19 15:26:10,994 - INFO -   ✓ 70 chunks created
+2025-12-19 15:26:12,963 - INFO -   💾 Progress saved (batch 83)
+2025-12-19 15:26:12,963 - INFO - 
+[416/649] Processing Professor Laura Poole-Warren
+2025-12-19 15:26:12,982 - INFO -   ✓ 346 chunks created
+2025-12-19 15:26:12,982 - INFO - 
+[417/649] Processing Dr Arian Prabowo
+2025-12-19 15:26:12,984 - INFO -   ✓ 42 chunks created
+2025-12-19 15:26:12,984 - INFO - 
+[418/649] Processing Mr Krish Prasad
+2025-12-19 15:26:12,984 - INFO - 
+[419/649] Processing Dr Abhnil Prasad
+2025-12-19 15:26:12,992 - INFO -   ✓ 154 chunks created
+2025-12-19 15:26:12,993 - INFO - 
+[420/649] Processing Professor Stuart Prescott
+2025-12-19 15:26:13,008 - INFO -   ✓ 378 chunks created
+2025-12-19 15:26:14,912 - INFO -   💾 Progress saved (batch 84)
+2025-12-19 15:26:14,913 - INFO - 
+[421/649] Processing Dr Rita Prestigiacomo
+2025-12-19 15:26:14,913 - INFO -   ✓ 18 chunks created
+2025-12-19 15:26:14,914 - INFO - 
+[422/649] Processing Dr Matthew Priestley
+2025-12-19 15:26:14,915 - INFO -   ✓ 30 chunks created
+2025-12-19 15:26:14,916 - INFO - 
+[423/649] Processing Professor Gangadhara Prusty
+2025-12-19 15:26:14,952 - INFO -   ✓ 616 chunks created
+2025-12-19 15:26:14,953 - INFO - 
+[424/649] Processing Dr Andreas Pusch
+2025-12-19 15:26:14,953 - INFO -   ✓ 9 chunks created
+2025-12-19 15:26:14,953 - INFO - 
+[425/649] Processing Dr Chen Qian
+2025-12-19 15:26:14,954 - INFO -   ✓ 24 chunks created
+2025-12-19 15:26:16,863 - INFO -   💾 Progress saved (batch 85)
+2025-12-19 15:26:16,864 - INFO - 
+[426/649] Processing Dr Min Qiu
+2025-12-19 15:26:19,784 - INFO -   ✓ 119 chunks created
+2025-12-19 15:26:19,784 - INFO - 
+[427/649] Processing Professor Fethi Rabhi
+2025-12-19 15:26:19,811 - INFO -   ✓ 356 chunks created
+2025-12-19 15:26:19,813 - INFO - 
+[428/649] Processing Mr Mamunur Rahaman
+2025-12-19 15:26:19,821 - INFO -   ✓ 163 chunks created
+2025-12-19 15:26:19,821 - INFO - 
+[429/649] Processing Dr Zahra Rahimpour
+2025-12-19 15:26:19,822 - INFO -   ✓ 13 chunks created
+2025-12-19 15:26:19,822 - INFO - 
+[430/649] Processing Professor Faz Rahman
+2025-12-19 15:26:19,976 - INFO -   ✓ 706 chunks created
+2025-12-19 15:26:21,917 - INFO -   💾 Progress saved (batch 86)
+2025-12-19 15:26:21,918 - INFO - 
+[431/649] Processing Emeritus Professor Sheik Rahman
+2025-12-19 15:26:21,954 - INFO -   ✓ 462 chunks created
+2025-12-19 15:26:21,954 - INFO - 
+[432/649] Processing Dr Vineet Rajani
+2025-12-19 15:26:21,956 - INFO -   ✓ 41 chunks created
+2025-12-19 15:26:21,956 - INFO - 
+[433/649] Processing Dr Raju Raju
+2025-12-19 15:26:21,964 - INFO -   ✓ 86 chunks created
+2025-12-19 15:26:21,964 - INFO - 
+[434/649] Processing Professor Rodica Ramer
+2025-12-19 15:26:21,982 - INFO -   ✓ 324 chunks created
+2025-12-19 15:26:21,982 - INFO - 
+[435/649] Processing Emeritus Professor Bob Randall
+2025-12-19 15:26:22,021 - INFO -   ✓ 517 chunks created
+2025-12-19 15:26:23,894 - INFO -   💾 Progress saved (batch 87)
+2025-12-19 15:26:23,894 - INFO - 
+[436/649] Processing Associate Professor Simit Raval
+2025-12-19 15:26:23,910 - INFO -   ✓ 244 chunks created
+2025-12-19 15:26:23,910 - INFO - 
+[437/649] Processing Professor Jayashri Ravishankar
+2025-12-19 15:26:23,924 - INFO -   ✓ 232 chunks created
+2025-12-19 15:26:23,924 - INFO - 
+[438/649] Processing Dr Imran Razzak
+2025-12-19 15:26:23,960 - INFO -   ✓ 903 chunks created
+2025-12-19 15:26:23,960 - INFO - 
+[439/649] Processing Emeritus Professor Michael Regan
+2025-12-19 15:26:23,972 - INFO -   ✓ 181 chunks created
+2025-12-19 15:26:23,972 - INFO - 
+[440/649] Processing Dr Irene Renaud-Assemat
+2025-12-19 15:26:23,973 - INFO -   ✓ 15 chunks created
+2025-12-19 15:26:25,862 - INFO -   💾 Progress saved (batch 88)
+2025-12-19 15:26:25,862 - INFO - 
+[441/649] Processing Dr Jake Renzella
+2025-12-19 15:26:25,865 - INFO -   ✓ 23 chunks created
+2025-12-19 15:26:25,865 - INFO - 
+[442/649] Processing Professor Chris Rizos
+2025-12-19 15:26:25,936 - INFO -   ✓ 1192 chunks created
+2025-12-19 15:26:25,936 - INFO - 
+[443/649] Processing Professor Jelena Rnjak-Kovacina
+2025-12-19 15:26:25,949 - INFO -   ✓ 304 chunks created
+2025-12-19 15:26:25,949 - INFO - 
+[444/649] Processing Dr Mike Roberts
+2025-12-19 15:26:25,954 - INFO -   ✓ 81 chunks created
+2025-12-19 15:26:25,954 - INFO - 
+[445/649] Processing Associate Professor Craig Roberts
+2025-12-19 15:26:25,959 - INFO -   ✓ 96 chunks created
+2025-12-19 15:26:27,867 - INFO -   💾 Progress saved (batch 89)
+2025-12-19 15:26:27,867 - INFO - 
+[446/649] Processing Professor Hamid Roshan
+2025-12-19 15:26:27,882 - INFO -   ✓ 318 chunks created
+2025-12-19 15:26:27,882 - INFO - 
+[447/649] Processing Dr Fiacre Rougieux
+2025-12-19 15:26:27,896 - INFO -   ✓ 301 chunks created
+2025-12-19 15:26:27,896 - INFO - 
+[448/649] Processing Dr Mohammad Rowshan
+2025-12-19 15:26:27,899 - INFO -   ✓ 83 chunks created
+2025-12-19 15:26:27,899 - INFO - 
+[449/649] Processing Associate Professor Sushmita Ruj
+2025-12-19 15:26:27,914 - INFO -   ✓ 335 chunks created
+2025-12-19 15:26:27,914 - INFO - 
+[450/649] Processing Professor Adrian Russell
+2025-12-19 15:26:27,927 - INFO -   ✓ 302 chunks created
+2025-12-19 15:26:29,823 - INFO -   💾 Progress saved (batch 90)
+2025-12-19 15:26:29,823 - INFO - 
+[451/649] Processing Dr Helen Rutlidge
+2025-12-19 15:26:29,830 - INFO -   ✓ 135 chunks created
+2025-12-19 15:26:29,831 - INFO - 
+[452/649] Processing Associate Professor Meead Saberi Kalaee
+2025-12-19 15:26:29,841 - INFO -   ✓ 258 chunks created
+2025-12-19 15:26:29,841 - INFO - 
+[453/649] Processing Dr Abdallah Saffidine
+2025-12-19 15:26:44,232 - INFO -   ✓ 159 chunks created
+2025-12-19 15:26:44,233 - INFO - 
+[454/649] Processing Professor Flora Salim
+2025-12-19 15:26:44,289 - INFO -   ✓ 713 chunks created
+2025-12-19 15:26:44,289 - INFO - 
+[455/649] Processing Dr Shanil Samarakoon
+2025-12-19 15:26:44,291 - INFO -   ✓ 39 chunks created
+2025-12-19 15:26:46,155 - INFO -   💾 Progress saved (batch 91)
+2025-12-19 15:26:46,155 - INFO - 
+[456/649] Processing Professor Claude Sammut
+2025-12-19 15:26:46,175 - INFO -   ✓ 340 chunks created
+2025-12-19 15:26:46,175 - INFO - 
+[457/649] Processing Dr Rui SANG
+2025-12-19 15:26:46,178 - INFO -   ✓ 61 chunks created
+2025-12-19 15:26:46,179 - INFO - 
+[458/649] Processing Professor Andrei Savkine
+2025-12-19 15:26:46,249 - INFO -   ✓ 1080 chunks created
+2025-12-19 15:26:46,249 - INFO - 
+[459/649] Processing Professor Serkan Saydam
+2025-12-19 15:26:46,277 - INFO -   ✓ 475 chunks created
+2025-12-19 15:26:46,277 - INFO - 
+[460/649] Processing Dr Michael Schofield
+2025-12-19 15:26:46,278 - INFO -   ✓ 11 chunks created
+2025-12-19 15:26:48,175 - INFO -   💾 Progress saved (batch 92)
+2025-12-19 15:26:48,175 - INFO - 
+[461/649] Processing Associate Professor Jason Scott
+2025-12-19 15:26:48,199 - INFO -   ✓ 552 chunks created
+2025-12-19 15:26:48,199 - INFO - 
+[462/649] Processing Dr Timothy Scott
+2025-12-19 15:26:48,202 - INFO -   ✓ 56 chunks created
+2025-12-19 15:26:48,202 - INFO - 
+[463/649] Processing Mr Julius Secadiningrat
+2025-12-19 15:26:48,203 - INFO -   ✓ 9 chunks created
+2025-12-19 15:26:48,203 - INFO - 
+[464/649] Processing Professor Cordelia Selomulya
+2025-12-19 15:26:48,227 - INFO -   ✓ 542 chunks created
+2025-12-19 15:26:48,227 - INFO - 
+[465/649] Processing Dr Chandany Sen
+2025-12-19 15:26:48,231 - INFO -   ✓ 84 chunks created
+2025-12-19 15:26:50,131 - INFO -   💾 Progress saved (batch 93)
+2025-12-19 15:26:50,131 - INFO - 
+[466/649] Processing Professor Aruna Seneviratne
+2025-12-19 15:26:50,173 - INFO -   ✓ 749 chunks created
+2025-12-19 15:26:50,173 - INFO - 
+[467/649] Processing Dr Sebastian Sequoiah-Grayson
+2025-12-19 15:26:50,173 - INFO - 
+[468/649] Processing Associate Professor Vidhyasaharan Sethu
+2025-12-19 15:26:50,190 - INFO -   ✓ 240 chunks created
+2025-12-19 15:26:50,190 - INFO - 
+[469/649] Processing Dr Thomas Sewell
+2025-12-19 15:26:53,098 - INFO -   ✓ 13 chunks created
+2025-12-19 15:26:53,098 - INFO - 
+[470/649] Processing Dr Zhao Sha
+2025-12-19 15:26:53,105 - INFO -   ✓ 91 chunks created
+2025-12-19 15:26:55,035 - INFO -   💾 Progress saved (batch 94)
+2025-12-19 15:26:55,035 - INFO - 
+[471/649] Processing Dr Arash Shaghaghi
+2025-12-19 15:26:55,040 - INFO -   ✓ 102 chunks created
+2025-12-19 15:26:55,040 - INFO - 
+[472/649] Processing Dr Babak Shahbodagh
+2025-12-19 15:26:55,047 - INFO -   ✓ 140 chunks created
+2025-12-19 15:26:55,047 - INFO - 
+[473/649] Processing Dr Mostafa Shahin
+2025-12-19 15:26:55,053 - INFO -   ✓ 87 chunks created
+2025-12-19 15:26:55,053 - INFO - 
+[474/649] Processing Dr Ali Shakiba
+2025-12-19 15:27:07,423 - INFO -   ✓ 100 chunks created
+2025-12-19 15:27:07,423 - INFO - 
+[475/649] Processing Mr Yuan Shang
+2025-12-19 15:27:07,425 - INFO -   ✓ 34 chunks created
+2025-12-19 15:27:09,328 - INFO -   💾 Progress saved (batch 95)
+2025-12-19 15:27:09,328 - INFO - 
+[476/649] Processing Professor Ashish Sharma
+2025-12-19 15:27:09,381 - INFO -   ✓ 1137 chunks created
+2025-12-19 15:27:09,381 - INFO - 
+[477/649] Processing Professor Yansong Shen
+2025-12-19 15:27:09,406 - INFO -   ✓ 599 chunks created
+2025-12-19 15:27:09,406 - INFO - 
+[478/649] Processing Dr Johnson Xuesong Shen
+2025-12-19 15:27:09,420 - INFO -   ✓ 258 chunks created
+2025-12-19 15:27:09,420 - INFO - 
+[479/649] Processing Dr John Shepherd
+2025-12-19 15:27:09,428 - INFO -   ✓ 112 chunks created
+2025-12-19 15:27:09,428 - INFO - 
+[480/649] Processing Dr Igor Shikhov
+2025-12-19 15:27:09,432 - INFO -   ✓ 92 chunks created
+2025-12-19 15:27:11,334 - INFO -   💾 Progress saved (batch 96)
+2025-12-19 15:27:11,334 - INFO - 
+[481/649] Processing Associate Professor Mohit Shivdasani
+2025-12-19 15:27:11,348 - INFO -   ✓ 294 chunks created
+2025-12-19 15:27:11,348 - INFO - 
+[482/649] Processing Associate Professor Santosh Shrestha
+2025-12-19 15:27:11,366 - INFO -   ✓ 384 chunks created
+2025-12-19 15:27:11,366 - INFO - 
+[483/649] Processing Dr Guangyao Si
+2025-12-19 15:27:11,461 - INFO -   ✓ 279 chunks created
+2025-12-19 15:27:11,461 - INFO - 
+[484/649] Processing Dr Ayesha Siddika
+2025-12-19 15:27:11,464 - INFO -   ✓ 67 chunks created
+2025-12-19 15:27:11,464 - INFO - 
+[485/649] Processing Dr Sonit Singh
+2025-12-19 15:27:11,467 - INFO -   ✓ 49 chunks created
+2025-12-19 15:27:13,351 - INFO -   💾 Progress saved (batch 97)
+2025-12-19 15:27:13,351 - INFO - 
+[486/649] Processing Dr Shaveen Singh
+2025-12-19 15:27:13,351 - INFO - 
+[487/649] Processing Dr Rob Sison
+2025-12-19 15:27:13,353 - INFO -   ✓ 28 chunks created
+2025-12-19 15:27:13,353 - INFO - 
+[488/649] Processing Professor Vijay Sivaraman
+2025-12-19 15:27:13,374 - INFO -   ✓ 385 chunks created
+2025-12-19 15:27:13,374 - INFO - 
+[489/649] Processing Dr Wade Smith
+2025-12-19 15:27:13,385 - INFO -   ✓ 204 chunks created
+2025-12-19 15:27:13,385 - INFO - 
+[490/649] Processing Ms Anastasia Soeriyadi
+2025-12-19 15:27:13,385 - INFO -   ✓ 4 chunks created
+2025-12-19 15:27:15,268 - INFO -   💾 Progress saved (batch 98)
+2025-12-19 15:27:15,268 - INFO - 
+[491/649] Processing Professor Prof. V. Solo
+2025-12-19 15:27:15,288 - INFO -   ✓ 356 chunks created
+2025-12-19 15:27:15,288 - INFO - 
+[492/649] Processing Mr Wei Song
+2025-12-19 15:27:15,289 - INFO -   ✓ 26 chunks created
+2025-12-19 15:27:15,289 - INFO - 
+[493/649] Processing Dr Ning Song
+2025-12-19 15:27:15,299 - INFO -   ✓ 210 chunks created
+2025-12-19 15:27:15,299 - INFO - 
+[494/649] Processing Associate Professor Yang Song
+2025-12-19 15:27:15,334 - INFO -   ✓ 664 chunks created
+2025-12-19 15:27:15,334 - INFO - 
+[495/649] Processing Professor Chongmin Song
+2025-12-19 15:27:15,372 - INFO -   ✓ 660 chunks created
+2025-12-19 15:27:17,250 - INFO -   💾 Progress saved (batch 99)
+2025-12-19 15:27:17,250 - INFO - 
+[496/649] Processing Professor Arcot Sowmya
+2025-12-19 15:27:17,290 - INFO -   ✓ 651 chunks created
+2025-12-19 15:27:17,290 - INFO - 
+[497/649] Processing Associate Professor Patrick Spicer
+2025-12-19 15:27:17,300 - INFO -   ✓ 231 chunks created
+2025-12-19 15:27:17,300 - INFO - 
+[498/649] Processing Associate Professor Kristen Splinter
+2025-12-19 15:27:17,315 - INFO -   ✓ 376 chunks created
+2025-12-19 15:27:17,315 - INFO - 
+[499/649] Processing Dr Annette Spooner
+2025-12-19 15:27:17,317 - INFO -   ✓ 22 chunks created
+2025-12-19 15:27:17,317 - INFO - 
+[500/649] Processing Professor Alistair Sproul
+2025-12-19 15:27:17,334 - INFO -   ✓ 265 chunks created
+2025-12-19 15:27:19,207 - INFO -   💾 Progress saved (batch 100)
+2025-12-19 15:27:19,207 - INFO - 
+[501/649] Processing Dr Jennifer Stansby
+2025-12-19 15:27:19,209 - INFO -   ✓ 50 chunks created
+2025-12-19 15:27:19,209 - INFO - 
+[502/649] Processing Miss Holly Stemp
+2025-12-19 15:27:19,209 - INFO -   ✓ 14 chunks created
+2025-12-19 15:27:19,209 - INFO - 
+[503/649] Processing Ms Haley Stone
+2025-12-19 15:27:25,366 - INFO -   ✓ 80 chunks created
+2025-12-19 15:27:25,367 - INFO - 
+[504/649] Processing Dr Naomi Stringer
+2025-12-19 15:27:25,374 - INFO -   ✓ 28 chunks created
+2025-12-19 15:27:25,374 - INFO - 
+[505/649] Processing Professor Richard Stuetz
+2025-12-19 15:27:25,433 - INFO -   ✓ 621 chunks created
+2025-12-19 15:27:27,303 - INFO -   💾 Progress saved (batch 101)
+2025-12-19 15:27:27,303 - INFO - 
+[506/649] Processing Mr Rocky Su
+2025-12-19 15:27:27,303 - INFO - 
+[507/649] Processing Dr Adnan Sufian
+2025-12-19 15:27:27,306 - INFO -   ✓ 76 chunks created
+2025-12-19 15:27:27,306 - INFO - 
+[508/649] Processing Associate Professor Yulei Sui
+2025-12-19 15:27:27,319 - INFO -   ✓ 261 chunks created
+2025-12-19 15:27:27,319 - INFO - 
+[509/649] Processing Dr Basem Suleiman
+2025-12-19 15:27:27,326 - INFO -   ✓ 153 chunks created
+2025-12-19 15:27:27,326 - INFO - 
+[510/649] Processing Dr Kaiwen Sun
+2025-12-19 15:27:27,341 - INFO -   ✓ 418 chunks created
+2025-12-19 15:27:29,219 - INFO -   💾 Progress saved (batch 102)
+2025-12-19 15:27:29,219 - INFO - 
+[511/649] Processing Dr Yingying Sun
+2025-12-19 15:27:29,220 - INFO -   ✓ 24 chunks created
+2025-12-19 15:27:29,220 - INFO - 
+[512/649] Processing Professor Changming Sun
+2025-12-19 15:27:29,239 - INFO -   ✓ 500 chunks created
+2025-12-19 15:27:29,239 - INFO - 
+[513/649] Processing Miss Christine Sun
+2025-12-19 15:27:29,240 - INFO -   ✓ 23 chunks created
+2025-12-19 15:27:29,240 - INFO - 
+[514/649] Processing Dr Mahesh Suryawanshi
+2025-12-19 15:27:29,251 - INFO -   ✓ 186 chunks created
+2025-12-19 15:27:29,251 - INFO - 
+[515/649] Processing Dr Maliheh Tabasi
+2025-12-19 15:27:29,252 - INFO -   ✓ 10 chunks created
+2025-12-19 15:27:31,144 - INFO -   💾 Progress saved (batch 103)
+2025-12-19 15:27:31,144 - INFO - 
+[516/649] Processing Dr Benjamin Tag
+2025-12-19 15:27:31,156 - INFO -   ✓ 191 chunks created
+2025-12-19 15:27:31,157 - INFO - 
+[517/649] Processing Dr Siddulu Naidu TALAPANENI
+2025-12-19 15:27:31,164 - INFO -   ✓ 171 chunks created
+2025-12-19 15:27:31,164 - INFO - 
+[518/649] Processing Dr Bojan Tamburic
+2025-12-19 15:27:31,168 - INFO -   ✓ 97 chunks created
+2025-12-19 15:27:31,168 - INFO - 
+[519/649] Processing Ms Yue Tan
+2025-12-19 15:27:31,168 - INFO - 
+[520/649] Processing Dr Julie Tang
+2025-12-19 15:27:31,170 - INFO -   ✓ 31 chunks created
+2025-12-19 15:27:33,053 - INFO -   💾 Progress saved (batch 104)
+2025-12-19 15:27:33,053 - INFO - 
+[521/649] Processing Mr Xinxin Tang
+2025-12-19 15:27:33,482 - INFO -   ✓ 19 chunks created
+2025-12-19 15:27:33,483 - INFO - 
+[522/649] Processing Associate Professor Shiyang Tang
+2025-12-19 15:27:33,483 - INFO - 
+[523/649] Processing Dr Tuomo Tanttu
+2025-12-19 15:27:37,835 - INFO -   ✓ 195 chunks created
+2025-12-19 15:27:37,836 - INFO - 
+[524/649] Processing Professor David Taubman
+2025-12-19 15:27:37,885 - INFO -   ✓ 377 chunks created
+2025-12-19 15:27:37,885 - INFO - 
+[525/649] Processing Associate Professor Murad Tayebjee
+2025-12-19 15:27:37,895 - INFO -   ✓ 207 chunks created
+2025-12-19 15:27:39,797 - INFO -   💾 Progress saved (batch 105)
+2025-12-19 15:27:39,797 - INFO - 
+[526/649] Processing Professor Robert Taylor
+2025-12-19 15:27:39,839 - INFO -   ✓ 862 chunks created
+2025-12-19 15:27:39,839 - INFO - 
+[527/649] Processing Dr Jerrin Thadathil Varghese
+2025-12-19 15:27:39,842 - INFO -   ✓ 58 chunks created
+2025-12-19 15:27:39,842 - INFO - 
+[528/649] Processing Dr Sirojan Tharmakulasingam
+2025-12-19 15:27:39,844 - INFO -   ✓ 43 chunks created
+2025-12-19 15:27:39,844 - INFO - 
+[529/649] Processing Professor Michael Thielscher
+2025-12-19 15:27:39,859 - INFO -   ✓ 298 chunks created
+2025-12-19 15:27:39,859 - INFO - 
+[530/649] Processing Doctor Steven Thompson
+2025-12-19 15:27:39,861 - INFO -   ✓ 30 chunks created
+2025-12-19 15:27:41,739 - INFO -   💾 Progress saved (batch 106)
+2025-12-19 15:27:41,739 - INFO - 
+[531/649] Processing Associate Professor Victoria Timchenko
+2025-12-19 15:27:41,767 - INFO -   ✓ 455 chunks created
+2025-12-19 15:27:41,767 - INFO - 
+[532/649] Processing Emeritus Professor Francis Tin Loi
+2025-12-19 15:27:41,790 - INFO -   ✓ 368 chunks created
+2025-12-19 15:27:41,790 - INFO - 
+[533/649] Processing Dr Rohit Tiwari
+2025-12-19 15:27:41,791 - INFO -   ✓ 25 chunks created
+2025-12-19 15:27:41,792 - INFO - 
+[534/649] Processing Dr Han Tng
+2025-12-19 15:27:41,794 - INFO -   ✓ 44 chunks created
+2025-12-19 15:27:41,794 - INFO - 
+[535/649] Processing Dr Inma Tomeo-Reyes
+2025-12-19 15:27:41,797 - INFO -   ✓ 51 chunks created
+2025-12-19 15:27:43,670 - INFO -   💾 Progress saved (batch 107)
+2025-12-19 15:27:43,670 - INFO - 
+[536/649] Processing Ms Dana Tothova
+2025-12-19 15:27:43,670 - INFO -   ✓ 18 chunks created
+2025-12-19 15:27:43,670 - INFO - 
+[537/649] Processing Emeritus Professor John Trinder
+2025-12-19 15:27:43,688 - INFO -   ✓ 342 chunks created
+2025-12-19 15:27:43,688 - INFO - 
+[538/649] Processing Dr Francisco Trujillo
+2025-12-19 15:27:43,698 - INFO -   ✓ 177 chunks created
+2025-12-19 15:27:43,698 - INFO - 
+[539/649] Processing Professor Thorsten Trupke
+2025-12-19 15:27:43,728 - INFO -   ✓ 514 chunks created
+2025-12-19 15:27:43,729 - INFO - 
+[540/649] Processing Dr David Tsai
+2025-12-19 15:27:43,737 - INFO -   ✓ 120 chunks created
+2025-12-19 15:27:45,600 - INFO -   💾 Progress saved (batch 108)
+2025-12-19 15:27:45,600 - INFO - 
+[541/649] Processing Dr Ernest Tse
+2025-12-19 15:27:45,600 - INFO -   ✓ 6 chunks created
+2025-12-19 15:27:45,600 - INFO - 
+[542/649] Processing Mr Toby Tucker
+2025-12-19 15:27:45,602 - INFO -   ✓ 22 chunks created
+2025-12-19 15:27:45,602 - INFO - 
+[543/649] Processing Professor Ian Turner
+2025-12-19 15:27:45,629 - INFO -   ✓ 486 chunks created
+2025-12-19 15:27:45,629 - INFO - 
+[544/649] Processing Associate Professor Ashraf Uddin
+2025-12-19 15:27:45,655 - INFO -   ✓ 547 chunks created
+2025-12-19 15:27:45,655 - INFO - 
+[545/649] Processing Scientia Professor Brian Uy
+2025-12-19 15:27:45,702 - INFO -   ✓ 777 chunks created
+2025-12-19 15:27:47,559 - INFO -   💾 Progress saved (batch 109)
+2025-12-19 15:27:47,559 - INFO - 
+[546/649] Processing Dr Mohammad Vahab
+2025-12-19 15:27:47,564 - INFO -   ✓ 99 chunks created
+2025-12-19 15:27:47,564 - INFO - 
+[547/649] Processing Professor Hamid Vali Pour Goudarzi
+2025-12-19 15:27:47,580 - INFO -   ✓ 330 chunks created
+2025-12-19 15:27:47,580 - INFO - 
+[548/649] Processing Professor Ron Van der Meyden
+2025-12-19 15:27:47,591 - INFO -   ✓ 244 chunks created
+2025-12-19 15:27:47,591 - INFO - 
+[549/649] Processing Dr Michelle Vaqueiro Contreras
+2025-12-19 15:27:47,594 - INFO -   ✓ 59 chunks created
+2025-12-19 15:27:47,594 - INFO - 
+[550/649] Processing Dr Sasha Vassar
+2025-12-19 15:27:47,595 - INFO -   ✓ 20 chunks created
+2025-12-19 15:27:49,475 - INFO -   💾 Progress saved (batch 110)
+2025-12-19 15:27:49,475 - INFO - 
+[551/649] Processing Dr Bruno Vicari Stefani
+2025-12-19 15:27:49,477 - INFO -   ✓ 37 chunks created
+2025-12-19 15:27:49,477 - INFO - 
+[552/649] Processing Dr Javier Videla Mario
+2025-12-19 15:27:52,332 - INFO -   ✓ 26 chunks created
+2025-12-19 15:27:52,332 - INFO - 
+[553/649] Processing Professor Arianna Vignati
+2025-12-19 15:27:56,247 - INFO -   ✓ 22 chunks created
+2025-12-19 15:27:56,248 - INFO - 
+[554/649] Processing Dr Elisabeth Vogel
+2025-12-19 15:27:56,255 - INFO -   ✓ 55 chunks created
+2025-12-19 15:27:56,255 - INFO - 
+[555/649] Processing Dr Zoran Vulovic
+2025-12-19 15:27:56,259 - INFO -   ✓ 16 chunks created
+2025-12-19 15:27:58,146 - INFO -   💾 Progress saved (batch 111)
+2025-12-19 15:27:58,146 - INFO - 
+[556/649] Processing Scientia Professor David Waite
+2025-12-19 15:27:58,228 - INFO -   ✓ 1340 chunks created
+2025-12-19 15:27:58,228 - INFO - 
+[557/649] Processing Scientia Professor Toby Walsh
+2025-12-19 15:27:58,266 - INFO -   ✓ 852 chunks created
+2025-12-19 15:27:58,266 - INFO - 
+[558/649] Processing Mr Ao Wang
+2025-12-19 15:27:58,267 - INFO -   ✓ 50 chunks created
+2025-12-19 15:27:58,268 - INFO - 
+[559/649] Processing Dr Li Wang
+2025-12-19 15:27:58,278 - INFO -   ✓ 214 chunks created
+2025-12-19 15:27:58,278 - INFO - 
+[560/649] Processing Dr Wei Wang
+2025-12-19 15:27:58,300 - INFO -   ✓ 487 chunks created
+2025-12-19 15:28:00,170 - INFO -   💾 Progress saved (batch 112)
+2025-12-19 15:28:00,170 - INFO - 
+[561/649] Processing Emeritus Professor Jun Wang
+2025-12-19 15:28:00,210 - INFO -   ✓ 833 chunks created
+2025-12-19 15:28:00,210 - INFO - 
+[562/649] Processing Dr Sisi Wang
+2025-12-19 15:28:00,214 - INFO -   ✓ 81 chunks created
+2025-12-19 15:28:00,214 - INFO - 
+[563/649] Processing Dr Yong Wang
+2025-12-19 15:28:00,233 - INFO -   ✓ 429 chunks created
+2025-12-19 15:28:00,233 - INFO - 
+[564/649] Processing Scientia Professor Chun Wang
+2025-12-19 15:28:00,368 - INFO -   ✓ 1108 chunks created
+2025-12-19 15:28:00,368 - INFO - 
+[565/649] Processing Dr Qihan Wang
+2025-12-19 15:28:00,371 - INFO -   ✓ 70 chunks created
+2025-12-19 15:28:02,238 - INFO -   💾 Progress saved (batch 113)
+2025-12-19 15:28:02,238 - INFO - 
+[566/649] Processing Dr Cheng Wang
+2025-12-19 15:28:02,248 - INFO -   ✓ 182 chunks created
+2025-12-19 15:28:02,248 - INFO - 
+[567/649] Processing Dr Yanzhi Wang
+2025-12-19 15:28:02,249 - INFO -   ✓ 22 chunks created
+2025-12-19 15:28:02,249 - INFO - 
+[568/649] Processing Dr Ziqing Wang
+2025-12-19 15:28:02,251 - INFO -   ✓ 38 chunks created
+2025-12-19 15:28:02,251 - INFO - 
+[569/649] Processing Dr Dadong Wang
+2025-12-19 15:28:02,270 - INFO -   ✓ 363 chunks created
+2025-12-19 15:28:02,270 - INFO - 
+[570/649] Processing Associate Professor Jinling Wang
+2025-12-19 15:28:02,301 - INFO -   ✓ 638 chunks created
+2025-12-19 15:28:04,197 - INFO -   💾 Progress saved (batch 114)
+2025-12-19 15:28:04,197 - INFO - 
+[571/649] Processing Dr Xiaoyang Wang
+2025-12-19 15:28:04,209 - INFO -   ✓ 285 chunks created
+2025-12-19 15:28:04,209 - INFO - 
+[572/649] Processing Professor Da-Wei Wang
+2025-12-19 15:28:04,246 - INFO -   ✓ 923 chunks created
+2025-12-19 15:28:04,246 - INFO - 
+[573/649] Processing Dr Ying Da Wang
+2025-12-19 15:28:04,250 - INFO -   ✓ 111 chunks created
+2025-12-19 15:28:04,250 - INFO - 
+[574/649] Processing Dr Dong Wen
+2025-12-19 15:28:04,256 - INFO -   ✓ 153 chunks created
+2025-12-19 15:28:04,256 - INFO - 
+[575/649] Processing Mr Mark Whelan
+2025-12-19 15:28:04,257 - INFO -   ✓ 10 chunks created
+2025-12-19 15:28:06,126 - INFO -   💾 Progress saved (batch 115)
+2025-12-19 15:28:06,126 - INFO - 
+[576/649] Processing Emeritus Professor John Whitelock
+2025-12-19 15:28:06,145 - INFO -   ✓ 419 chunks created
+2025-12-19 15:28:06,145 - INFO - 
+[577/649] Processing Dr Peter Wich
+2025-12-19 15:28:06,155 - INFO -   ✓ 252 chunks created
+2025-12-19 15:28:06,155 - INFO - 
+[578/649] Processing Dr Fitri Widhiastuti
+2025-12-19 15:28:06,155 - INFO -   ✓ 14 chunks created
+2025-12-19 15:28:06,155 - INFO - 
+[579/649] Processing Professor Tommy Wiedmann
+2025-12-19 15:28:06,178 - INFO -   ✓ 470 chunks created
+2025-12-19 15:28:06,178 - INFO - 
+[580/649] Processing Mr Benjamin Willis
+2025-12-19 15:28:08,047 - INFO -   💾 Progress saved (batch 116)
+2025-12-19 15:28:08,047 - INFO - 
+[581/649] Processing Associate Professor Wayne Wobcke
+2025-12-19 15:28:08,055 - INFO -   ✓ 132 chunks created
+2025-12-19 15:28:08,055 - INFO - 
+[582/649] Processing Associate Professor Aron Woldeghiorgis
+2025-12-19 15:28:08,063 - INFO -   ✓ 171 chunks created
+2025-12-19 15:28:08,063 - INFO - 
+[583/649] Processing Dr Edgar Wong
+2025-12-19 15:28:08,072 - INFO -   ✓ 221 chunks created
+2025-12-19 15:28:08,072 - INFO - 
+[584/649] Processing Dr Victor Wong
+2025-12-19 15:28:08,073 - INFO -   ✓ 26 chunks created
+2025-12-19 15:28:08,073 - INFO - 
+[585/649] Processing Dr Malcolm Wong
+2025-12-19 15:28:08,074 - INFO -   ✓ 9 chunks created
+2025-12-19 15:28:09,976 - INFO -   💾 Progress saved (batch 117)
+2025-12-19 15:28:09,976 - INFO - 
+[586/649] Processing Associate Professor Raymond Wong
+2025-12-19 15:28:10,006 - INFO -   ✓ 505 chunks created
+2025-12-19 15:28:10,006 - INFO - 
+[587/649] Processing Dr Choon Jie Wong
+2025-12-19 15:28:10,009 - INFO -   ✓ 45 chunks created
+2025-12-19 15:28:10,009 - INFO - 
+[588/649] Processing Dr Brendan Wright
+2025-12-19 15:28:10,019 - INFO -   ✓ 139 chunks created
+2025-12-19 15:28:10,019 - INFO - 
+[589/649] Processing Dr Leo Wu
+2025-12-19 15:28:10,028 - INFO -   ✓ 194 chunks created
+2025-12-19 15:28:10,028 - INFO - 
+[590/649] Processing Mr Xinyuan Wu
+2025-12-19 15:28:10,031 - INFO -   ✓ 62 chunks created
+2025-12-19 15:28:11,918 - INFO -   💾 Progress saved (batch 118)
+2025-12-19 15:28:11,919 - INFO - 
+[591/649] Processing Associate Professor Zhenhai Xia
+2025-12-19 15:29:26,226 - INFO -   ✓ 546 chunks created
+2025-12-19 15:29:26,226 - INFO - 
+[592/649] Processing Dr Shane Xie
+2025-12-19 15:29:26,239 - INFO -   ✓ 94 chunks created
+2025-12-19 15:29:26,239 - INFO - 
+[593/649] Processing Dr Zhouzun Xie
+2025-12-19 15:29:26,244 - INFO -   ✓ 55 chunks created
+2025-12-19 15:29:26,244 - INFO - 
+[594/649] Processing Dr Chengpei Xu
+2025-12-19 15:29:26,248 - INFO -   ✓ 47 chunks created
+2025-12-19 15:29:26,248 - INFO - 
+[595/649] Processing Associate Professor Jiangtao Xu
+2025-12-19 15:29:26,274 - INFO -   ✓ 409 chunks created
+2025-12-19 15:29:28,153 - INFO -   💾 Progress saved (batch 119)
+2025-12-19 15:29:28,153 - INFO - 
+[596/649] Processing Dr Hao Xue
+2025-12-19 15:29:28,161 - INFO -   ✓ 165 chunks created
+2025-12-19 15:29:28,161 - INFO - 
+[597/649] Processing Scientia Professor Jingling Xue
+2025-12-19 15:29:28,190 - INFO -   ✓ 527 chunks created
+2025-12-19 15:29:28,190 - INFO - 
+[598/649] Processing Dr Yang Yang
+2025-12-19 15:29:28,195 - INFO -   ✓ 112 chunks created
+2025-12-19 15:29:28,195 - INFO - 
+[599/649] Processing Associate Professor Henry Yang
+2025-12-19 15:29:28,204 - INFO -   ✓ 329 chunks created
+2025-12-19 15:29:28,204 - INFO - 
+[600/649] Processing Dr Zhengyi Yang
+2025-12-19 15:29:36,182 - INFO -   ✓ 167 chunks created
+2025-12-19 15:29:38,089 - INFO -   💾 Progress saved (batch 120)
+2025-12-19 15:29:38,089 - INFO - 
+[601/649] Processing Professor Lina Yao
+2025-12-19 15:29:38,135 - INFO -   ✓ 949 chunks created
+2025-12-19 15:29:38,135 - INFO - 
+[602/649] Processing Dr Yendrew Yauwenas
+2025-12-19 15:29:38,137 - INFO -   ✓ 48 chunks created
+2025-12-19 15:29:38,137 - INFO - 
+[603/649] Processing Dr Qianyu Ye
+2025-12-19 15:29:38,139 - INFO -   ✓ 36 chunks created
+2025-12-19 15:29:38,139 - INFO - 
+[604/649] Processing Professor Guan Yeoh
+2025-12-19 15:29:38,190 - INFO -   ✓ 1113 chunks created
+2025-12-19 15:29:38,190 - INFO - 
+[605/649] Processing Dr Jonathan Yeow
+2025-12-19 15:29:38,196 - INFO -   ✓ 145 chunks created
+2025-12-19 15:29:40,089 - INFO -   💾 Progress saved (batch 121)
+2025-12-19 15:29:40,089 - INFO - 
+[606/649] Processing Dr Steve Yianni
+2025-12-19 15:29:40,090 - INFO -   ✓ 7 chunks created
+2025-12-19 15:29:40,090 - INFO - 
+[607/649] Processing Dr Baran Yildiz
+2025-12-19 15:29:40,096 - INFO -   ✓ 62 chunks created
+2025-12-19 15:29:40,096 - INFO - 
+[608/649] Processing Dr Hang Yin
+2025-12-19 15:29:40,097 - INFO -   ✓ 26 chunks created
+2025-12-19 15:29:40,097 - INFO - 
+[609/649] Processing Dr Sunhyung Yoo
+2025-12-19 15:29:40,098 - INFO -   ✓ 26 chunks created
+2025-12-19 15:29:40,098 - INFO - 
+[610/649] Processing Dr Yang Yu
+2025-12-19 15:29:40,124 - INFO -   ✓ 516 chunks created
+2025-12-19 15:29:42,021 - INFO -   💾 Progress saved (batch 122)
+2025-12-19 15:29:42,021 - INFO - 
+[611/649] Processing Mr Steve Yu
+2025-12-19 15:29:42,021 - INFO - 
+[612/649] Processing Mr Michael Yu
+2025-12-19 15:29:42,021 - INFO - 
+[613/649] Processing Dr Xiaobing Yu
+2025-12-19 15:29:42,024 - INFO -   ✓ 55 chunks created
+2025-12-19 15:29:42,024 - INFO - 
+[614/649] Processing Professor Jinhong Yuan
+2025-12-19 15:29:42,096 - INFO -   ✓ 1649 chunks created
+2025-12-19 15:29:42,096 - INFO - 
+[615/649] Processing Dr Yiyu Zeng
+2025-12-19 15:29:42,098 - INFO -   ✓ 55 chunks created
+2025-12-19 15:29:43,963 - INFO -   💾 Progress saved (batch 123)
+2025-12-19 15:29:43,963 - INFO - 
+[616/649] Processing Professor Per Zetterlund
+2025-12-19 15:29:43,995 - INFO -   ✓ 624 chunks created
+2025-12-19 15:29:43,995 - INFO - 
+[617/649] Processing Dr Qingfeng Zhai
+2025-12-19 15:29:44,001 - INFO -   ✓ 137 chunks created
+2025-12-19 15:29:44,001 - INFO - 
+[618/649] Processing Associate Professor Jin Zhang
+2025-12-19 15:29:44,017 - INFO -   ✓ 355 chunks created
+2025-12-19 15:29:44,017 - INFO - 
+[619/649] Processing Professor Wei Zhang
+2025-12-19 15:29:44,057 - INFO -   ✓ 1030 chunks created
+2025-12-19 15:29:44,057 - INFO - 
+[620/649] Processing Mr Ding Zhang
+2025-12-19 15:29:44,058 - INFO -   ✓ 27 chunks created
+2025-12-19 15:29:45,933 - INFO -   💾 Progress saved (batch 124)
+2025-12-19 15:29:45,933 - INFO - 
+[621/649] Processing Dr Meng Zhang
+2025-12-19 15:29:45,950 - INFO -   ✓ 394 chunks created
+2025-12-19 15:29:45,950 - INFO - 
+[622/649] Processing Associate Professor Haibo Zhang
+2025-12-19 15:29:45,965 - INFO -   ✓ 248 chunks created
+2025-12-19 15:29:45,965 - INFO - 
+[623/649] Processing Dr Daming Zhang
+2025-12-19 15:29:45,985 - INFO -   ✓ 334 chunks created
+2025-12-19 15:29:45,985 - INFO - 
+[624/649] Processing Dr Yuchen Zhang
+2025-12-19 15:29:45,989 - INFO -   ✓ 104 chunks created
+2025-12-19 15:29:45,989 - INFO - 
+[625/649] Processing Dr Boming Zhang
+2025-12-19 15:29:46,613 - INFO -   ✓ 17 chunks created
+2025-12-19 15:29:48,553 - INFO -   💾 Progress saved (batch 125)
+2025-12-19 15:29:48,553 - INFO - 
+[626/649] Processing Dr Mingzi Zhang
+2025-12-19 15:29:48,560 - INFO -   ✓ 180 chunks created
+2025-12-19 15:29:48,560 - INFO - 
+[627/649] Processing Professor Wenjie Zhang
+2025-12-19 15:29:48,592 - INFO -   ✓ 867 chunks created
+2025-12-19 15:29:48,592 - INFO - 
+[628/649] Processing Dr Rachel Zhang
+2025-12-19 15:29:48,603 - INFO -   ✓ 199 chunks created
+2025-12-19 15:29:48,603 - INFO - 
+[629/649] Processing Dr Kefeng Zhang
+2025-12-19 15:29:48,613 - INFO -   ✓ 208 chunks created
+2025-12-19 15:29:48,613 - INFO - 
+[630/649] Processing Scientia Professor Liangchi Zhang
+2025-12-19 15:29:48,775 - INFO -   ✓ 1524 chunks created
+2025-12-19 15:29:50,655 - INFO -   💾 Progress saved (batch 126)
+2025-12-19 15:29:50,655 - INFO - 
+[631/649] Processing Associate Professor Chengguo Zhang
+2025-12-19 15:29:50,671 - INFO -   ✓ 333 chunks created
+2025-12-19 15:29:50,671 - INFO - 
+[632/649] Processing Associate Professor Jian Zhao
+2025-12-19 15:29:50,684 - INFO -   ✓ 241 chunks created
+2025-12-19 15:29:50,684 - INFO - 
+[633/649] Processing Dr Jing (Camille) Zhao
+2025-12-19 15:29:50,688 - INFO -   ✓ 60 chunks created
+2025-12-19 15:29:50,688 - INFO - 
+[634/649] Processing Dr Liya Zhao
+2025-12-19 15:29:50,695 - INFO -   ✓ 142 chunks created
+2025-12-19 15:29:50,695 - INFO - 
+[635/649] Processing Associate Professor Min Zheng
+2025-12-19 15:29:50,713 - INFO -   ✓ 395 chunks created
+2025-12-19 15:29:52,615 - INFO -   💾 Progress saved (batch 127)
+2025-12-19 15:29:52,615 - INFO - 
+[636/649] Processing Dr Zhaozhi Zheng
+2025-12-19 15:29:52,616 - INFO -   ✓ 13 chunks created
+2025-12-19 15:29:52,616 - INFO - 
+[637/649] Processing Dr Shujie Zhou
+2025-12-19 15:29:52,621 - INFO -   ✓ 144 chunks created
+2025-12-19 15:29:52,621 - INFO - 
+[638/649] Processing Dr Yincai Zhou
+2025-12-19 15:29:52,623 - INFO -   ✓ 21 chunks created
+2025-12-19 15:29:52,623 - INFO - 
+[639/649] Processing Dr Zhuangyi Zhou
+2025-12-19 15:29:52,623 - INFO - 
+[640/649] Processing Dr Yan Zhu
+2025-12-19 15:29:52,632 - INFO -   ✓ 149 chunks created
+2025-12-19 15:29:54,561 - INFO -   💾 Progress saved (batch 128)
+2025-12-19 15:29:54,561 - INFO - 
+[641/649] Processing Miss Charlotte Zhu
+2025-12-19 15:29:54,561 - INFO - 
+[642/649] Processing Mr Yuting Zhuo
+2025-12-19 15:29:54,565 - INFO -   ✓ 81 chunks created
+2025-12-19 15:29:54,565 - INFO - 
+[643/649] Processing Yun Ye
+2025-12-19 15:29:54,565 - INFO - 
+[644/649] Processing Kai Zhao
+2025-12-19 15:29:54,565 - INFO - 
+[645/649] Processing Lucian Hiss
+2025-12-19 15:29:56,459 - INFO -   💾 Progress saved (batch 129)
+2025-12-19 15:29:56,459 - INFO - 
+[646/649] Processing Jingwei Hou
+2025-12-19 15:29:56,459 - INFO - 
+[647/649] Processing Francois Flocard
+2025-12-19 15:29:56,459 - INFO - 
+[648/649] Processing Shamim Aryampa
+2025-12-19 15:29:56,459 - INFO - 
+[649/649] Processing Ademir Abdala Prata Junior
+2025-12-19 15:30:00,803 - INFO - 
+================================================================================
+2025-12-19 15:30:00,804 - INFO - STATISTICS
+2025-12-19 15:30:00,804 - INFO - ================================================================================
+2025-12-19 15:30:00,804 - INFO - 
+Total publications: 82455
+2025-12-19 15:30:00,804 - INFO - Publications with DOI: 61357 (74.4%)
+2025-12-19 15:30:00,804 - INFO - Publications without DOI: 21098 (25.6%)
+2025-12-19 15:30:00,804 - INFO - Publications with abstract: 28806 (34.9%)
+2025-12-19 15:30:00,804 - INFO - 
+Abstract sources:
+2025-12-19 15:30:00,804 - INFO -   openalex: 371
+2025-12-19 15:30:00,804 - INFO -   semantic_scholar: 121
+2025-12-19 15:30:00,804 - INFO -   crossref: 9
+2025-12-19 15:30:00,804 - INFO -   pubmed: 4
+2025-12-19 15:30:00,804 - INFO - 
+Total chunks created: 158147
+2025-12-19 15:30:00,804 - INFO - Total errors: 67
+2025-12-19 15:30:00,839 - INFO - 
+✓ RAG chunks 已保存到: /Users/z5241339/Documents/unsw_ai_rag/data/processed/rag_chunks.json
+2025-12-19 15:30:00,839 - INFO - ================================================================================

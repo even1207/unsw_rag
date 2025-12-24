@@ -1,0 +1,131 @@
+[
+  {
+    "chunk_id": "person_s.abdoli@unsw.edu.au",
+    "chunk_type": "person_profile",
+    "content": "Dr Shiva Abdoli is a Senior Lecturer in Mechanical and Manufacturing Engineering, Engineering at UNSW Sydney.\n\nBiography: Doctor Shiva Abdoli is a researcher and lecturer in the School of Mechanical and Manufacturing Engineering, UNSW. Doctor Shiva Abdoli was educated in several International Universities. She received her second Master in Production Engineering and Management in 2014 from Royal Institute of Technology, KTH University, Sweden and her Ph.D in 2019 from UNSW. Subsequently, she was working as a post-doctoral fellow in UNSW before starting as an Associate Lecturer of Mechanical and Manufacturing Engineering in 2020. She also has industry experience as a Production line manager and Project coordinator.\n\nResearch Areas: Climate adaptation & built environment Equity, security & prosperity",
+    "metadata": {
+      "person_name": "Dr Shiva Abdoli",
+      "role": "Senior Lecturer",
+      "school": "Mechanical and Manufacturing Engineering",
+      "faculty": "Engineering",
+      "email": "s.abdoli@unsw.edu.au",
+      "profile_url": "https://www.unsw.edu.au/staff/shiva-abdoli"
+    }
+  },
+  {
+    "chunk_id": "pub_10.1007/978-3-032-03546-2_14",
+    "chunk_type": "publication",
+    "content": "Title: Towards End-of-Life Management of Photovoltaic Panels with Life Extension Approaches: Reuse, Recondition and Recycle\nAuthors: Bahador Bahramimianrood, Rong Deng\nPublished in: IFIP advances in information and communication technology (2025)\n\nKeywords: Reuse, Life extension, Extension (predicate logic), Photovoltaic system, Engineering, Architectural engineering",
+    "metadata": {
+      "person_name": "Dr Shiva Abdoli",
+      "person_email": "s.abdoli@unsw.edu.au",
+      "person_profile_url": "https://www.unsw.edu.au/staff/shiva-abdoli",
+      "person_school": "Mechanical and Manufacturing Engineering",
+      "pub_title": "Towards End-of-Life Management of Photovoltaic Panels with Life Extension Approaches: Reuse, Recondition and Recycle",
+      "pub_year": 2025,
+      "pub_type": "Book Chapters",
+      "pub_doi": "10.1007/978-3-032-03546-2_14",
+      "citations_count": 0,
+      "is_open_access": false,
+      "has_abstract": false
+    }
+  },
+  {
+    "chunk_id": "pub_10.1007/978-3-032-03550-9_15",
+    "chunk_type": "publication",
+    "content": "Title: Investigating Cloud-Edge-Fog Computing Configuration for Robotics Application in SMEs in Industry 4.0\nAuthors: Bhuvan Tulani, Shiva Abdoli\nPublished in: IFIP advances in information and communication technology (2025)\n\nKeywords: Cloud computing, Robotics, Enhanced Data Rates for GSM Evolution, Artificial intelligence, Industry 4.0, Edge computing, Fog computing, Computer science, Manufacturing engineering",
+    "metadata": {
+      "person_name": "Dr Shiva Abdoli",
+      "person_email": "s.abdoli@unsw.edu.au",
+      "person_profile_url": "https://www.unsw.edu.au/staff/shiva-abdoli",
+      "person_school": "Mechanical and Manufacturing Engineering",
+      "pub_title": "Investigating Cloud-Edge-Fog Computing Configuration for Robotics Application in SMEs in Industry 4.0",
+      "pub_year": 2025,
+      "pub_type": "Book Chapters",
+      "pub_doi": "10.1007/978-3-032-03550-9_15",
+      "citations_count": 0,
+      "is_open_access": false,
+      "has_abstract": false
+    }
+  },
+  {
+    "chunk_id": "pub_10.1007/978-3-032-03515-8_34",
+    "chunk_type": "publication",
+    "content": "Title: A Human Digital Twin Approach to Physical Hazard Management in the Manufacturing Environment: An Extensive Literature Review with a Conceptual Framework\nAuthors: Rojanat Vongchaisaree\nPublished in: IFIP advances in information and communication technology (2025)\n\nKeywords: Hazard, Conceptual framework, Computer science, Engineering, Knowledge management",
+    "metadata": {
+      "person_name": "Dr Shiva Abdoli",
+      "person_email": "s.abdoli@unsw.edu.au",
+      "person_profile_url": "https://www.unsw.edu.au/staff/shiva-abdoli",
+      "person_school": "Mechanical and Manufacturing Engineering",
+      "pub_title": "A Human Digital Twin Approach to Physical Hazard Management in the Manufacturing Environment: An Extensive Literature Review with a Conceptual Framework",
+      "pub_year": 2025,
+      "pub_type": "Book Chapters",
+      "pub_doi": "10.1007/978-3-032-03515-8_34",
+      "citations_count": 0,
+      "is_open_access": false,
+      "has_abstract": false
+    }
+  },
+  {
+    "chunk_id": "person_z.abdullahvetter@unsw.edu.au",
+    "chunk_type": "person_profile",
+    "content": "Mr Zubair Abdullah-Vetter is a Postdoctoral Fellow in Photovoltaic and Renewable Energy Engineering, Engineering at UNSW Sydney.\n\nBiography: 2020 The BT Imaging photovoltaic thesis prize for the best performance in Photovoltaic Materials and Devices Winner of the Best Poster Award in Area 8 at the 49th IEEE Photovoltaic Specialists Conference, 2022. Winner of the ACAP Best Student Paper Award for PV Devices at the Asia-Pacific Solar Research Conference, 2024.\n\nResearch Areas: Climate adaptation & built environment Equity, security & prosperity",
+    "metadata": {
+      "person_name": "Mr Zubair Abdullah-Vetter",
+      "role": "Postdoctoral Fellow",
+      "school": "Photovoltaic and Renewable Energy Engineering",
+      "faculty": "Engineering",
+      "email": "z.abdullahvetter@unsw.edu.au",
+      "profile_url": "https://www.unsw.edu.au/staff/zubair-abdullah-vetter"
+    }
+  },
+  {
+    "chunk_id": "person_elias@unsw.edu.au",
+    "chunk_type": "person_profile",
+    "content": "Professor Elias Aboutanios is a Professor in Electrical Engineering and Telecommunications, Engineering at UNSW Sydney.\n\nBiography: Dr Elias Aboutanios is a Professor with the School of Electrical Engineering and Telecommunications. He received his BE in Electrical Engineering from UNSW in 1997 and his PhD from UTS in 2002. His PhD research was on the estimation of frequency for the frequency tracking for communications with a low earth orbit satellite. From 2003 to 2007 he was a postdoctoral fellow at the Institute for Digital Communications at the University of Edinburgh, where he conducted research on space-time adaptive processing for radar target detection. From 2007 to 2018 he was a senior lecturer at UNSW and associate professor from 2019 until 2022. His research interests include: Dr Aboutanios is currently conducting research in the areas of nuclear magnetic resonance spectroscopy , global navigation satellite systems (such as GPS), radar target detection , biologically inspired signal processing , power systems and smart grids , and theoretical signal processing . He is also active in the research of teaching methodologies and course design. In particular, Dr Aboutanios has developed a new course on electrical engineering design and has established the masters program in satellite systems engineering. He also has an active interest in satellite technology and in particular cubesats. He set up UNSW's involvement in the European QB50 project and led the UNSW-EC0 project that resulted in the launch of the satellite in 2017. Dr Aboutanios is a member of the Space Industry Association of Australia's Legislation Working Group. He has made multiple submissions to the Australian Government's review of the Space Activities Act. For more details and PhD opportunities please see my personal page .\n\nResearch Areas: Climate adaptation & built environment Equity, security & prosperity",
+    "metadata": {
+      "person_name": "Professor Elias Aboutanios",
+      "role": "Professor",
+      "school": "Electrical Engineering and Telecommunications",
+      "faculty": "Engineering",
+      "email": "elias@unsw.edu.au",
+      "profile_url": "https://www.unsw.edu.au/staff/elias-aboutanios"
+    }
+  },
+  {
+    "chunk_id": "pub_2695c7f7f94da4d375de028e98367747",
+    "chunk_type": "publication",
+    "content": "Title: MIMO Communication with Sparse Arrays",
+    "metadata": {
+      "person_name": "Professor Elias Aboutanios",
+      "person_email": "elias@unsw.edu.au",
+      "person_profile_url": "https://www.unsw.edu.au/staff/elias-aboutanios",
+      "person_school": "Electrical Engineering and Telecommunications",
+      "pub_title": "MIMO Communication with Sparse Arrays",
+      "pub_year": "2023",
+      "pub_type": "Book Chapters",
+      "pub_doi": null,
+      "citations_count": 0,
+      "is_open_access": false,
+      "has_abstract": false
+    }
+  },
+  {
+    "chunk_id": "pub_10.1007/978-94-024-2021-0_25",
+    "chunk_type": "publication",
+    "content": "Title: BalSAR: A Stratospheric Balloon-Borne SAR System\nAuthors: Marco Martorella, Elias Aboutanios\nPublished in: NATO science for peace and security series. B, Physics and biophysics (2020)\n\nKeywords: Remote sensing, Synthetic aperture radar, Homeland security, Border Security, Computer science, Aeronautics, Computer security, Systems engineering",
+    "metadata": {
+      "person_name": "Professor Elias Aboutanios",
+      "person_email": "elias@unsw.edu.au",
+      "person_profile_url": "https://www.unsw.edu.au/staff/elias-aboutanios",
+      "person_school": "Electrical Engineering and Telecommunications",
+      "pub_title": "BalSAR: A Stratospheric Balloon-Borne SAR System",
+      "pub_year": 2020,
+      "pub_type": "Book Chapters",
+      "pub_doi": "10.1007/978-94-024-2021-0_25",
+      "citations_count": 1,
+      "is_open_access": false,
+      "has_abstract": false
+    }
+  }
+]

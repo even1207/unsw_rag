@@ -1,0 +1,416 @@
+{
+  "query": "machine learning",
+  "total_results": 83,
+  "returned_results": 10,
+  "citations": [
+    {
+      "citation_id": 1,
+      "chunk_id": "pub_abstract_10.14778/3750601.3750702",
+      "chunk_type": "publication_abstract",
+      "relevance_scores": {
+        "bm25": 0.66447395,
+        "vector": 0.0,
+        "rrf": 0.03021353930031804,
+        "rerank": 6.969084739685059,
+        "final": 7.019084739685058
+      },
+      "content_preview": "Paper: Machine Learning for Graph Data Management and Query Processing\nAuthor: Professor Wenjie Zhang (Computer Science and Engineering)\nYear: 2025\n\nAbstract:\nMachine learning techniques have been proposed to optimize the performance of graph databases in recent years. Due to the NP-hardness of graph database tasks and the complexity of graph data, traditional exact solutions usually encounter efficiency issues, while the performance of approximation solutions can be affected by issues like samp...",
+      "content_full": "Paper: Machine Learning for Graph Data Management and Query Processing\nAuthor: Professor Wenjie Zhang (Computer Science and Engineering)\nYear: 2025\n\nAbstract:\nMachine learning techniques have been proposed to optimize the performance of graph databases in recent years. Due to the NP-hardness of graph database tasks and the complexity of graph data, traditional exact solutions usually encounter efficiency issues, while the performance of approximation solutions can be affected by issues like sampling failure and local optimality. Empowered by the inherent advantages of machine learning, the learning-based techniques show the generalization ability and better performance in many scenarios, including graph data management and graph query processing. Despite the efficiency and accuracy brought by machine learning techniques, machine learning for graph database models still face several critical challenges, including scalability and adaptability. In this tutorial, we first provide an in-depth survey of learning-based graph data management and query processing techniques published in recent database and data mining conferences to sketch the frontier of the research of Machine Learning for Graph Database. We also discuss the open challenges and provide future directions.\n\n[Source: OpenAlex]",
+      "citation": {
+        "type": "publication",
+        "title": "Machine Learning for Graph Data Management and Query Processing",
+        "year": 2025,
+        "doi": "10.14778/3750601.3750702",
+        "url": "https://doi.org/10.14778/3750601.3750702",
+        "venue": "Proceedings of the VLDB Endowment",
+        "citations_count": 0,
+        "is_open_access": false,
+        "abstract_source": "OpenAlex",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2025). Machine Learning for Graph Data Management and Query Processing. Proceedings of the VLDB Endowment. https://doi.org/10.14778/3750601.3750702",
+        "staff": {
+          "name": "Professor Wenjie Zhang",
+          "email": "wenjie.zhang@unsw.edu.au",
+          "school": "Computer Science and Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/wenjie-zhang"
+        }
+      }
+    },
+    {
+      "citation_id": 2,
+      "chunk_id": "pub_title_10.1016/j.jmsy.2022.10.001",
+      "chunk_type": "publication_title",
+      "relevance_scores": {
+        "bm25": 0.0,
+        "vector": 0.461501059621643,
+        "rrf": 0.011904761904761904,
+        "rerank": 6.0123138427734375,
+        "final": 6.095826279959252
+      },
+      "content_preview": "Title: Machine learning for engineering design toward smart customization: A systematic review\nAuthors: Xingzhi Wang, Ang Liu, Sami Kara\nPublished: Journal of Manufacturing Systems (2022)\nCitations: 51",
+      "content_full": "Title: Machine learning for engineering design toward smart customization: A systematic review\nAuthors: Xingzhi Wang, Ang Liu, Sami Kara\nPublished: Journal of Manufacturing Systems (2022)\nCitations: 51",
+      "citation": {
+        "type": "publication",
+        "title": "Machine learning for engineering design toward smart customization: A systematic review",
+        "year": 2022,
+        "doi": "10.1016/j.jmsy.2022.10.001",
+        "url": "https://doi.org/10.1016/j.jmsy.2022.10.001",
+        "venue": "Journal of Manufacturing Systems",
+        "citations_count": 51,
+        "is_open_access": false,
+        "abstract_source": "none",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2022). Machine learning for engineering design toward smart customization: A systematic review. Journal of Manufacturing Systems. https://doi.org/10.1016/j.jmsy.2022.10.001",
+        "staff": {
+          "name": "Professor Sami Kara",
+          "email": "s.kara@unsw.edu.au",
+          "school": "Mechanical and Manufacturing Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/sami-kara"
+        }
+      }
+    },
+    {
+      "citation_id": 3,
+      "chunk_id": "pub_keywords_10.1016/j.imu.2022.101121",
+      "chunk_type": "publication_keywords",
+      "relevance_scores": {
+        "bm25": 0.0,
+        "vector": 0.5075158646000263,
+        "rrf": 0.015625,
+        "rerank": 5.940282821655273,
+        "final": 6.050377200779614
+      },
+      "content_preview": "Paper: Use of automated machine learning for an outbreak risk prediction tool\nAuthor: Associate Professor Helen Paik\nKeywords: Machine learning, Artificial intelligence, Computer science, Automation, Process (computing)",
+      "content_full": "Paper: Use of automated machine learning for an outbreak risk prediction tool\nAuthor: Associate Professor Helen Paik\nKeywords: Machine learning, Artificial intelligence, Computer science, Automation, Process (computing)",
+      "citation": {
+        "type": "publication",
+        "title": "Use of automated machine learning for an outbreak risk prediction tool",
+        "year": 2022,
+        "doi": "10.1016/j.imu.2022.101121",
+        "url": "https://doi.org/10.1016/j.imu.2022.101121",
+        "venue": "Informatics in Medicine Unlocked",
+        "citations_count": 4,
+        "is_open_access": true,
+        "abstract_source": "OpenAlex",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2022). Use of automated machine learning for an outbreak risk prediction tool. Informatics in Medicine Unlocked. https://doi.org/10.1016/j.imu.2022.101121",
+        "staff": {
+          "name": "Associate Professor Helen Paik",
+          "email": "h.paik@unsw.edu.au",
+          "school": "Faculty Unit",
+          "profile_url": "https://www.unsw.edu.au/staff/helen-paik"
+        }
+      }
+    },
+    {
+      "citation_id": 4,
+      "chunk_id": "pub_abstract_10.1021/acscatal.9b02531",
+      "chunk_type": "publication_abstract",
+      "relevance_scores": {
+        "bm25": 1.1642427,
+        "vector": 0.0,
+        "rrf": 0.01639344262295082,
+        "rerank": 5.934749603271484,
+        "final": 6.023501341423823
+      },
+      "content_preview": "Paper: Machine Learning for Accelerated Discovery of Solar Photocatalysts\nAuthor: Scientia Professor Rose Amal (Water Research Laboratory|Global Water Institute|Chemical Engineering)\nYear: 2019\n\nAbstract:\nRobust screening of materials on the basis of structure-property-activity relationships to discover active photocatalysts is a highly sought out aspect of photocatalysis research. Recent advancements in machine learning offer considerable opportunities to evolve photocatalysts discovery practic...",
+      "content_full": "Paper: Machine Learning for Accelerated Discovery of Solar Photocatalysts\nAuthor: Scientia Professor Rose Amal (Water Research Laboratory|Global Water Institute|Chemical Engineering)\nYear: 2019\n\nAbstract:\nRobust screening of materials on the basis of structure-property-activity relationships to discover active photocatalysts is a highly sought out aspect of photocatalysis research. Recent advancements in machine learning offer considerable opportunities to evolve photocatalysts discovery practices. Machine learning has largely facilitated various areas of science and engineering, including heterogeneous catalysis, but adaptation of it in photocatalysis research is still at an elementary stage. The scarcity of consistent training data is a major bottleneck, and we foresee the integration of photocatalysis domain knowledge in mainstream machine learning protocols as a viable solution. Here, we present a holistic framework incorporating machine learning and domain knowledge to set directions toward accelerated discovery of solar photocatalysts. This Perspective begins with a discussion on domain knowledge available in photocatalysis which could potentially be leveraged to liaise with machine learning methods. Subsequently, we present prevalent machine learning practices in heterogeneous catalysis tailored to assist discovery of photocatalysts in a purely data-driven fashion. Lastly, we conceptualize various strategies for complementing data-driven machine learning with photocatalysis domain knowledge. The strategies involve the following: (i) integration of theoretical and prior empirical knowledge during the training of machine learning models; (ii) embedding the knowledge in feature space; and (iii) utilizing existing material databases to constrain machine learning predictions. The aforementioned human-in-loop framework (leveraging both human and machine intelligence) could possibly mitigate the lack of interpretability and reliability associated with data-driven machine learning and reinforce complex model architectures irrespective of data scarcity. The concept could also offer substantial benefits to photocatalysis informatics by promoting a paradigm shift away from the Edisonian approach.\n\n[Source: OpenAlex]",
+      "citation": {
+        "type": "publication",
+        "title": "Machine Learning for Accelerated Discovery of Solar Photocatalysts",
+        "year": 2019,
+        "doi": "10.1021/acscatal.9b02531",
+        "url": "https://doi.org/10.1021/acscatal.9b02531",
+        "venue": "ACS Catalysis",
+        "citations_count": 159,
+        "is_open_access": false,
+        "abstract_source": "OpenAlex",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2019). Machine Learning for Accelerated Discovery of Solar Photocatalysts. ACS Catalysis. https://doi.org/10.1021/acscatal.9b02531",
+        "staff": {
+          "name": "Scientia Professor Rose Amal",
+          "email": "r.amal@unsw.edu.au",
+          "school": "Water Research Laboratory|Global Water Institute|Chemical Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/rose-amal"
+        }
+      }
+    },
+    {
+      "citation_id": 5,
+      "chunk_id": "pub_keywords_10.1002/cae.22572",
+      "chunk_type": "publication_keywords",
+      "relevance_scores": {
+        "bm25": 0.0,
+        "vector": 0.520658671115374,
+        "rrf": 0.016129032258064516,
+        "rerank": 5.844225883483887,
+        "final": 5.97933462212562
+      },
+      "content_preview": "Paper: Predicting individual learning performance using machine‐learning hybridized with the teaching‐learning‐based optimization\nAuthor: Dr Ali Kashani\nKeywords: Machine learning, Artificial intelligence, Computer science, Support vector machine, Feature selection, Artificial neural network, Process (computing), Set (abstract data type), Feature (linguistics), Selection (genetic algorithm)",
+      "content_full": "Paper: Predicting individual learning performance using machine‐learning hybridized with the teaching‐learning‐based optimization\nAuthor: Dr Ali Kashani\nKeywords: Machine learning, Artificial intelligence, Computer science, Support vector machine, Feature selection, Artificial neural network, Process (computing), Set (abstract data type), Feature (linguistics), Selection (genetic algorithm)",
+      "citation": {
+        "type": "publication",
+        "title": "Predicting individual learning performance using machine‐learning hybridized with the teaching‐learning‐based optimization",
+        "year": 2022,
+        "doi": "10.1002/cae.22572",
+        "url": "https://doi.org/10.1002/cae.22572",
+        "venue": "Computer Applications in Engineering Education",
+        "citations_count": 60,
+        "is_open_access": true,
+        "abstract_source": "OpenAlex",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2022). Predicting individual learning performance using machine‐learning hybridized with the teaching‐learning‐based optimization. Computer Applications in Engineering Education. https://doi.org/10.1002/cae.22572",
+        "staff": {
+          "name": "Dr Ali Kashani",
+          "email": "ali.kashani@unsw.edu.au",
+          "school": "Civil and Environmental Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/ali-kashani"
+        }
+      }
+    },
+    {
+      "citation_id": 6,
+      "chunk_id": "pub_title_96e61602add07b4df8945e6d30723304",
+      "chunk_type": "publication_title",
+      "relevance_scores": {
+        "bm25": 0.0,
+        "vector": 0.47503980994225903,
+        "rrf": 0.013333333333333334,
+        "rerank": 5.947147369384766,
+        "final": 5.951147369384765
+      },
+      "content_preview": "Title: Machine Learning, Proceedings of the Nineteenth International Conference (ICML 2002), University of New South Wales, Sydney, Australia, July 8-12, 2002\nAuthors: \nPublished: None (2002)\nCitations: 0",
+      "content_full": "Title: Machine Learning, Proceedings of the Nineteenth International Conference (ICML 2002), University of New South Wales, Sydney, Australia, July 8-12, 2002\nAuthors: \nPublished: None (2002)\nCitations: 0",
+      "citation": {
+        "type": "publication",
+        "title": "Machine Learning, Proceedings of the Nineteenth International Conference (ICML 2002), University of New South Wales, Sydney, Australia, July 8-12, 2002",
+        "year": 2002,
+        "doi": null,
+        "url": null,
+        "venue": null,
+        "citations_count": 0,
+        "is_open_access": false,
+        "abstract_source": "none",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2002). Machine Learning, Proceedings of the Nineteenth International Conference (ICML 2002), University of New South Wales, Sydney, Australia, July 8-12, 2002. None.",
+        "staff": {
+          "name": "Professor Claude Sammut",
+          "email": "claude@cse.unsw.edu.au",
+          "school": "Computer Science and Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/claude-sammut"
+        }
+      }
+    },
+    {
+      "citation_id": 7,
+      "chunk_id": "pub_title_10.1109/ICPADS.2017.00020",
+      "chunk_type": "publication_title",
+      "relevance_scores": {
+        "bm25": 0.0,
+        "vector": 0.45623760427580184,
+        "rrf": 0.010416666666666666,
+        "rerank": 5.859180927276611,
+        "final": 5.893180927276611
+      },
+      "content_preview": "Title: Machine learning (Ml)-based air quality monitoring using vehicular sensor networks\nAuthors: \nPublished: None (2017)\nCitations: 0",
+      "content_full": "Title: Machine learning (Ml)-based air quality monitoring using vehicular sensor networks\nAuthors: \nPublished: None (2017)\nCitations: 0",
+      "citation": {
+        "type": "publication",
+        "title": "Machine learning (Ml)-based air quality monitoring using vehicular sensor networks",
+        "year": 2017,
+        "doi": "10.1109/ICPADS.2017.00020",
+        "url": "https://doi.org/10.1109/ICPADS.2017.00020",
+        "venue": null,
+        "citations_count": 0,
+        "is_open_access": false,
+        "abstract_source": "none",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2017). Machine learning (Ml)-based air quality monitoring using vehicular sensor networks. None. https://doi.org/10.1109/ICPADS.2017.00020",
+        "staff": {
+          "name": "Dr Van Duc Le",
+          "email": "duc.le1@unsw.edu.au",
+          "school": "Electrical Engineering and Telecommunications",
+          "profile_url": "https://www.unsw.edu.au/staff/van-duc-le"
+        }
+      }
+    },
+    {
+      "citation_id": 8,
+      "chunk_id": "pub_keywords_10.1007/BFb0017037",
+      "chunk_type": "publication_keywords",
+      "relevance_scores": {
+        "bm25": 0.0,
+        "vector": 0.4794728755951063,
+        "rrf": 0.014285714285714285,
+        "rerank": 5.659219741821289,
+        "final": 5.705082685432488
+      },
+      "content_preview": "Paper: Applications of machine learning: Notes from the panel members\nAuthor: Professor Claude Sammut\nKeywords: Computer science, Artificial intelligence, Panel discussion",
+      "content_full": "Paper: Applications of machine learning: Notes from the panel members\nAuthor: Professor Claude Sammut\nKeywords: Computer science, Artificial intelligence, Panel discussion",
+      "citation": {
+        "type": "publication",
+        "title": "Applications of machine learning: Notes from the panel members",
+        "year": 1991,
+        "doi": "10.1007/BFb0017037",
+        "url": "https://doi.org/10.1007/BFb0017037",
+        "venue": "Lecture notes in computer science",
+        "citations_count": 3,
+        "is_open_access": true,
+        "abstract_source": "none",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (1991). Applications of machine learning: Notes from the panel members. Lecture notes in computer science. https://doi.org/10.1007/BFb0017037",
+        "staff": {
+          "name": "Professor Claude Sammut",
+          "email": "claude@cse.unsw.edu.au",
+          "school": "Computer Science and Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/claude-sammut"
+        }
+      }
+    },
+    {
+      "citation_id": 9,
+      "chunk_id": "pub_abstract_10.1016/j.chphma.2024.06.001",
+      "chunk_type": "publication_abstract",
+      "relevance_scores": {
+        "bm25": 0.5231357,
+        "vector": 0.0,
+        "rrf": 0.014705882352941176,
+        "rerank": 5.566687107086182,
+        "final": 5.691077680382334
+      },
+      "content_preview": "Paper: Navigating micro- and nano-motors/swimmers with machine learning: Challenges and future directions\nAuthor: Dr Hamid Alinejad-Rokny (Biomedical Engineering)\nYear: 2024\n\nAbstract:\nMicro-/nano-motors (MNMs) or swimmers are minuscule machines that can convert various forms of energy, such as chemical, electrical, or magnetic energy, into motion. These devices have attracted significant attention owing to their potential application in a wide range of fields such as drug delivery, sensing, and...",
+      "content_full": "Paper: Navigating micro- and nano-motors/swimmers with machine learning: Challenges and future directions\nAuthor: Dr Hamid Alinejad-Rokny (Biomedical Engineering)\nYear: 2024\n\nAbstract:\nMicro-/nano-motors (MNMs) or swimmers are minuscule machines that can convert various forms of energy, such as chemical, electrical, or magnetic energy, into motion. These devices have attracted significant attention owing to their potential application in a wide range of fields such as drug delivery, sensing, and microfabrication. However, owing to their diverse shapes, sizes, and structural/chemical compositions, the development of MNMs faces several challenges, such as understanding their structure-function relationships, which is crucial for achieving precise control over their motion within complex environments. In recent years, machine learning techniques have shown promise in addressing these challenges and improving the performance of MNMs. Machine learning techniques can analyze large amounts of data, learn from patterns, and make predictions, thereby enabling MNMs to navigate complex environments, avoid obstacles, and perform tasks with higher efficiency and reliability. This review introduces the current state-of-the-art machine learning techniques in MNM research, with a particular focus on employing machine learning to understand and manipulate the navigation and locomotion of MNMs. Finally, we discuss the challenges and opportunities in this field and suggest future research directions.\n\n[Source: OpenAlex]",
+      "citation": {
+        "type": "publication",
+        "title": "Navigating micro- and nano-motors/swimmers with machine learning: Challenges and future directions",
+        "year": 2024,
+        "doi": "10.1016/j.chphma.2024.06.001",
+        "url": "https://doi.org/10.1016/j.chphma.2024.06.001",
+        "venue": "ChemPhysMater",
+        "citations_count": 13,
+        "is_open_access": true,
+        "abstract_source": "OpenAlex",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (2024). Navigating micro- and nano-motors/swimmers with machine learning: Challenges and future directions. ChemPhysMater. https://doi.org/10.1016/j.chphma.2024.06.001",
+        "staff": {
+          "name": "Dr Hamid Alinejad-Rokny",
+          "email": "h.alinejad@unsw.edu.au",
+          "school": "Biomedical Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/hamid-alinejad-rokny"
+        }
+      }
+    },
+    {
+      "citation_id": 10,
+      "chunk_id": "pub_title_d7b7c946da598237a2d6437487d06848",
+      "chunk_type": "publication_title",
+      "relevance_scores": {
+        "bm25": 0.0,
+        "vector": 0.4978164273057286,
+        "rrf": 0.015384615384615385,
+        "rerank": 5.606205463409424,
+        "final": 5.592205463409424
+      },
+      "content_preview": "Title: Machine learning from real-time input-output behaviour\nAuthors: \nPublished: None (1993)\nCitations: 0",
+      "content_full": "Title: Machine learning from real-time input-output behaviour\nAuthors: \nPublished: None (1993)\nCitations: 0",
+      "citation": {
+        "type": "publication",
+        "title": "Machine learning from real-time input-output behaviour",
+        "year": 1993,
+        "doi": null,
+        "url": null,
+        "venue": null,
+        "citations_count": 0,
+        "is_open_access": false,
+        "abstract_source": "none",
+        "authors": [],
+        "keywords": [],
+        "formatted": "Unknown Author (1993). Machine learning from real-time input-output behaviour. None.",
+        "staff": {
+          "name": "Professor Claude Sammut",
+          "email": "claude@cse.unsw.edu.au",
+          "school": "Computer Science and Engineering",
+          "profile_url": "https://www.unsw.edu.au/staff/claude-sammut"
+        }
+      }
+    }
+  ],
+  "search_metadata": {
+    "bm25_results": 50,
+    "vector_results": 40,
+    "fused_results": 83,
+    "reranked": true,
+    "filters_applied": {}
+  },
+  "score_breakdown": {
+    "bm25_scores": [
+      0.66447395,
+      0.0,
+      0.0,
+      1.1642427,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5231357,
+      0.0
+    ],
+    "vector_scores": [
+      0.0,
+      0.461501059621643,
+      0.5075158646000263,
+      0.0,
+      0.520658671115374,
+      0.47503980994225903,
+      0.45623760427580184,
+      0.4794728755951063,
+      0.0,
+      0.4978164273057286
+    ],
+    "rrf_scores": [
+      0.03021353930031804,
+      0.011904761904761904,
+      0.015625,
+      0.01639344262295082,
+      0.016129032258064516,
+      0.013333333333333334,
+      0.010416666666666666,
+      0.014285714285714285,
+      0.014705882352941176,
+      0.015384615384615385
+    ],
+    "rerank_scores": [
+      6.969084739685059,
+      6.0123138427734375,
+      5.940282821655273,
+      5.934749603271484,
+      5.844225883483887,
+      5.947147369384766,
+      5.859180927276611,
+      5.659219741821289,
+      5.566687107086182,
+      5.606205463409424
+    ],
+    "bm25_scores_avg": 0.23518523500000002,
+    "bm25_scores_max": 1.1642427,
+    "bm25_scores_min": 0.0,
+    "vector_scores_avg": 0.3398242312455939,
+    "vector_scores_max": 0.520658671115374,
+    "vector_scores_min": 0.0,
+    "rrf_scores_avg": 0.015839198810936615,
+    "rrf_scores_max": 0.03021353930031804,
+    "rrf_scores_min": 0.010416666666666666,
+    "rerank_scores_avg": 5.933909749984741,
+    "rerank_scores_max": 6.969084739685059,
+    "rerank_scores_min": 5.566687107086182
+  }
+}

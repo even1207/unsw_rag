@@ -1,0 +1,22 @@
+# Core dependencies
+requests
+beautifulsoup4
+sqlalchemy
+psycopg2-binary
+
+# Settings management
+pydantic-settings
+
+# Embeddings and Search
+openai>=1.0.0
+sentence-transformers  # For local embeddings and reranker
+numpy  # Vector operations
+
+# Optional: Reranking
+# cohere  # If using Cohere Rerank API
+
+# Progress bars
+tqdm
+
+# Optional: pgvector support (requires PostgreSQL with pgvector extension)
+# pgvector

@@ -1,0 +1,68 @@
+{
+  "query": "Tell me about Professor Arcot Sowmya",
+  "answer": "Professor Arcot Sowmya is a prominent academic in the field of Computer Science and Engineering at the University of New South Wales (UNSW), where he serves as the Head of School. He holds a PhD in Computer Science from the Indian Institute of Technology, Bombay, and has a significant focus on research areas including Machine Learning and Computer Vision. His work encompasses learning object models, feature extraction, segmentation, and recognition, utilizing various methodologies from machine learning and deep learning. Notably, his research has applications in medical image analysis, which indicates a strong interdisciplinary approach bridging technology and healthcare (Document 1).\n\nAs the Head of the School of Computer Science and Engineering, Professor Sowmya plays a pivotal role in shaping the academic and research landscape of the department (Document 2). His leadership position suggests a commitment not only to advancing research but also to fostering educational excellence within the field. The combination of his research interests and administrative responsibilities underscores his influence and contributions to both the academic community at UNSW and the broader realm of computer science.",
+  "sources": [
+    {
+      "type": "person",
+      "name": "Professor Arcot Sowmya",
+      "school": "Computer Science and Engineering",
+      "profile_url": "https://www.unsw.edu.au/staff/arcot-sowmya"
+    },
+    {
+      "type": "person",
+      "name": "Professor Arcot Sowmya",
+      "school": "Computer Science and Engineering",
+      "profile_url": "https://www.unsw.edu.au/staff/arcot-sowmya"
+    },
+    {
+      "type": "person",
+      "name": "Professor Jayashree Arcot",
+      "school": "Water Research Laboratory|Global Water Institute|Chemical Engineering",
+      "profile_url": "https://www.unsw.edu.au/staff/jayashree-arcot"
+    },
+    {
+      "type": "person",
+      "name": "Professor Jayashree Arcot",
+      "school": "Water Research Laboratory|Global Water Institute|Chemical Engineering",
+      "profile_url": "https://www.unsw.edu.au/staff/jayashree-arcot"
+    },
+    {
+      "type": "person",
+      "name": "Dr Mahesh Suryawanshi",
+      "school": "Photovoltaic and Renewable Energy Engineering",
+      "profile_url": "https://www.unsw.edu.au/staff/mahesh-suryawanshi"
+    },
+    {
+      "type": "person",
+      "name": "Associate Professor Yang Song",
+      "school": "Computer Science and Engineering",
+      "profile_url": "https://www.unsw.edu.au/staff/yang-song"
+    },
+    {
+      "type": "person",
+      "name": "Associate Professor Shaghik Atakaramians",
+      "school": "Electrical Engineering and Telecommunications",
+      "profile_url": "https://www.unsw.edu.au/staff/shaghik-atakaramians"
+    },
+    {
+      "type": "person",
+      "name": "Associate Professor Sushmita Ruj",
+      "school": "Computer Science and Engineering",
+      "profile_url": "https://www.unsw.edu.au/staff/sushmita-ruj"
+    },
+    {
+      "type": "person",
+      "name": "Professor Vijay Sivaraman",
+      "school": "Electrical Engineering and Telecommunications",
+      "profile_url": "https://www.unsw.edu.au/staff/vijay-sivaraman"
+    },
+    {
+      "type": "person",
+      "name": "Professor Aruna Seneviratne",
+      "school": "Electrical Engineering and Telecommunications",
+      "profile_url": "https://www.unsw.edu.au/staff/aruna-seneviratne"
+    }
+  ],
+  "model": "gpt-4o-mini",
+  "tokens_used": 1733
+}
