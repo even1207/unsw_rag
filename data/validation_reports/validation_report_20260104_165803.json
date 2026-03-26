@@ -1,0 +1,600 @@
+{
+  "summary": {
+    "total_publications_validated": 10,
+    "validation_time": "2026-01-04 16:58:03",
+    "sources": {
+      "openalex": {
+        "found": 10,
+        "avg_match_rate": 1.0,
+        "exact_matches": 46,
+        "fuzzy_matches": 0
+      },
+      "semantic_scholar": {
+        "found": 9,
+        "avg_match_rate": 0.7256613756613758,
+        "exact_matches": 24,
+        "fuzzy_matches": 7
+      },
+      "crossref": {
+        "found": 10,
+        "avg_match_rate": 0.93,
+        "exact_matches": 39,
+        "fuzzy_matches": 4
+      }
+    },
+    "overall_accuracy": 0.8852204585537921,
+    "publications_with_issues": [
+      {
+        "doi": "10.1007/s12393-025-09415-8",
+        "title": "Technological Innovations in Freeze Drying: Enhancing Effici",
+        "source": "semantic_scholar",
+        "match_rate": 0.8333333333333334
+      },
+      {
+        "doi": "10.1080/15389588.2022.2048825",
+        "title": "Head excursion in frontal impacts is lower in high back boos",
+        "source": "semantic_scholar",
+        "match_rate": 0.6
+      },
+      {
+        "doi": "10.1016/j.scitotenv.2022.160989",
+        "title": "Nitrification potential of daily-watered biofiltration desig",
+        "source": "semantic_scholar",
+        "match_rate": 0.7142857142857143
+      },
+      {
+        "doi": "10.3390/en15020429",
+        "title": "Challenges and Mitigation Measures in Power Systems with Hig",
+        "source": "semantic_scholar",
+        "match_rate": 0.8
+      },
+      {
+        "doi": "10.1109/JIOT.2022.3189350",
+        "title": "Combining Device Behavioral Models and Building Schema for C",
+        "source": "semantic_scholar",
+        "match_rate": 0.75
+      },
+      {
+        "doi": "10.1109/ICIP.2019.8803718",
+        "title": "Leveraging the Discrete Cosine Basis for Better Motion Model",
+        "source": "semantic_scholar",
+        "match_rate": 0.6666666666666666
+      },
+      {
+        "doi": "10.1016/j.engstruct.2017.11.028",
+        "title": "Elastic buckling of steel arches with discrete lateral brace",
+        "source": "semantic_scholar",
+        "match_rate": 0.5
+      },
+      {
+        "doi": "10.1007/s13042-019-00977-8",
+        "title": "Editorial: Affective and sentimental computing",
+        "source": "semantic_scholar",
+        "match_rate": 0.6666666666666666
+      },
+      {
+        "doi": "10.1007/s12393-025-09415-8",
+        "title": "Technological Innovations in Freeze Drying: Enhancing Effici",
+        "source": "crossref",
+        "match_rate": 0.8333333333333334
+      },
+      {
+        "doi": "10.1080/15389588.2022.2048825",
+        "title": "Head excursion in frontal impacts is lower in high back boos",
+        "source": "crossref",
+        "match_rate": 0.8
+      },
+      {
+        "doi": "10.1109/ICIP.2019.8803718",
+        "title": "Leveraging the Discrete Cosine Basis for Better Motion Model",
+        "source": "crossref",
+        "match_rate": 0.6666666666666666
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "publication_id": "10.1007/s12393-025-09415-8",
+      "doi": "10.1007/s12393-025-09415-8",
+      "title": "Technological Innovations in Freeze Drying: Enhancing Efficiency, Sustainability, and Food Quality",
+      "validation_time": "2026-01-04 16:57:36",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 6,
+          "external_count": 6,
+          "count_match": true,
+          "position_matches": 6,
+          "name_exact_matches": 6,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 6,
+          "external_count": 6,
+          "count_match": true,
+          "position_matches": 5,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 2,
+          "mismatches": [
+            {
+              "position": 4,
+              "db_name": "H Khatun",
+              "external_name": "Husne Ara Khatun",
+              "similarity": 0.67
+            }
+          ],
+          "match_rate": 0.8333333333333334
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 6,
+          "external_count": 6,
+          "count_match": true,
+          "position_matches": 5,
+          "name_exact_matches": 5,
+          "name_fuzzy_matches": 0,
+          "mismatches": [
+            {
+              "position": 4,
+              "db_name": "H Khatun",
+              "external_name": "Husne Ara Khatun",
+              "similarity": 0.67
+            }
+          ],
+          "match_rate": 0.8333333333333334
+        }
+      }
+    },
+    {
+      "publication_id": "10.1109/TCOMM.2011.081211.100691",
+      "doi": "10.1109/TCOMM.2011.081211.100691",
+      "title": "Opportunistic Spectrum Sharing in Cognitive Radio Networks Based on Primary Limited Feedback",
+      "validation_time": "2026-01-04 16:57:40",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        }
+      }
+    },
+    {
+      "publication_id": "10.1080/15389588.2022.2048825",
+      "doi": "10.1080/15389588.2022.2048825",
+      "title": "Head excursion in frontal impacts is lower in high back booster seats than in forward facing child seats with internal harnesses designed for children up to 8 years of age",
+      "validation_time": "2026-01-04 16:57:43",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 5,
+          "external_count": 5,
+          "count_match": true,
+          "position_matches": 5,
+          "name_exact_matches": 5,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 5,
+          "external_count": 5,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 2,
+          "name_fuzzy_matches": 1,
+          "mismatches": [
+            {
+              "position": 1,
+              "db_name": "Lynne E. Bilston",
+              "external_name": "L. Bilston",
+              "similarity": 0.75
+            },
+            {
+              "position": 2,
+              "db_name": "E. N. Clare Mills",
+              "external_name": "Elizabeth Mills",
+              "similarity": 0.67
+            }
+          ],
+          "match_rate": 0.6
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 5,
+          "external_count": 5,
+          "count_match": true,
+          "position_matches": 4,
+          "name_exact_matches": 4,
+          "name_fuzzy_matches": 0,
+          "mismatches": [
+            {
+              "position": 2,
+              "db_name": "E. N. Clare Mills",
+              "external_name": "Elizabeth Mills",
+              "similarity": 0.67
+            }
+          ],
+          "match_rate": 0.8
+        }
+      }
+    },
+    {
+      "publication_id": "10.1016/j.scitotenv.2022.160989",
+      "doi": "10.1016/j.scitotenv.2022.160989",
+      "title": "Nitrification potential of daily-watered biofiltration designs for high ammonium wastewater treatment",
+      "validation_time": "2026-01-04 16:57:45",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 7,
+          "external_count": 7,
+          "count_match": true,
+          "position_matches": 7,
+          "name_exact_matches": 7,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 7,
+          "external_count": 7,
+          "count_match": true,
+          "position_matches": 5,
+          "name_exact_matches": 4,
+          "name_fuzzy_matches": 1,
+          "mismatches": [
+            {
+              "position": 5,
+              "db_name": "Pei‐Ying Hong",
+              "external_name": "P. Hong",
+              "similarity": 0.67
+            },
+            {
+              "position": 7,
+              "db_name": "Ana Deletić",
+              "external_name": "A. Deletic",
+              "similarity": 0.8
+            }
+          ],
+          "match_rate": 0.7142857142857143
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 7,
+          "external_count": 7,
+          "count_match": true,
+          "position_matches": 7,
+          "name_exact_matches": 5,
+          "name_fuzzy_matches": 2,
+          "mismatches": [],
+          "match_rate": 1.0
+        }
+      }
+    },
+    {
+      "publication_id": "10.3390/en15020429",
+      "doi": "10.3390/en15020429",
+      "title": "Challenges and Mitigation Measures in Power Systems with High Share of Renewables—The Australian Experience",
+      "validation_time": "2026-01-04 16:57:48",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 5,
+          "external_count": 5,
+          "count_match": true,
+          "position_matches": 5,
+          "name_exact_matches": 5,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 5,
+          "external_count": 5,
+          "count_match": true,
+          "position_matches": 4,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 1,
+          "mismatches": [
+            {
+              "position": 5,
+              "db_name": "Georgios Konstantinou",
+              "external_name": "G. Konstantinou",
+              "similarity": 0.8
+            }
+          ],
+          "match_rate": 0.8
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 5,
+          "external_count": 5,
+          "count_match": true,
+          "position_matches": 5,
+          "name_exact_matches": 5,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        }
+      }
+    },
+    {
+      "publication_id": "10.1109/JIOT.2022.3189350",
+      "doi": "10.1109/JIOT.2022.3189350",
+      "title": "Combining Device Behavioral Models and Building Schema for Cybersecurity of Large-Scale IoT Infrastructure",
+      "validation_time": "2026-01-04 16:57:51",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 4,
+          "external_count": 4,
+          "count_match": true,
+          "position_matches": 4,
+          "name_exact_matches": 4,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 4,
+          "external_count": 4,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 2,
+          "name_fuzzy_matches": 1,
+          "mismatches": [
+            {
+              "position": 3,
+              "db_name": "Trevor Pering",
+              "external_name": "T. Pering",
+              "similarity": 0.76
+            }
+          ],
+          "match_rate": 0.75
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 4,
+          "external_count": 4,
+          "count_match": true,
+          "position_matches": 4,
+          "name_exact_matches": 4,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        }
+      }
+    },
+    {
+      "publication_id": "10.1109/ICIP.2019.8803718",
+      "doi": "10.1109/ICIP.2019.8803718",
+      "title": "Leveraging the Discrete Cosine Basis for Better Motion Modelling in Highly Textured Video Sequences",
+      "validation_time": "2026-01-04 16:57:53",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 2,
+          "name_exact_matches": 1,
+          "name_fuzzy_matches": 1,
+          "mismatches": [
+            {
+              "position": 2,
+              "db_name": "Aous Thabit Naman",
+              "external_name": "A. Naman",
+              "similarity": 0.58
+            }
+          ],
+          "match_rate": 0.6666666666666666
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 2,
+          "name_exact_matches": 1,
+          "name_fuzzy_matches": 1,
+          "mismatches": [
+            {
+              "position": 2,
+              "db_name": "Aous Thabit Naman",
+              "external_name": "Aous Naman",
+              "similarity": 0.74
+            }
+          ],
+          "match_rate": 0.6666666666666666
+        }
+      }
+    },
+    {
+      "publication_id": "10.1016/j.engstruct.2017.11.028",
+      "doi": "10.1016/j.engstruct.2017.11.028",
+      "title": "Elastic buckling of steel arches with discrete lateral braces",
+      "validation_time": "2026-01-04 16:57:56",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 4,
+          "external_count": 4,
+          "count_match": true,
+          "position_matches": 4,
+          "name_exact_matches": 4,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 4,
+          "external_count": 4,
+          "count_match": true,
+          "position_matches": 2,
+          "name_exact_matches": 2,
+          "name_fuzzy_matches": 0,
+          "mismatches": [
+            {
+              "position": 1,
+              "db_name": "Chao Dou",
+              "external_name": "C. Dou",
+              "similarity": 0.77
+            },
+            {
+              "position": 3,
+              "db_name": "Yong‐Lin Pi",
+              "external_name": "Y. Pi",
+              "similarity": 0.57
+            }
+          ],
+          "match_rate": 0.5
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 4,
+          "external_count": 4,
+          "count_match": true,
+          "position_matches": 4,
+          "name_exact_matches": 4,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        }
+      }
+    },
+    {
+      "publication_id": "10.1007/978-3-319-77525-8_224",
+      "doi": "10.1007/978-3-319-77525-8_224",
+      "title": "Using Big Spatial Data for Planning User Mobility",
+      "validation_time": "2026-01-04 16:57:59",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "error": "Not found"
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 3,
+          "external_count": 3,
+          "count_match": true,
+          "position_matches": 3,
+          "name_exact_matches": 3,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        }
+      }
+    },
+    {
+      "publication_id": "10.1007/s13042-019-00977-8",
+      "doi": "10.1007/s13042-019-00977-8",
+      "title": "Editorial: Affective and sentimental computing",
+      "validation_time": "2026-01-04 16:58:01",
+      "sources": {
+        "openalex": {
+          "source": "OpenAlex",
+          "db_count": 6,
+          "external_count": 6,
+          "count_match": true,
+          "position_matches": 6,
+          "name_exact_matches": 6,
+          "name_fuzzy_matches": 0,
+          "mismatches": [],
+          "match_rate": 1.0
+        },
+        "semantic_scholar": {
+          "source": "Semantic Scholar",
+          "db_count": 6,
+          "external_count": 6,
+          "count_match": true,
+          "position_matches": 4,
+          "name_exact_matches": 4,
+          "name_fuzzy_matches": 0,
+          "mismatches": [
+            {
+              "position": 3,
+              "db_name": "Fu Lee Wang",
+              "external_name": "F. Wang",
+              "similarity": 0.71
+            },
+            {
+              "position": 4,
+              "db_name": "Raymond K. Wong",
+              "external_name": "R. Wong",
+              "similarity": 0.6
+            }
+          ],
+          "match_rate": 0.6666666666666666
+        },
+        "crossref": {
+          "source": "Crossref",
+          "db_count": 6,
+          "external_count": 6,
+          "count_match": true,
+          "position_matches": 6,
+          "name_exact_matches": 5,
+          "name_fuzzy_matches": 1,
+          "mismatches": [],
+          "match_rate": 1.0
+        }
+      }
+    }
+  ]
+}

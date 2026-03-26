@@ -39,7 +39,8 @@ class RAGAnswerGenerator:
         self,
         query: str,
         search_results: List[Dict],
-        max_context_chunks: int = 10
+        max_context_chunks: int = 10,
+        extra_context: Optional[str] = None,
     ) -> Dict:
         """
         Generate answer based on search results
@@ -60,6 +61,8 @@ class RAGAnswerGenerator:
 
         # 1. Build context
         context = self._build_context(search_results[:max_context_chunks])
+        if extra_context:
+            context = f"[Knowledge Graph]\n{extra_context.strip()}\n\n---\n\n{context}"
 
         if not context:
             return {
@@ -110,6 +113,100 @@ class RAGAnswerGenerator:
                 "model": self.model,
                 "tokens_used": 0
             }
+
+    def generate_answer_stream(
+        self,
+        query: str,
+        search_results: List[Dict],
+        max_context_chunks: int = 10,
+        extra_context: Optional[str] = None,
+    ):
+        """
+        Generate answer with streaming support - yields chunks as they're generated
+
+        Args:
+            query: User question
+            search_results: Retrieved relevant documents
+            max_context_chunks: Maximum number of chunks to use as context
+            extra_context: Optional additional context (e.g., from knowledge graph)
+
+        Yields:
+            Tuples of (chunk_text, is_final, metadata)
+            - chunk_text: Text chunk to display
+            - is_final: Whether this is the final chunk
+            - metadata: Additional metadata (sources, tokens, etc.) - only on final chunk
+        """
+
+        # 1. Build context
+        context = self._build_context(search_results[:max_context_chunks])
+        if extra_context:
+            context = f"[Knowledge Graph]\n{extra_context.strip()}\n\n---\n\n{context}"
+
+        if not context:
+            yield (
+                "Sorry, I couldn't find relevant information to answer your question.",
+                True,
+                {
+                    "sources": [],
+                    "model": self.model,
+                    "tokens_used": 0
+                }
+            )
+            return
+
+        # 2. Build prompts
+        system_prompt = self._build_system_prompt()
+        user_prompt = self._build_user_prompt(query, context)
+
+        # 3. Call LLM with streaming enabled
+        try:
+            logger.info(f"Generating streaming answer for query: {query}")
+
+            stream = self.client.chat.completions.create(
+                model=self.model,
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt}
+                ],
+                temperature=self.temperature,
+                max_tokens=self.max_tokens,
+                stream=True
+            )
+
+            # Stream chunks as they arrive
+            for chunk in stream:
+                if chunk.choices[0].delta.content:
+                    content = chunk.choices[0].delta.content
+                    yield (content, False, None)
+
+            # After streaming is complete, send metadata
+            sources = self._extract_sources(search_results[:max_context_chunks])
+
+            # Note: With streaming, we don't get token count from the response
+            # You'd need to estimate or use a separate API call to get usage
+            yield (
+                "",
+                True,
+                {
+                    "sources": sources,
+                    "model": self.model,
+                    "tokens_used": 0  # Not available in streaming mode
+                }
+            )
+
+            logger.info(f"✓ Streaming answer completed")
+
+        except Exception as e:
+            logger.error(f"Failed to generate streaming answer: {e}")
+            yield (
+                f"Error generating answer: {str(e)}",
+                True,
+                {
+                    "sources": [],
+                    "model": self.model,
+                    "tokens_used": 0
+                }
+            )
 
     def _build_context(self, search_results: List[Dict]) -> str:
         """Build context string from search results"""
@@ -174,14 +271,53 @@ Your tasks:
 5. If documents don't contain relevant information, explicitly state this
 6. **Never fabricate, speculate, or add information not present in the documents**
 
-Answer format:
-- Use 2-4 concise paragraphs in English
-- Every point must have document evidence
-- Use bullet points to organize information when appropriate
-- Focus on substantive content: research findings, methods, data, etc.
-- Don't list references in the answer (system will display them automatically)
+CRITICAL FORMATTING RULES - YOU MUST FOLLOW THESE:
+1. **ALWAYS use bullet points or numbered lists** - NEVER write long paragraphs
+2. **Start with a 1-2 sentence overview**, then IMMEDIATELY switch to bullet point format
+3. **Each piece of information = ONE bullet point** (not a long sentence in a paragraph)
+4. **Use blank lines** between sections for readability
+5. Use **bold** for names, key terms, and research areas
+6. Use *italics* for publication titles
+7. Use ### subheadings to organize different aspects
 
-IMPORTANT: Always answer in English."""
+REQUIRED FORMAT TEMPLATE:
+```markdown
+[1-2 sentence overview]
+
+**Key Researchers:**
+- **Prof./Dr. Name** - [Role/Position]
+  - Research focus: [area]
+  - Notable work: *[publication title]* ([year])
+
+- **Prof./Dr. Name** - [Role/Position]
+  - Research focus: [area]
+  - Notable contributions: [brief description]
+
+### Research Areas
+- **[Area 1]**: [description]
+- **[Area 2]**: [description]
+
+### Publications & Contributions
+- *[Title]*: [findings/focus]
+- *[Title]*: [findings/focus]
+```
+
+WRONG (DO NOT DO THIS):
+"Professor Flora Salim is a full professor in the School of Computer Science and Engineering at the University of New South Wales (UNSW) in Sydney, Australia. She also holds the position of Deputy Director (Engagement) at the UNSW AI Institute. Her research focuses primarily on several advanced areas..."
+
+RIGHT (DO THIS):
+Professor Flora Salim is a leading AI researcher at UNSW.
+
+**Position & Roles:**
+- Full Professor, School of Computer Science and Engineering, UNSW
+- Deputy Director (Engagement), UNSW AI Institute
+
+**Research Focus:**
+- Multimodal machine learning
+- Foundation models for time-series and spatio-temporal data
+- AI in behavioral modeling using multimodal sensors
+
+IMPORTANT: Break down information into clear, scannable bullet points. Never write long continuous paragraphs."""
 
     def _build_user_prompt(self, query: str, context: str) -> str:
         """Build user prompt - always in English"""

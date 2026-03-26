@@ -22,13 +22,17 @@ from typing import Optional
 import argparse
 import uvicorn
 from fastapi import FastAPI, HTTPException
+from fastapi.responses import StreamingResponse
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
+import json
 
 # Add project root
 PROJECT_ROOT = Path(__file__).parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from sqlalchemy import create_engine
+from api.routes.collaboration import router as collaboration_router
+from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker, Session
 from config.settings import settings
 from search.hybrid_search import HybridSearchEngine
@@ -52,6 +56,7 @@ class QueryRequest(BaseModel):
     query: str = Field(..., description="User question", min_length=1)
     max_context: int = Field(10, description="Maximum context chunks to use", ge=1, le=20)
     include_sources: bool = Field(True, description="Whether to include source citations")
+    include_kg: bool = Field(True, description="Whether to inject knowledge-graph context when relevant")
     model: Optional[str] = Field(None, description="Override default LLM model")
 
 
@@ -100,6 +105,17 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5174","http://localhost:5173", "http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+app.include_router(collaboration_router, tags=["collaboration"])
+
 
 @app.on_event("startup")
 async def startup_event():
@@ -116,6 +132,7 @@ async def startup_event():
         logger.info(f"Connecting to database: {settings.postgres_dsn}")
         app_state.db_engine = create_engine(settings.postgres_dsn, echo=False)
         app_state.SessionLocal = sessionmaker(bind=app_state.db_engine)
+        app.state.SessionLocal = app_state.SessionLocal
         logger.info("✓ Database connected")
 
         # 2. Initialize embedding generator
@@ -205,7 +222,7 @@ async def health_check():
         try:
             # Test database connection
             with app_state.db_engine.connect() as conn:
-                conn.execute("SELECT 1")
+                conn.execute(text("SELECT 1"))
             database_ok = True
         except:
             pass
@@ -243,6 +260,13 @@ async def ask_question(request: QueryRequest):
         db_session = app_state.SessionLocal()
 
         try:
+            kg_context = None
+            kg_sources = []
+            if request.include_kg:
+                from api.routes.collaboration import build_kg_context_for_query
+
+                kg_context, kg_sources = build_kg_context_for_query(db_session, request.query)
+
             # 1. Search for relevant documents
             logger.info("Searching for relevant documents...")
             search_response = app_state.search_engine.search(
@@ -267,23 +291,29 @@ async def ask_question(request: QueryRequest):
                 answer_data = temp_generator.generate_answer(
                     query=request.query,
                     search_results=search_response['citations'],
-                    max_context_chunks=request.max_context
+                    max_context_chunks=request.max_context,
+                    extra_context=kg_context,
                 )
             else:
                 # Use default generator
                 answer_data = app_state.rag_generator.generate_answer(
                     query=request.query,
                     search_results=search_response['citations'],
-                    max_context_chunks=request.max_context
+                    max_context_chunks=request.max_context,
+                    extra_context=kg_context,
                 )
 
             logger.info(f"✓ Answer generated ({answer_data['tokens_used']} tokens)")
 
             # 3. Prepare response
+            sources = answer_data["sources"] if request.include_sources else []
+            if request.include_sources and kg_sources:
+                sources = kg_sources + sources
+
             response = QueryResponse(
                 query=request.query,
                 answer=answer_data["answer"],
-                sources=answer_data["sources"] if request.include_sources else [],
+                sources=sources,
                 model=answer_data["model"],
                 tokens_used=answer_data["tokens_used"],
                 search_results_count=search_response["total_results"]
@@ -299,6 +329,153 @@ async def ask_question(request: QueryRequest):
         import traceback
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.get("/ask", response_model=QueryResponse, tags=["Q&A"])
+async def ask_question_get(
+    query: str,
+    max_context: int = 10,
+    include_sources: bool = True,
+    include_kg: bool = True,
+    model: Optional[str] = None,
+):
+    """
+    Curl-friendly variant of POST /ask.
+
+    Example:
+      /ask?query=...&include_kg=true&max_context=8
+    """
+    return await ask_question(
+        QueryRequest(
+            query=query,
+            max_context=max_context,
+            include_sources=include_sources,
+            include_kg=include_kg,
+            model=model,
+        )
+    )
+
+
+@app.post("/ask/stream", tags=["Q&A"])
+async def ask_question_stream(request: QueryRequest):
+    """
+    Streaming version of /ask endpoint.
+
+    Returns Server-Sent Events (SSE) with:
+    - Progressive answer chunks as they're generated
+    - Final sources and metadata
+    """
+    if not app_state.initialized:
+        raise HTTPException(status_code=503, detail="Server not fully initialized")
+
+    async def generate():
+        try:
+            logger.info(f"Processing streaming query: {request.query}")
+
+            # Create database session
+            db_session = app_state.SessionLocal()
+
+            try:
+                # Step 1: Start processing
+                yield f"data: {json.dumps({'type': 'status', 'message': 'Starting query processing...'})}\n\n"
+
+                # Step 2: Get KG context if enabled
+                kg_context = None
+                kg_sources = []
+                if request.include_kg:
+                    yield f"data: {json.dumps({'type': 'status', 'message': 'Searching knowledge graph...'})}\n\n"
+                    from api.routes.collaboration import build_kg_context_for_query
+                    kg_context, kg_sources = build_kg_context_for_query(db_session, request.query)
+                    if kg_sources:
+                        yield f"data: {json.dumps({'type': 'kg_found', 'count': len(kg_sources), 'sources': kg_sources})}\n\n"
+
+                # Step 3: Search for relevant documents
+                yield f"data: {json.dumps({'type': 'status', 'message': 'Searching document database...'})}\n\n"
+                search_response = app_state.search_engine.search(
+                    query=request.query,
+                    top_k=request.max_context,
+                    include_scores=True
+                )
+
+                # Step 4: Send document results
+                doc_info = {
+                    'type': 'documents_found',
+                    'count': search_response['total_results'],
+                    'top_documents': [
+                        {
+                            'title': doc.get('title', 'Untitled'),
+                            'score': doc.get('score', 0),
+                            'snippet': doc.get('text', '')[:150] + '...' if len(doc.get('text', '')) > 150 else doc.get('text', '')
+                        }
+                        for doc in search_response['citations'][:3]  # Show top 3
+                    ]
+                }
+                yield f"data: {json.dumps(doc_info)}\n\n"
+
+                # Step 5: Generate answer with real streaming
+                yield f"data: {json.dumps({'type': 'status', 'message': 'Generating answer with LLM...'})}\n\n"
+
+                # Use custom model if specified
+                generator = app_state.rag_generator
+                if request.model:
+                    generator = RAGAnswerGenerator(
+                        model=request.model,
+                        temperature=0.7,
+                        max_tokens=1000
+                    )
+
+                # Step 6: Stream the answer as it's being generated
+                yield f"data: {json.dumps({'type': 'status', 'message': 'Streaming answer...'})}\n\n"
+
+                final_metadata = None
+                for chunk_text, is_final, metadata in generator.generate_answer_stream(
+                    query=request.query,
+                    search_results=search_response['citations'],
+                    max_context_chunks=request.max_context,
+                    extra_context=kg_context,
+                ):
+                    if is_final:
+                        # This is the final chunk with metadata
+                        final_metadata = metadata
+                    else:
+                        # Stream content chunk
+                        chunk_data = {
+                            "type": "chunk",
+                            "content": chunk_text
+                        }
+                        yield f"data: {json.dumps(chunk_data)}\n\n"
+
+                # Step 7: Send final metadata
+                if final_metadata:
+                    sources = final_metadata["sources"] if request.include_sources else []
+                    if request.include_sources and kg_sources:
+                        sources = kg_sources + sources
+
+                    final_data = {
+                        "type": "done",
+                        "sources": sources,
+                        "model": final_metadata["model"],
+                        "tokens_used": final_metadata["tokens_used"],
+                        "search_results_count": search_response["total_results"]
+                    }
+                    yield f"data: {json.dumps(final_data)}\n\n"
+
+            finally:
+                db_session.close()
+
+        except Exception as e:
+            logger.error(f"Error in streaming: {e}")
+            error_data = {"type": "error", "message": str(e)}
+            yield f"data: {json.dumps(error_data)}\n\n"
+
+    return StreamingResponse(
+        generate(),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+        }
+    )
 
 
 # ============================================================================

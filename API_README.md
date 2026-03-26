@@ -63,8 +63,18 @@ curl -X POST "http://localhost:8000/ask" \
      -d '{
        "query": "What are the applications of digital twin?",
        "max_context": 10,
-       "include_sources": true
+       "include_sources": true,
+       "include_kg": true
      }'
+```
+
+You can also use the curl-friendly GET endpoint:
+
+```bash
+curl -G "http://localhost:8000/ask" \
+  --data-urlencode "query=What papers did Wenjie Zhang and Zhengyi Yang coauthor?" \
+  --data-urlencode "include_kg=true" \
+  --data-urlencode "max_context=8"
 ```
 
 ## API Endpoints
@@ -79,6 +89,7 @@ Ask a question and get an answer.
   "query": "Your question here",
   "max_context": 10,
   "include_sources": true,
+  "include_kg": true,
   "model": "gpt-4o-mini"  // optional
 }
 ```
@@ -89,6 +100,12 @@ Ask a question and get an answer.
   "query": "Your question",
   "answer": "Generated answer based on documents...",
   "sources": [
+    {
+      "type": "kg_publication",
+      "title": "Coauthored Paper Title",
+      "year": 2023,
+      "url": "https://doi.org/..."
+    },
     {
       "type": "publication",
       "title": "Paper Title",
@@ -101,6 +118,9 @@ Ask a question and get an answer.
   "search_results_count": 42
 }
 ```
+
+Notes:
+- When `include_kg=true` and the query looks like a collaboration/coauthor query, the API prepends `kg_publication` entries to `sources` to reflect the graph-derived facts used in the answer.
 
 ### `GET /health`
 
@@ -118,6 +138,25 @@ Check server health.
 ### `GET /docs`
 
 Interactive API documentation (Swagger UI).
+
+### Knowledge Graph endpoints
+
+These endpoints query the structured author–publication graph in Postgres (`authors`, `publication_authors`, `publications`).
+
+#### `GET /api/collaborations`
+
+Find coauthored publications.
+
+Examples:
+- `/api/collaborations?author1=Wenjie%20Zhang&author2=Zhengyi%20Yang`
+- `/api/collaborations?author1=Martin%20Green&min_year=2020`
+
+#### `GET /api/authors/{author_name}/coauthors`
+
+Find the coauthor network for a given author (ranked by collaboration count).
+
+Example:
+- `/api/authors/Wenjie%20Zhang/coauthors?min_collaborations=2&limit=50`
 
 ## Performance Comparison
 

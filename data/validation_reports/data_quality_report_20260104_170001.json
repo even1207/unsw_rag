@@ -1,0 +1,68 @@
+{
+  "basic_stats": {
+    "publications": {
+      "total": 62726,
+      "with_doi": 45837,
+      "without_doi": 16889
+    },
+    "authors": {
+      "total": 70004,
+      "unsw_staff": 985,
+      "non_unsw": 69019
+    },
+    "relationships": {
+      "total": 228972
+    }
+  },
+  "coverage": {
+    "publications_with_doi": {
+      "total": 45837,
+      "with_authors": 41318,
+      "without_authors": 4519,
+      "coverage_rate": 0.901411523441761
+    },
+    "author_metadata": {
+      "total": 70004,
+      "with_openalex_id": 70004,
+      "with_orcid": 47674,
+      "with_institution": 57368
+    }
+  },
+  "consistency_issues": [
+    {
+      "type": "author_count_mismatch",
+      "count": 20,
+      "severity": "medium"
+    }
+  ],
+  "unsw_accuracy": {
+    "unsw_authors": {
+      "total": 985,
+      "linked_to_staff": 0,
+      "not_linked": 985
+    }
+  },
+  "missing_data": {
+    "publications_without_authors": 4519,
+    "author_count_distribution": {
+      "zero": 4519,
+      "one": 1338,
+      "normal": 37422,
+      "many": 139,
+      "extreme": 0
+    }
+  },
+  "graph_stats": {},
+  "recommendations": [
+    {
+      "priority": "high",
+      "issue": "9.9% 的论文缺少作者数据",
+      "action": "继续运行 populate_authors_from_openalex.py 完成剩余论文"
+    },
+    {
+      "priority": "high",
+      "issue": "4519 篇论文缺少作者",
+      "action": "检查这些论文的DOI是否有效，考虑使用备用数据源"
+    }
+  ]
+}
